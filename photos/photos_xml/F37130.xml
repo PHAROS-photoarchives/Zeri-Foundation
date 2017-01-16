@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Anonimo , Luciani Sebastiano - sec. XVI - Ritratto di gentiluomo"
+        sercdf="37130"
+        sercdoa="18795">
+		<PARAGRAFO etichetta="CLASSIFICATION">
+			   <SERCD etichetta="SERCD">37130</SERCD>
+			   <SERCDOA etichetta="SERCDOA">18795</SERCDOA>
+			   <INVN etichetta="Inventory number">92289</INVN>
+      <UBFP etichetta="Collection">Fototeca  Zeri</UBFP>
+      <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+      <UBFN etichetta="Container number">0426</UBFN>
+      <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Venezia 2</UBFT>
+      <UBFF etichetta="Folder number">4</UBFF>
+      <UBFU etichetta="Folder heading">Sebastiano del Piombo: ritratti 2</UBFU>
+      <UBFC etichetta="Shelfmark">PI_0426/4/30</UBFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="SUBJECT">
+			   <SGTI etichetta="Subject">Ritratto di gentiluomo</SGTI>
+			   <OGTD etichetta="Object">dipinto</OGTD>
+			   <SGLA etichetta="Attributed title">Luciani Sebastiano - sec. XVI - Ritratto di gentiluomo</SGLA>
+      <SGLS etichetta="Source of title">del catalogatore</SGLS>
+      <FTAT etichetta="Detail / Whole">insieme</FTAT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">positivo</OGTD>
+      <QNTN etichetta="Number of objects">1</QNTN>
+      <OGTB etichetta="Type">m</OGTB>
+      <MTX etichetta="BW/C">BN</MTX>
+			   <MTC etichetta="Medium or materials">gelatina ai sali d'argento/ carta baritata</MTC>
+			   <MISA etichetta="Height">115</MISA>
+			   <MISL etichetta="Length">92</MISL>
+			   <MISU etichetta="Unit of measurement">mm</MISU>
+			   <MISO etichetta="Type of dimensions">supporto primario</MISO>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PHOTOGRAPHER">
+			   <RIPETIZIONE prog="1">
+				     <AUFN etichetta="Photographer">Anonimo</AUFN>
+         <AUFM etichetta="Reason for attribution">n.r.</AUFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Luciani Sebastiano</AUTN>
+         <AUTP etichetta="Pseudonym">Sebastiano del Piombo</AUTP>
+         <AUTB etichetta="Cultural context">Scuola italiana, scuola veneta/ scuola romana</AUTB>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">XX</DTZG>
+      <DTSI etichetta="From">1950</DTSI>
+      <DTSV etichetta="Degree of approximation">ca.</DTSV>
+      <DTSF etichetta="To">1969</DTSF>
+      <DTSL etichetta="Degree of approximation">ca.</DTSL>
+      <DTMM etichetta="Reason for dating">analisi tecnico-formale</DTMM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="STATE OF PRESERVATION">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR>
+      <PVCP etichetta="District">BO</PVCP>
+      <PVCC etichetta="Town / Municipality">Bologna</PVCC>
+      <LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN>
+      <LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU>
+      <LDCM etichetta="Collection">Fototeca Zeri</LDCM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CODES">
+			   <TSK etichetta="Type of entry">F</TSK>
+      <LIR etichetta="Cataloguing level">I</LIR>
+      <NCTR etichetta="Regional code">08</NCTR>
+      <NCTN etichetta="Id. number">92289</NCTN>
+      <ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OWNERSHIP">
+			   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG>
+      <CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="COPYRIGHT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CATALOGUING">
+			   <CMPD etichetta="Cataloguing date">28/09/2005 0.00.00</CMPD>
+      <CMPN etichetta="Cataloguer">Elisabetta Sambo</CMPN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIGITAL IMAGE">
+			   <RIPETIZIONE prog="1">
+				     <FTAT etichetta="Detail / Whole">insieme</FTAT>
+         <FTAN etichetta="File name">\120000\92400\92289.jpg</FTAN>
+         <FTAX etichetta="Attached / Unattached image">allegata</FTAX>
+         <FTAP etichetta="Type">fotografia digitale</FTAP>
+         <VERSO etichetta="Verso">Pubblico</VERSO>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="UPDATING">
+			   <RIPETIZIONE prog="1">
+				     <AGGD etichetta="">28/09/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AGGD etichetta="">06/10/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AGGD etichetta="">14/06/2007</AGGD>
+         <AGGN etichetta="">Monica Cavicchi</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="4">
+				     <AGGD etichetta="">25/03/2009</AGGD>
+         <AGGN etichetta="">Elisa Montecchi</AGGN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="SUPERVISOR">
+			   <FUR etichetta="">Giudici C.</FUR>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO note="Anonimo , Luciani Sebastiano - sec. XVI - Ritratto di gentiluomo - insieme"
+            sercdf="37130"
+            altezza="115"
+            larghezza="92">/120000/92400/92289.jpg</FOTO>
+			   <INTESTAZIONE>Luciani Sebastiano , Ritratto di gentiluomo</INTESTAZIONE>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=F&amp;id=37130</ISSHOWNBY>
+	</SCHEDA>

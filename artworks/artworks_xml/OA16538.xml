@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Circignani Nicolò , Sacra Famiglia" sercdoa="16538">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16538</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15636</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Sacra Famiglia</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Circignani Nicolò</AUTN>
+         <AUTP etichetta="Pseudonym">Pomarancio</AUTP>
+         <AUTS etichetta="Connection with artist">(?)</AUTS>
+         <AUTM>Nota autografa di F. Zeri sul verso della fotografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">seconda metà</DTZS>
+      <DTSI etichetta="From">1550</DTSI>
+      <DTSF etichetta="To">1599</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Roma</PVCC>
+      <LDCN etichetta="Repository">Galleria Spada</LDCN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+			   <ROFF etichetta="Status of work">copia</ROFF>
+      <ROFO etichetta="Initial / Final state">dipinto</ROFO>
+      <ROFS etichetta="Subject of the original / copy">Sacra Famiglia</ROFS>
+      <ROFA etichetta="Author of the original / copy">Bonaccorsi Pietro (Perin del Vaga)</ROFA>
+      <ROFD etichetta="Dating of the original / copy">1547-1549</ROFD>
+      <ROFC etichetta="Place of conservation">
+         <ROFC etichetta="Country">Australia</ROFC>
+         <ROFC etichetta="District">Melbourne</ROFC>
+         <ROFC etichetta="Repository">National Gallery of Victoria</ROFC>
+      </ROFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15634 , 15635 , 15636</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73185.jpg"
+            ftat="insieme"
+            sglt="Roma - La Sacra Famiglia - Francesco Salviati - Galleria Spada"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - La Sacra Famiglia - Francesco Salviati - Galleria Spada - insieme"
+            sercdf="37496"
+            progr="1"
+            misa="261"
+            misl="198">/80000/73200/73185.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16538</ISSHOWNBY>
+	</SCHEDA>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Anonimo sec. XVI , Ercole e Teseo impediscono ai centauri di rapire Ippodamia durante le nozze con Piritoo"
+        sercdoa="16562">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16562</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15655</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Ercole e Teseo impediscono ai centauri di rapire Ippodamia durante le nozze con Piritoo</SGTI>
+      <MTC etichetta="Medium or materials">tela</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">33</MISA>
+      <MISL etichetta="Length">43</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Anonimo sec. XVI</AUTN>
+         <AUTS etichetta="Connection with artist">(?)</AUTS>
+         <AUTM>Nota autografa di F. Zeri</AUTM>
+         <ATBD etichetta="Cultural context">n.r.</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+				     <AAT etichetta="Name">Pippi Giulio</AAT>
+         <AATP etichetta="Pseudonym">Giulio Romano</AATP>
+         <AATM>Nota anonima sul verso della fotografia</AATM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">metà</DTZS>
+      <DTSI etichetta="From">1542</DTSI>
+      <DTSF etichetta="To">1550</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Francia</PVCS>
+      <PVCR etichetta="Region / Federal State">Borgogna</PVCR>
+      <PVCC etichetta="Town / Municipality">Digione</PVCC>
+      <LDCN etichetta="Repository">Musée Magnin</LDCN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+			   <ROFF etichetta="Status of work">derivazione (?)</ROFF>
+      <ROFS etichetta="Subject of the original / copy">Ercole e Teseo impediscono ai centauri di rapire Ippodamia durante le nozze con Piritoo</ROFS>
+      <ROFA etichetta="Author of the original / copy">Bonaccorsi Pietro (Perin del Vaga)</ROFA>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+			   <OSS etichetta="Notes">Da una stampa di Enea Vico datata 1542.</OSS>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73600\73221.jpg"
+            ftat="insieme"
+            sglt="d'après un gravure d'Aeneas Vico. Rapt d'Helen (?)"
+            sgla=""
+            aufn="Musée Magnin de Dijon"
+            aufb=""
+            note="Musée Magnin de Dijon , d&amp;#039;après un gravure d&amp;#039;Aeneas Vico. Rapt d&amp;#039;Helen (?) - insieme"
+            sercdf="37605"
+            progr="1"
+            misa="113"
+            misl="152">/80000/73600/73221.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16562</ISSHOWNBY>
+	</SCHEDA>

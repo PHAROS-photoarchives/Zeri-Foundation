@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Sacra Famiglia con san Giovannino"
+        sercdoa="16558">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16558</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15652</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Sacra Famiglia con san Giovannino</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1527</DTSI>
+      <DTSF etichetta="To">1537</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Liguria</PVCR>
+      <PVCP etichetta="District">Genova</PVCP>
+      <PVCC etichetta="Town / Municipality">Genova</PVCC>
+      <LDCN etichetta="Repository">Santuario di Coronata</LDCN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73600\73218.jpg"
+            ftat="insieme"
+            sglt="Genova-Cornigliano, - Santuario di Coronata, Sacra Famiglia (Pierin del Vaga)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Genova-Cornigliano, - Santuario di Coronata, Sacra Famiglia (Pierin del Vaga) - insieme"
+            sercdf="37602"
+            progr="1"
+            misa="247"
+            misl="195">/80000/73600/73218.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16558</ISSHOWNBY>
+	</SCHEDA>

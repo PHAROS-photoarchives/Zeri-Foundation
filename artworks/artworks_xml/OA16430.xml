@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Storie di Alessandro Magno, San Michele Arcangelo, Imperatore Adriano, Figure allegoriche femminili e medaglioni con storie di san Paolo, Lotta tra creature marine, Trompe-l'oeil con figure maschili"
+        sercdoa="16430">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16430</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15608</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">3</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 1</UBFU>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0350</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Roma. Anonimi 1</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Annibale Duranti, anonimi romani sec. XVI: affreschi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Storie di Alessandro Magno, San Michele Arcangelo, Imperatore Adriano, Figure allegoriche femminili e medaglioni con storie di san Paolo, Lotta tra creature marine, Trompe-l'oeil con figure maschili</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTS etichetta="Connection with artist">e aiuti</AUTS>
+         <AUTM>Documentazione</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">metà</DTZS>
+      <DTSI etichetta="From">1547</DTSI>
+      <DTSF etichetta="To">1547</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Roma</PVCC>
+      <LDCN etichetta="Repository">Castel Sant'Angelo</LDCN>
+      <LDCS etichetta="Precise location">sala Paolina, pareti</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15608 , 16345 , 16346</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+			   <OSS etichetta="Notes">Le fotografie 76502 e Foto INVN 76460 sono collocate nella busta 350 "Pittura italiana sec. XVI. Roma. Anonimi 1", fascicolo 4 intitolato "Annibale Duranti, Anonimi romani sec. XVI: affreschi 2"</OSS>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73126.jpg"
+            ftat="particolare, pareti sud e est"
+            sglt="Roma - Castel S. Angelo. Sala Paolina"
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma - Castel S. Angelo. Sala Paolina - particolare, pareti sud e est"
+            sercdf="37366"
+            progr="1"
+            misa="191"
+            misl="244">/80000/73200/73126.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73127.jpg"
+            ftat="particolare, parete nord"
+            sglt="Roma - S. Michele e le Virtù - Pierin del Vaga - Castel S. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - S. Michele e le Virtù - Pierin del Vaga - Castel S. Angelo - particolare, parete nord"
+            sercdf="37368"
+            progr="2"
+            misa="200"
+            misl="261">/80000/73200/73127.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73128.jpg"
+            ftat="particolare"
+            sglt="Roma - Alessandro taglia il nodo Gordiano - Marco da Siena - Castel S. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Alessandro taglia il nodo Gordiano - Marco da Siena - Castel S. Angelo - particolare"
+            sercdf="37378"
+            progr="3"
+            misa="261"
+            misl="202">/80000/73200/73128.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73143.jpg"
+            ftat="particolare, basamento"
+            sglt="Roma - Combattimento di Centauri - Polidoro da Caravaggio - Castel S. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Combattimento di Centauri - Polidoro da Caravaggio - Castel S. Angelo - particolare, basamento"
+            sercdf="37381"
+            progr="4"
+            misa="200"
+            misl="260">/80000/73200/73143.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73131.jpg"
+            ftat="particolare"
+            sglt="Roma - Dettaglio - La Carità e l'Abbondanza - Pierin del Vaga - Castel S. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Dettaglio - La Carità e l&amp;#039;Abbondanza - Pierin del Vaga - Castel S. Angelo - particolare"
+            sercdf="37391"
+            progr="5"
+            misa="197"
+            misl="260">/80000/73200/73131.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73132.jpg"
+            ftat="particolare"
+            sglt="Roma. Castel S. Angelo. Sala Paolina - Affresco sopra la porta Pierin Del-Vaga"
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma. Castel S. Angelo. Sala Paolina - Affresco sopra la porta Pierin Del-Vaga - particolare"
+            sercdf="37392"
+            progr="6"
+            misa="190"
+            misl="241">/80000/73200/73132.jpg</FOTO>
+			   <FOTO ftan="\80000\76800\76502.jpg"
+            ftat="particolare"
+            sglt="Roma. Castel S. Angelo, Sala Paolina - Segretario di Paolo III. Guido Reni"
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma. Castel S. Angelo, Sala Paolina - Segretario di Paolo III. Guido Reni - particolare"
+            sercdf="70801"
+            progr="7"
+            misa="240"
+            misl="188">/80000/76800/76502.jpg</FOTO>
+			   <FOTO ftan="\80000\76800\76460.jpg"
+            ftat="particolare"
+            sglt="Roma. Castel S. Angelo, Sala Paolina - Segretario di Paolo III. Guido Reni"
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma. Castel S. Angelo, Sala Paolina - Segretario di Paolo III. Guido Reni - particolare"
+            sercdf="70802"
+            progr="8"
+            misa="240"
+            misl="190">/80000/76800/76460.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16430</ISSHOWNBY>
+	</SCHEDA>

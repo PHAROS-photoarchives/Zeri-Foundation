@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Verrocchio Andrea, Leonardo da Vinci , Battesimo di Cristo"
+        sercdoa="14099">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">14099</SERCD>
+			   <NRSCHEDA etichetta="Entry number">11190</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0164</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XV. Firenze. Verrocchio, "Urbino Verrocchiesque Master", Lorenzo di Credi</UBFT>
+         <UBFF etichetta="Folder number">1</UBFF>
+         <UBFU etichetta="Folder heading">Verrocchio</UBFU>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0360</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Milano. Leonardo, copie da Leonardo</UBFT>
+         <UBFF etichetta="Folder number">1</UBFF>
+         <UBFU etichetta="Folder heading">Leonardo da Vinci: tavole 1</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Battesimo di Cristo</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">177</MISA>
+      <MISL etichetta="Length">151</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Verrocchio Andrea</AUTN>
+         <AUTP etichetta="Pseudonym">Verrocchio</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana, scuola fiorentina</ATBD>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AUTN etichetta="Artist's name">Leonardo da Vinci</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana, scuola fiorentina</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XV</DTZG>
+      <DTZS etichetta="Part of century">seconda metà</DTZS>
+      <DTSI etichetta="From">1470</DTSI>
+      <DTSV etichetta="Degree of approximation">ca.</DTSV>
+      <DTSF etichetta="To">1480</DTSF>
+      <DTSL etichetta="Degree of approximation">ca.</DTSL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Toscana</PVCR>
+      <PVCP etichetta="District">Firenze</PVCP>
+      <PVCC etichetta="Town / Municipality">Firenze</PVCC>
+      <LDCN etichetta="Repository">Palazzo degli Uffizi, Galleria degli Uffizi</LDCN>
+      <LDCS etichetta="Precise location">inventario 1890, n. 8358</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+			   <RIPETIZIONE prog="1">
+				     <BIBX etichetta="Type">bibliografia specifica</BIBX>
+         <BIBA etichetta="Author">Zeri F.</BIBA>
+         <BIBG etichetta="Title">Bollettino d'arte. Ministero della Pubblica Istruzione</BIBG>
+         <BIBT etichetta="Title">Il Maestro dell'Annunciazione Gardner</BIBT>
+         <BIBD etichetta="Publication date">1953</BIBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+			   <OSS etichetta="Notes">Le foto che documentano l'opera sono conservate in fascicoli con intestazioni diverse.</OSS>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\160000\132800\132508.jpg"
+            ftat="insieme"
+            sglt="Firenze. Galleria Uffizi. Battesimo di Gesù; Andrea Verrocchio."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Firenze. Galleria Uffizi. Battesimo di Gesù; Andrea Verrocchio. - insieme"
+            sercdf="32465"
+            progr="1"
+            misa="250"
+            misl="198">/160000/132800/132508.jpg</FOTO>
+			   <FOTO ftan="\160000\132800\132509.jpg"
+            ftat="insieme"
+            sglt="Firenze - Galleria Antica e Moderna - Battesimo di Gesù. Andrea Verrocchio"
+            sgla=""
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Firenze - Galleria Antica e Moderna - Battesimo di Gesù. Andrea Verrocchio - insieme"
+            sercdf="32466"
+            progr="2"
+            misa="249"
+            misl="183">/160000/132800/132509.jpg</FOTO>
+			   <FOTO ftan="\160000\132800\132510.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Verrocchio Andrea (Verrocchio); Leonardo da Vinci - sec. XV - Battesimo di Cristo: colomba dello Spirito Santo"
+            aufn="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze"
+            aufb=""
+            note="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze , Verrocchio Andrea (Verrocchio); Leonardo da Vinci - sec. XV - Battesimo di Cristo: colomba dello Spirito Santo - particolare"
+            sercdf="32467"
+            progr="3"
+            misa="249"
+            misl="199">/160000/132800/132510.jpg</FOTO>
+			   <FOTO ftan="\160000\132800\132511.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Verrocchio Andrea (Verrocchio); Leonardo da Vinci - sec. XV - Battesimo di Cristo: mani di Cristo"
+            aufn="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze"
+            aufb=""
+            note="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze , Verrocchio Andrea (Verrocchio); Leonardo da Vinci - sec. XV - Battesimo di Cristo: mani di Cristo - particolare"
+            sercdf="32468"
+            progr="4"
+            misa="263"
+            misl="199">/160000/132800/132511.jpg</FOTO>
+			   <FOTO ftan="\160000\132800\132512.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Verrocchio Andrea (Verrocchio); Leonardo da Vinci - sec. XV - Battesimo di Cristo: piedi di Cristo"
+            aufn="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze"
+            aufb=""
+            note="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze , Verrocchio Andrea (Verrocchio); Leonardo da Vinci - sec. XV - Battesimo di Cristo: piedi di Cristo - particolare"
+            sercdf="32469"
+            progr="5"
+            misa="260"
+            misl="203">/160000/132800/132512.jpg</FOTO>
+			   <FOTO ftan="\160000\132800\132514.jpg"
+            ftat="particolare"
+            sglt="Firenze, Galleria degli Uffizi - Battesimo di Gesù: particolare (Verrocchio)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Firenze, Galleria degli Uffizi - Battesimo di Gesù: particolare (Verrocchio) - particolare"
+            sercdf="32470"
+            progr="6"
+            misa="257"
+            misl="196">/160000/132800/132514.jpg</FOTO>
+			   <FOTO ftan="\160000\132800\132513.jpg"
+            ftat="particolare"
+            sglt="Firenze. Galleria Antica e Moderna. Angeli del Battesimo di Gesù; Leonardo da Vinci."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Firenze. Galleria Antica e Moderna. Angeli del Battesimo di Gesù; Leonardo da Vinci. - particolare"
+            sercdf="32472"
+            progr="7"
+            misa="248"
+            misl="193">/160000/132800/132513.jpg</FOTO>
+			   <FOTO ftan="\160000\132800\132515.jpg"
+            ftat="particolare"
+            sglt="Firenze, Galleria degli Uffizi - Battesimo di Gesù: particolare (Verrocchio)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Firenze, Galleria degli Uffizi - Battesimo di Gesù: particolare (Verrocchio) - particolare"
+            sercdf="32473"
+            progr="8"
+            misa="197"
+            misl="252">/160000/132800/132515.jpg</FOTO>
+			   <FOTO ftan="\80000\78400\78392.jpg"
+            ftat="particolare"
+            sglt="Firenze. Galleria Uffizi. Battesimo di Gesù. (Par.re). Verrocchio"
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Firenze. Galleria Uffizi. Battesimo di Gesù. (Par.re). Verrocchio - particolare"
+            sercdf="72486"
+            progr="9"
+            misa="194"
+            misl="250">/80000/78400/78392.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=14099</ISSHOWNBY>
+	</SCHEDA>

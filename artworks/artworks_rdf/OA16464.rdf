@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:hico="http://purl.org/emmedi/hico/"
+         xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+         xmlns:oaentry="http://purl.org/emmedi/oaentry/"
+         xmlns:fentry="http://www.essepuntato.it/2014/03/fentry/"
+         xmlns:frbr="http://purl.org/vocab/frbr/core#"
+         xmlns:fabio="http://purl.org/spar/fabio/"
+         xmlns:cito="http://purl.org/spar/cito/"
+         xmlns:prov="http://www.w3.org/ns/prov#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:zeri="https://w3id.org/zericatalog/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:pro="http://purl.org/spar/pro/"
+         xmlns:time="http://www.ontologydesignpatterns.org/cp/owl/timeindexedsituation.owl#"
+         xmlns:ti="http://www.ontologydesignpatterns.org/cp/owl/timeinterval.owl#"
+         xmlns:tvc="http://www.essepuntato.it/2012/04/tvc/">
+   <oaentry:OAEntry rdf:about="https://w3id.org/zericatalog/oaentry/15618"
+                    rdf:type="http://www.cidoc-crm.org/cidoc-crm/E31_Document">
+      <rdfs:label xml:lang="it">Scheda OA "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+      <rdfs:label xml:lang="en">OA Entry "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+      <rdfs:comment xml:lang="it">Scheda OA, "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", n. 15618</rdfs:comment>
+      <rdfs:comment xml:lang="en">OA Entry, "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", n. 15618</rdfs:comment>
+      <fabio:hasPortrayal rdf:resource="http://catalogo.fondazionezeri.unibo.it/scheda.jsp?decorator=layout_resp&amp;apply=true&amp;tipo_scheda=OA&amp;id=16464"/>
+      <oaentry:describes rdf:resource="https://w3id.org/zericatalog/artwork/16464"/>
+      <oaentry:describes rdf:resource="https://w3id.org/zericatalog/artwork/16464/manifestation"/>
+      <oaentry:describes rdf:resource="https://w3id.org/zericatalog/artwork/16464/item"/>
+      <crm:P102_has_title>
+         <crm:E35_Title rdf:about="https://w3id.org/zericatalog/oaentry/15618/title">
+            <rdfs:label xml:lang="it">Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche</rdfs:label>
+            <rdfs:label xml:lang="en">Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche</rdfs:label>
+         </crm:E35_Title>
+      </crm:P102_has_title>
+      <crm:P140i_was_attributed_by>
+         <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/oaentry/15618/id-assignment">
+            <rdfs:label xml:lang="it">Assegnazione dell'identificativo: 15618</rdfs:label>
+            <rdfs:label xml:lang="en">Assignment of unique identifier: 15618</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/oaentry/id/15618">
+                  <rdfs:label xml:lang="it">15618</rdfs:label>
+                  <rdfs:label xml:lang="en">15618</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/catalog-entry-number">
+                        <rdfs:label xml:lang="en">Catalog entry number</rdfs:label>
+                        <rdfs:label xml:lang="it">Numero di catalogo della scheda</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E15_Identifier_Assignment>
+      </crm:P140i_was_attributed_by>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15616"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15617"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15618"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15619"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15620"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15616"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15617"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15618"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15619"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/oaentry/15620"/>
+      </frbr:relatedEndeavour>
+      <crm:P94i_was_created_by rdf:resource="https://w3id.org/zericatalog/oaentry/15618/creation"/>
+      <frbr:realization rdf:resource="https://w3id.org/zericatalog/oaentry/15618/expression-1"/>
+      <cito:citesAsEvidence rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/80000/73200/73158.jpg"/>
+      <cito:citesAsEvidence rdf:resource="https://w3id.org/zericatalog/photo/37457/positive/item-fz"/>
+   </oaentry:OAEntry>
+   <crm:E65_Creation rdf:about="https://w3id.org/zericatalog/oaentry/15618/creation">
+      <rdfs:label xml:lang="en">Creation of the OA Entry "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+      <rdfs:label xml:lang="it">Creazione della Scheda OA "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+      <crm:P94_has_created rdf:resource="https://w3id.org/zericatalog/oaentry/15618"/>
+      <crm:P14_carried_out_by>
+         <crm:E21_Person rdf:about="https://w3id.org/zericatalog/person/elisabetta-sambo">
+            <rdfs:label xml:lang="it">Elisabetta Sambo</rdfs:label>
+            <rdfs:label xml:lang="en">Elisabetta Sambo</rdfs:label>
+            <crm:P107i_is_current_or_former_member_of>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri - Università di Bologna</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+               </crm:E40_Legal_Body>
+            </crm:P107i_is_current_or_former_member_of>
+         </crm:E21_Person>
+      </crm:P14_carried_out_by>
+   </crm:E65_Creation>
+   <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/oaentry/15618/expression-1">
+      <rdfs:label xml:lang="it">Contenuto della scheda OA "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+      <rdfs:label xml:lang="en">Content of the OA Entry "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+   </fabio:MetadataDocument>
+   <fabio:ArtisticWork rdf:about="https://w3id.org/zericatalog/artwork/16464"
+                       rdf:type="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object">
+      <rdfs:label xml:lang="en">Artwork "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche" </rdfs:label>
+      <rdfs:label xml:lang="it">Opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche" </rdfs:label>
+      <rdfs:comment xml:lang="en">Artwork "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche" </rdfs:comment>
+      <rdfs:comment xml:lang="it">Opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche" </rdfs:comment>
+      <frbr:partOf>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/artwork/0/80118"/>
+      </frbr:partOf>
+      <frbr:relatedEndeavour>
+         <fabio:ArtisticWork rdf:about="https://w3id.org/zericatalog/artwork/16462"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <fabio:ArtisticWork rdf:about="https://w3id.org/zericatalog/artwork/16463"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <fabio:ArtisticWork rdf:about="https://w3id.org/zericatalog/artwork/16464"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <fabio:ArtisticWork rdf:about="https://w3id.org/zericatalog/artwork/16470"/>
+      </frbr:relatedEndeavour>
+      <frbr:relatedEndeavour>
+         <fabio:ArtisticWork rdf:about="https://w3id.org/zericatalog/artwork/16472"/>
+      </frbr:relatedEndeavour>
+      <crm:P2_has_type>
+         <crm:E55_Type rdf:about="https://w3id.org/zericatalog/object/painted-and-sculpted-decoration">
+            <rdfs:label xml:lang="it">decorazione plastico-pittorica</rdfs:label>
+            <rdfs:label xml:lang="en">painted and sculpted decoration</rdfs:label>
+            <skos:relatedMatch rdf:resource="http://vocab.getty.edu/aat/300229940"/>
+         </crm:E55_Type>
+      </crm:P2_has_type>
+      <fabio:hasSubjectTerm>
+         <fabio:SubjectTerm rdf:about="https://w3id.org/zericatalog/subject/camillo-e-brenno">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+            <rdfs:label xml:lang="it">Camillo e Brenno</rdfs:label>
+         </fabio:SubjectTerm>
+      </fabio:hasSubjectTerm>
+      <fabio:hasSubjectTerm>
+         <fabio:SubjectTerm rdf:about="https://w3id.org/zericatalog/subject/putti-con-trofei-guerreschi">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+            <rdfs:label xml:lang="it">Putti con trofei guerreschi</rdfs:label>
+         </fabio:SubjectTerm>
+      </fabio:hasSubjectTerm>
+      <fabio:hasSubjectTerm>
+         <fabio:SubjectTerm rdf:about="https://w3id.org/zericatalog/subject/allegoria-della-pace">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+            <rdfs:label xml:lang="it">Allegoria della Pace</rdfs:label>
+         </fabio:SubjectTerm>
+      </fabio:hasSubjectTerm>
+      <fabio:hasSubjectTerm>
+         <fabio:SubjectTerm rdf:about="https://w3id.org/zericatalog/subject/grottesche">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_CRM_Entity"/>
+            <rdfs:label xml:lang="it">Grottesche</rdfs:label>
+         </fabio:SubjectTerm>
+      </fabio:hasSubjectTerm>
+      <oaentry:isDescribedBy rdf:resource="https://w3id.org/zericatalog/oaentry/15618"/>
+      <crm:P94i_was_created_by rdf:resource="https://w3id.org/zericatalog/artwork/16464/creation"/>
+      <fabio:hasManifestation>
+         <fabio:AnalogManifestation rdf:about="https://w3id.org/zericatalog/artwork/16464/manifestation">
+            <frbr:exemplar rdf:resource="https://w3id.org/zericatalog/artwork/16464/item"/>
+         </fabio:AnalogManifestation>
+      </fabio:hasManifestation>
+      <foaf:depiction rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/80000/73200/73158.jpg"/>
+   </fabio:ArtisticWork>
+   <crm:E65_Creation rdf:about="https://w3id.org/zericatalog/artwork/16464/creation">
+      <rdfs:label xml:lang="it">Creazione dell'opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", 1530-1533</rdfs:label>
+      <rdfs:label xml:lang="en">Creation of the artwork "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", 1530-1533</rdfs:label>
+      <rdfs:comment xml:lang="it">Creazione dell'opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", 1530-1533</rdfs:comment>
+      <rdfs:comment xml:lang="en">Creation of the artwork "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", 1530-1533</rdfs:comment>
+      <crm:P4_has_time_span>
+         <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/1530-1533">
+            <rdfs:label xml:lang="it">1530-1533</rdfs:label>
+            <rdfs:label xml:lang="en">1530-1533</rdfs:label>
+            <ti:hasIntervalStartDate>1530-01-01T00:00:00Z</ti:hasIntervalStartDate>
+            <ti:hasIntervalEndDate>1533-01-01T00:00:00Z</ti:hasIntervalEndDate>
+            <crm:P86_falls_within>
+               <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/sec-xvi/second-quarter">
+                  <rdfs:label xml:lang="it">sec. XVI secondo quarto</rdfs:label>
+                  <rdfs:label xml:lang="en">sec. XVI second quarter</rdfs:label>
+                  <crm:P86_falls_within>
+                     <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/sec-xvi">
+                        <rdfs:label xml:lang="it">sec. XVI</rdfs:label>
+                        <rdfs:label xml:lang="en">sec. XVI</rdfs:label>
+                     </crm:E52_Time-Span>
+                  </crm:P86_falls_within>
+               </crm:E52_Time-Span>
+            </crm:P86_falls_within>
+         </crm:E52_Time-Span>
+      </crm:P4_has_time_span>
+      <prov:wasGeneratedBy>
+         <hico:InterpretationAct rdf:about="https://w3id.org/zericatalog/artwork/16464/attribution-of-date/1530-1533">
+            <rdfs:label xml:lang="en">Attribution of creation date: 1530-1533</rdfs:label>
+            <rdfs:label xml:lang="it">Attribuzione della data di creazione: 1530-1533</rdfs:label>
+            <rdf:type rdf:resource="http://purl.org/emmedi/hico/InterpretationAct"/>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="https://w3id.org/zericatalog/type-of-attribution/zeri-preferred-attribution">
+                  <rdfs:label xml:lang="en">Zeri Foundation preferred attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione scelta dalla Fondazione Zeri</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="http://purl.org/emmedi/oaentry/date-attribution">
+                  <rdfs:label xml:lang="en">Attribution of date</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione della data</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationCriterion>
+               <hico:InterpretationCriterion rdf:about="https://w3id.org/zericatalog/criterion/cataloguers-choice">
+                  <rdfs:label xml:lang="en">Cataloguer's choice</rdfs:label>
+                  <rdfs:label xml:lang="it">Scelta del catalogatore</rdfs:label>
+               </hico:InterpretationCriterion>
+            </hico:hasInterpretationCriterion>
+            <prov:wasAssociatedWith>
+               <prov:Agent rdf:about="https://w3id.org/zericatalog/organization/crr-mm"/>
+            </prov:wasAssociatedWith>
+            <hico:isExtractedFrom>
+               <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/oaentry/15618/expression-1"/>
+            </hico:isExtractedFrom>
+         </hico:InterpretationAct>
+      </prov:wasGeneratedBy>
+      <crm:P94_has_created rdf:resource="https://w3id.org/zericatalog/artwork/16464"/>
+      <crm:P14_carried_out_by>
+         <crm:E21_Person rdf:about="https://w3id.org/zericatalog/person/x/bonaccorsi-pietro">
+            <rdfs:label xml:lang="it">Bonaccorsi Pietro</rdfs:label>
+            <crm:P131_is_identified_by>
+               <crm:E82_Actor_Appellation rdf:about="https://w3id.org/zericatalog/name/bonaccorsi-pietro">
+                  <rdfs:label xml:lang="it">Bonaccorsi Pietro</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/preferred-name">
+                        <rdfs:label xml:lang="en">Preferred name</rdfs:label>
+                        <rdfs:label xml:lang="it">Nome scelto</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E82_Actor_Appellation>
+            </crm:P131_is_identified_by>
+            <crm:P131_is_identified_by>
+               <crm:E82_Actor_Appellation rdf:about="https://w3id.org/zericatalog/name/perin-del-vaga">
+                  <rdfs:label xml:lang="it">Perin del Vaga</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/pseudonym">
+                        <rdfs:label xml:lang="en">Pseudonym</rdfs:label>
+                        <rdfs:label xml:lang="it">Pseudonimo</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E82_Actor_Appellation>
+            </crm:P131_is_identified_by>
+            <crm:P107i_is_current_or_former_member_of>
+               <crm:E74_Group rdf:about="https://w3id.org/zericatalog/scuola-italiana">
+                  <rdfs:label xml:lang="it">scuola italiana</rdfs:label>
+               </crm:E74_Group>
+            </crm:P107i_is_current_or_former_member_of>
+            <crm:P107i_is_current_or_former_member_of>
+               <crm:E74_Group rdf:about="https://w3id.org/zericatalog/scuola-romana">
+                  <rdfs:label xml:lang="it">scuola romana</rdfs:label>
+               </crm:E74_Group>
+            </crm:P107i_is_current_or_former_member_of>
+         </crm:E21_Person>
+      </crm:P14_carried_out_by>
+      <prov:wasGeneratedBy>
+         <hico:InterpretationAct rdf:about="https://w3id.org/zericatalog/artwork/16464/authorship/bonaccorsi-pietro">
+            <rdfs:label xml:lang="en">Authorship attribution of the artistic work: Bonaccorsi Pietro</rdfs:label>
+            <rdfs:label xml:lang="it">Attribuzione di autorialità dell'opera: Bonaccorsi Pietro</rdfs:label>
+            <rdfs:comment xml:lang="en">Authorship attribution of the artistic work "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche": Bonaccorsi Pietro</rdfs:comment>
+            <rdfs:comment xml:lang="it">Attribuzione di autorialità dell'opera "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche": Bonaccorsi Pietro</rdfs:comment>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="https://w3id.org/zericatalog/type-of-attribution/zeri-preferred-attribution">
+                  <rdfs:label xml:lang="en">Zeri Foundation preferred attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione scelta dalla Fondazione Zeri</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="http://purl.org/emmedi/hico/authorship-attribution">
+                  <rdfs:label xml:lang="en">Authorship attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione di autorialità</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <crm:P3_has_note>Bibliografia</crm:P3_has_note>
+            <hico:hasInterpretationCriterion>
+               <hico:InterpretationCriterion rdf:about="https://w3id.org/zericatalog/criterion/bibliography">
+                  <rdfs:label xml:lang="en">Bibliography</rdfs:label>
+                  <rdfs:label xml:lang="it">Bibliografia</rdfs:label>
+               </hico:InterpretationCriterion>
+            </hico:hasInterpretationCriterion>
+            <prov:wasAssociatedWith>
+               <prov:Agent rdf:about="https://w3id.org/zericatalog/organization/crr-mm"/>
+            </prov:wasAssociatedWith>
+            <hico:isExtractedFrom>
+               <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/oaentry/15618/expression-1"/>
+            </hico:isExtractedFrom>
+         </hico:InterpretationAct>
+      </prov:wasGeneratedBy>
+   </crm:E65_Creation>
+   <fabio:AnalogManifestation rdf:about="https://w3id.org/zericatalog/artwork/16464/manifestation">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+      <rdfs:label xml:lang="en">Artwork "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", painted and sculpted decoration, manifestation</rdfs:label>
+      <rdfs:label xml:lang="it">Opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche", decorazione plastico-pittorica, manifestazione</rdfs:label>
+      <frbr:exemplar rdf:resource="https://w3id.org/zericatalog/artwork/16464/item"/>
+      <crm:P45_consists_of>
+         <crm:E57_Material rdf:about="https://w3id.org/zericatalog/material/fresco">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E57_Material"/>
+            <rdfs:label xml:lang="it">Affresco</rdfs:label>
+            <rdfs:label xml:lang="en">Fresco</rdfs:label>
+            <skos:relatedMatch rdf:resource="http://vocab.getty.edu/aat/300177433"/>
+         </crm:E57_Material>
+      </crm:P45_consists_of>
+      <crm:P39i_was_measured_by>
+         <crm:E16_Measurement rdf:about="https://w3id.org/zericatalog/artwork/16464/item/measurement">
+            <rdfs:label xml:lang="en">Measurement of the artistic work "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+            <rdfs:label xml:lang="it">Misure dell'opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+            <crm:P39_measured rdf:resource="https://w3id.org/zericatalog/artwork/16464/manifestation"/>
+         </crm:E16_Measurement>
+      </crm:P39i_was_measured_by>
+   </fabio:AnalogManifestation>
+   <fabio:AnalogItem rdf:about="https://w3id.org/zericatalog/artwork/16464/item"
+                     rdf:type="http://www.cidoc-crm.org/cidoc-crm/E84_Information_Carrier">
+      <rdfs:label xml:lang="en">Artwork "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche" - exemplar</rdfs:label>
+      <rdfs:label xml:lang="it">Esemplare dell'opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+      <rdfs:comment xml:lang="en">Artwork "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche" - exemplar</rdfs:comment>
+      <rdfs:comment xml:lang="it">Esemplare dell'opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:comment>
+      <foaf:depiction rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/80000/73200/73158.jpg"/>
+      <crm:P108i_was_produced_by rdf:resource="https://w3id.org/zericatalog/artwork/16464/production"/>
+      <crm:P50_has_current_keeper>
+         <crm:E39_Actor rdf:about="https://w3id.org/zericatalog/palazzo-doria-pamphilj-genova">
+            <rdfs:label xml:lang="it">Palazzo Doria Pamphilj</rdfs:label>
+            <crm:P74_has_current_or_former_residence>
+               <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/genova">
+                  <rdfs:label xml:lang="it">Genova</rdfs:label>
+                  <crm:P89_falls_within>
+                     <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/genova-district">
+                        <rdfs:label xml:lang="it">Genova (provincia)</rdfs:label>
+                        <rdfs:label xml:lang="en">Genova (district)</rdfs:label>
+                        <crm:P89_falls_within>
+                           <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/liguria">
+                              <rdfs:label xml:lang="it">Liguria</rdfs:label>
+                              <crm:P89_falls_within>
+                                 <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/italia">
+                                    <rdfs:label xml:lang="it">Italia</rdfs:label>
+                                 </crm:E53_Place>
+                              </crm:P89_falls_within>
+                           </crm:E53_Place>
+                        </crm:P89_falls_within>
+                     </crm:E53_Place>
+                  </crm:P89_falls_within>
+               </crm:E53_Place>
+            </crm:P74_has_current_or_former_residence>
+         </crm:E39_Actor>
+      </crm:P50_has_current_keeper>
+      <crm:P55_has_current_location>
+         <crm:E53_Place rdf:about="https://w3id.org/zericatalog/palazzo-doria-pamphilj-genova/loggia-degli-eroi-quarta-volticella">
+            <rdfs:label xml:lang="it">Palazzo Doria Pamphilj, loggia degli Eroi, quarta volticella</rdfs:label>
+            <crm:P26i_was_destination_of>
+               <crm:E9_Move rdf:about="https://w3id.org/zericatalog/artwork/16464/move-1">
+                  <rdfs:label xml:lang="it">Cambio di collocazione dell'opera "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+                  <rdfs:label xml:lang="en">Moving of the work of art "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+                  <rdfs:comment xml:lang="it">Cambio di collocazione dell'opera "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:comment>
+                  <rdfs:comment xml:lang="en">Moving of the work of art "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:comment>
+                  <crm:P25_moved rdf:resource="https://w3id.org/zericatalog/artwork/16464/item"/>
+                  <crm:P27_moved_from/>
+               </crm:E9_Move>
+            </crm:P26i_was_destination_of>
+         </crm:E53_Place>
+      </crm:P55_has_current_location>
+   </fabio:AnalogItem>
+   <crm:E12_Production rdf:about="https://w3id.org/zericatalog/artwork/16464/production">
+      <rdfs:label xml:lang="en">Artistic work "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche" execution</rdfs:label>
+      <rdfs:label xml:lang="it">Esecuzione dell'opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:label>
+      <rdfs:comment xml:lang="en">Artistic work "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche execution</rdfs:comment>
+      <rdfs:comment xml:lang="it">Esecuzione dell'opera d'arte "Bonaccorsi Pietro , Camillo e Brenno, Putti con trofei guerreschi, Allegoria della Pace, Grottesche"</rdfs:comment>
+      <crm:P32_used_general_technique>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/mixed-techinque">
+            <rdfs:label xml:lang="it">tecnica mista</rdfs:label>
+            <rdfs:label xml:lang="en">mixed techinque</rdfs:label>
+         </rdf:Description>
+      </crm:P32_used_general_technique>
+   </crm:E12_Production>
+</rdf:RDF>

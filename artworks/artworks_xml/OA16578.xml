@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Buonarroti Michelangelo , Isaia" sercdoa="16578">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16578</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15428</NRSCHEDA>
+      <RVEL etichetta="Hierarchical level">14</RVEL>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0393</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Michelangelo 1</UBFT>
+         <UBFF etichetta="Folder number">3</UBFF>
+         <UBFU etichetta="Folder heading">Michelangelo: cappella Sistina 3</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTV etichetta="Identification">elemento d'insieme</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Isaia</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Buonarroti Michelangelo</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">inizio</DTZS>
+      <DTSI etichetta="From">1509</DTSI>
+      <DTSF etichetta="To">1509</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Città del Vaticano</PVCS>
+      <PVCC etichetta="Town / Municipality">Città del Vaticano</PVCC>
+      <LDCN etichetta="Repository">Palazzi Vaticani, Cappella Sistina</LDCN>
+      <LDCS etichetta="Precise location">volta</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">Affreschi di Michelangelo nella volta della Cappella Sistina</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\120000\85600\85266.jpg"
+            ftat="insieme"
+            sglt="Roma - Vaticano, Cappella Sistina - Il Profeta Isaia; Michelangiolo."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Roma - Vaticano, Cappella Sistina - Il Profeta Isaia; Michelangiolo. - insieme"
+            sercdf="37757"
+            progr="1"
+            misa="250"
+            misl="197">/120000/85600/85266.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85264.jpg"
+            ftat="insieme"
+            sglt="Isaia - M. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Isaia - M. Angelo - insieme"
+            sercdf="37758"
+            progr="2"
+            misa="258"
+            misl="194">/120000/85600/85264.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85265.jpg"
+            ftat="insieme"
+            sglt="Roma - Vaticano, Cappella Sistina - Il Profeta Isaia; Michelangiolo."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Roma - Vaticano, Cappella Sistina - Il Profeta Isaia; Michelangiolo. - insieme"
+            sercdf="37759"
+            progr="3"
+            misa="248"
+            misl="194">/120000/85600/85265.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16578</ISSHOWNBY>
+	</SCHEDA>

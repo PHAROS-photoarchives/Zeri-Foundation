@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Buonarroti Michelangelo , Crocifissione di san Pietro"
+        sercdoa="16559">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16559</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15426</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0394</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Michelangelo 2</UBFT>
+         <UBFF etichetta="Folder number">2</UBFF>
+         <UBFU etichetta="Folder heading">Michelangelo: cappella Paolina</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Crocifissione di san Pietro</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">625</MISA>
+      <MISL etichetta="Length">661</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Buonarroti Michelangelo</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">metà</DTZS>
+      <DTSI etichetta="From">1545</DTSI>
+      <DTSF etichetta="To">1550</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Città del Vaticano</PVCS>
+      <PVCC etichetta="Town / Municipality">Città del Vaticano</PVCC>
+      <LDCN etichetta="Repository">Palazzi Vaticani, Cappella Paolina</LDCN>
+      <LDCS etichetta="Precise location">parete destra</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15425 , 15426</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\160000\146000\145630.jpg"
+            ftat="insieme"
+            sglt="Roma - Palazzo Vaticano, Cappella Paolina. La Crocifissione di S. Pietro. (Michelangiolo.)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma - Palazzo Vaticano, Cappella Paolina. La Crocifissione di S. Pietro. (Michelangiolo.) - insieme"
+            sercdf="37562"
+            progr="1"
+            misa="193"
+            misl="250">/160000/146000/145630.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145629.jpg"
+            ftat="insieme"
+            sglt="Roma - Palazzo Vaticano, Cappella Paolina. La Crocifissione di S. Pietro. (Michelangiolo.)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma - Palazzo Vaticano, Cappella Paolina. La Crocifissione di S. Pietro. (Michelangiolo.) - insieme"
+            sercdf="37561"
+            progr="2"
+            misa="192"
+            misl="248">/160000/146000/145629.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145617.jpg"
+            ftat="particolare, parte superiore sinistra, volto di cavaliere"
+            sglt="Roma - Part. del Martirio di S. Pietro - Michelangelo - Capp. Paolina"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Part. del Martirio di S. Pietro - Michelangelo - Capp. Paolina - particolare, parte superiore sinistra, volto di cavaliere"
+            sercdf="37563"
+            progr="3"
+            misa="259"
+            misl="199">/160000/146000/145617.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145616.jpg"
+            ftat="particolare, parte superiore sinistra: volto di cavaliere"
+            sglt="Roma - Part. del Martirio di S. Pietro - Michelangelo - Capp. Paolina"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Part. del Martirio di S. Pietro - Michelangelo - Capp. Paolina - particolare, parte superiore sinistra: volto di cavaliere"
+            sercdf="37565"
+            progr="4"
+            misa="260"
+            misl="199">/160000/146000/145616.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145625.jpg"
+            ftat="particolare, parte inferiore sinistra"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Soldati"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Buonarroti Michelangelo - sec. XVI - Soldati - particolare, parte inferiore sinistra"
+            sercdf="37564"
+            progr="5"
+            misa="228"
+            misl="165">/160000/146000/145625.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145624.jpg"
+            ftat="particolare, parte superiore destra"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Crocifissione di san Pietro: carnefici e astanti"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Buonarroti Michelangelo - sec. XVI - Crocifissione di san Pietro: carnefici e astanti - particolare, parte superiore destra"
+            sercdf="37566"
+            progr="6"
+            misa="170"
+            misl="230">/160000/146000/145624.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145628.jpg"
+            ftat="particolare, parte centrale"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Volto di San pietro"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Buonarroti Michelangelo - sec. XVI - Volto di San pietro - particolare, parte centrale"
+            sercdf="37567"
+            progr="7"
+            misa="227"
+            misl="170">/160000/146000/145628.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145618.jpg"
+            ftat="particolare, parte centrale, volto di carnefice"
+            sglt="Roma - Part. del Martirio di S. Pietro - Michelangelo - Capp. Paolina"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Part. del Martirio di S. Pietro - Michelangelo - Capp. Paolina - particolare, parte centrale, volto di carnefice"
+            sercdf="37568"
+            progr="8"
+            misa="260"
+            misl="199">/160000/146000/145618.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145627.jpg"
+            ftat="particolare, parte superiore destra"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Crocifissione di san Pietro: astanti"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Buonarroti Michelangelo - sec. XVI - Crocifissione di san Pietro: astanti - particolare, parte superiore destra"
+            sercdf="37569"
+            progr="9"
+            misa="226"
+            misl="169">/160000/146000/145627.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145626.jpg"
+            ftat="particolare, parte inferiore destra"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Crocifissione di san Pietro: astanti"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Buonarroti Michelangelo - sec. XVI - Crocifissione di san Pietro: astanti - particolare, parte inferiore destra"
+            sercdf="37570"
+            progr="10"
+            misa="228"
+            misl="171">/160000/146000/145626.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16559</ISSHOWNBY>
+	</SCHEDA>

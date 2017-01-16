@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Buonarroti Michelangelo , Peccato originale, Cacciata di Adamo ed Eva dal paradiso terrestre"
+        sercdoa="16570">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16570</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15428</NRSCHEDA>
+      <RVEL etichetta="Hierarchical level">6</RVEL>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0393</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Michelangelo 1</UBFT>
+         <UBFF etichetta="Folder number">2</UBFF>
+         <UBFU etichetta="Folder heading">Michelangelo: cappella Sistina 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTV etichetta="Identification">elemento d'insieme</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Peccato originale, Cacciata di Adamo ed Eva dal paradiso terrestre</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Buonarroti Michelangelo</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1509</DTSI>
+      <DTSF etichetta="To">1510</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Città del Vaticano</PVCS>
+      <PVCC etichetta="Town / Municipality">Città del Vaticano</PVCC>
+      <LDCN etichetta="Repository">Palazzi Vaticani, Cappella Sistina</LDCN>
+      <LDCS etichetta="Precise location">volta</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">Affreschi di Michelangelo nella volta della Cappella Sistina</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\120000\85200\85128.jpg"
+            ftat="insieme"
+            sglt="Roma - Il peccato originale - Michelangelo - Cappella Sistina, Vaticano"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Il peccato originale - Michelangelo - Cappella Sistina, Vaticano - insieme"
+            sercdf="38296"
+            progr="1"
+            misa="198"
+            misl="259">/120000/85200/85128.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85129.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Peccato originale; Cacciata di Adamo ed Eva dal paradiso terrestre"
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Buonarroti Michelangelo - sec. XVI - Peccato originale; Cacciata di Adamo ed Eva dal paradiso terrestre - insieme"
+            sercdf="38298"
+            progr="2"
+            misa="197"
+            misl="251">/120000/85200/85129.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85130.jpg"
+            ftat="insieme"
+            sglt="Peccato originale di Michelangelo (Capp. Sistina)"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Peccato originale di Michelangelo (Capp. Sistina) - insieme"
+            sercdf="38299"
+            progr="3"
+            misa="194"
+            misl="258">/120000/85200/85130.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85131.jpg"
+            ftat="insieme"
+            sglt="Roma - Palazzo Vaticano, Cappella Sistina. Il Peccato originale e l'espulsione dal Paradiso terrestre. (Michelangiolo.)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma - Palazzo Vaticano, Cappella Sistina. Il Peccato originale e l&amp;#039;espulsione dal Paradiso terrestre. (Michelangiolo.) - insieme"
+            sercdf="38302"
+            progr="4"
+            misa="201"
+            misl="260">/120000/85200/85131.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85132.jpg"
+            ftat="insieme"
+            sglt="Roma - Peccato originale."
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma - Peccato originale. - insieme"
+            sercdf="38306"
+            progr="5"
+            misa="199"
+            misl="243">/120000/85200/85132.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85133.jpg"
+            ftat="insieme"
+            sglt="Roma. Vaticano, Cappella Sistina. Il Peccato originale e la Cacciata dal Paradiso; Michelangiolo."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Roma. Vaticano, Cappella Sistina. Il Peccato originale e la Cacciata dal Paradiso; Michelangiolo. - insieme"
+            sercdf="38308"
+            progr="6"
+            misa="200"
+            misl="249">/120000/85200/85133.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85135.jpg"
+            ftat="particolare"
+            sglt="Roma. Vaticano, Cappella Sistina - Il peccato originale (Michelangelo)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma. Vaticano, Cappella Sistina - Il peccato originale (Michelangelo) - particolare"
+            sercdf="38310"
+            progr="7"
+            misa="256"
+            misl="196">/120000/85200/85135.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85136.jpg"
+            ftat="particolare"
+            sglt="Roma - Michelangelo - Il Peccato originale (Capp. Sistina)"
+            sgla=""
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Roma - Michelangelo - Il Peccato originale (Capp. Sistina) - particolare"
+            sercdf="38311"
+            progr="8"
+            misa="238"
+            misl="179">/120000/85200/85136.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85137.jpg"
+            ftat="particolare"
+            sglt="Roma (Vaticano), Capp. Sistina - Eva, partic. del Peccato originale (Michelangelo)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma (Vaticano), Capp. Sistina - Eva, partic. del Peccato originale (Michelangelo) - particolare"
+            sercdf="38312"
+            progr="9"
+            misa="259"
+            misl="195">/120000/85200/85137.jpg</FOTO>
+			   <FOTO ftan="\120000\85200\85134.jpg"
+            ftat="particolare"
+            sglt="Roma. Palazzo Vaticano, Cappella Sistina. Adamo ed Eva scacciati dal Paradiso terrestre, dettaglio. (Michelangiolo.)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma. Palazzo Vaticano, Cappella Sistina. Adamo ed Eva scacciati dal Paradiso terrestre, dettaglio. (Michelangiolo.) - particolare"
+            sercdf="38314"
+            progr="10"
+            misa="255"
+            misl="198">/120000/85200/85134.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16570</ISSHOWNBY>
+	</SCHEDA>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Guidotti, Bartolomeo , Bonasone Giulio - sec. XVI - Nascita di san Giovanni Battista"
+        sercdf="37072"
+        sercdoa="16602">
+		<PARAGRAFO etichetta="CLASSIFICATION">
+			   <SERCD etichetta="SERCD">37072</SERCD>
+			   <SERCDOA etichetta="SERCDOA">16602</SERCDOA>
+			   <INVN etichetta="Inventory number">73873</INVN>
+      <UBFP etichetta="Collection">Fototeca  Zeri</UBFP>
+      <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+      <UBFN etichetta="Container number">0338</UBFN>
+      <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Roma. Jacopino del Conte, Marcello Venusti</UBFT>
+      <UBFF etichetta="Folder number">1</UBFF>
+      <UBFU etichetta="Folder heading">Jacopino del Conte</UBFU>
+      <UBFC etichetta="Shelfmark">PI_0338/1/1</UBFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="SUBJECT">
+			   <SGTI etichetta="Subject">Nascita di san Giovanni Battista</SGTI>
+			   <OGTD etichetta="Object">incisione</OGTD>
+			   <SGLA etichetta="Attributed title">Bonasone Giulio - sec. XVI - Nascita di san Giovanni Battista</SGLA>
+      <SGLS etichetta="Source of title">del catalogatore</SGLS>
+      <FTAT etichetta="Detail / Whole">insieme</FTAT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">positivo</OGTD>
+      <QNTN etichetta="Number of objects">1</QNTN>
+      <OGTB etichetta="Type">m</OGTB>
+      <MTX etichetta="BW/C">BN</MTX>
+			   <MTC etichetta="Medium or materials">gelatina ai sali d'argento/ carta baritata</MTC>
+			   <MISA etichetta="Height">113</MISA>
+			   <MISL etichetta="Length">164</MISL>
+			   <MISU etichetta="Unit of measurement">mm</MISU>
+			   <MISO etichetta="Type of dimensions">supporto primario</MISO>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PHOTOGRAPHER">
+			   <RIPETIZIONE prog="1">
+				     <AUFN etichetta="Photographer">Guidotti, Bartolomeo</AUFN>
+         <AUFI etichetta="Address">Foto Guidotti. Tel. 581660 - Roma</AUFI>
+         <AUFM etichetta="Reason for attribution">timbro</AUFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonasone Giulio</AUTN>
+         <AUTB etichetta="Cultural context">Scuola italiana, scuola emiliana</AUTB>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">XX</DTZG>
+      <DTSI etichetta="From">1940</DTSI>
+      <DTSV etichetta="Degree of approximation">ca.</DTSV>
+      <DTSF etichetta="To">1951</DTSF>
+      <DTSL etichetta="Degree of approximation">ante</DTSL>
+      <DTMM etichetta="Reason for dating">analisi tecnico-formale/ bibliografia</DTMM>
+      <DTMS etichetta="Source of dating">Zeri F. "Intorno a Gerolamo Siciolante", in "Bollettino d'Arte" 1951</DTMS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">
+			   <LRD etichetta="Shot date">1951/ ante</LRD>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="STATE OF PRESERVATION">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR>
+      <PVCP etichetta="District">BO</PVCP>
+      <PVCC etichetta="Town / Municipality">Bologna</PVCC>
+      <LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN>
+      <LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU>
+      <LDCM etichetta="Collection">Fototeca Zeri</LDCM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CODES">
+			   <TSK etichetta="Type of entry">F</TSK>
+      <LIR etichetta="Cataloguing level">I</LIR>
+      <NCTR etichetta="Regional code">08</NCTR>
+      <NCTN etichetta="Id. number">73873</NCTN>
+      <ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OWNERSHIP">
+			   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG>
+      <CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="COPYRIGHT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CATALOGUING">
+			   <CMPD etichetta="Cataloguing date">08/07/2005 0.00.00</CMPD>
+      <CMPN etichetta="Cataloguer">Elisabetta Sambo</CMPN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIGITAL IMAGE">
+			   <RIPETIZIONE prog="1">
+				     <FTAT etichetta="Detail / Whole">insieme</FTAT>
+         <FTAN etichetta="File name">\80000\74000\73873.jpg</FTAN>
+         <FTAX etichetta="Attached / Unattached image">allegata</FTAX>
+         <FTAP etichetta="Type">fotografia digitale</FTAP>
+         <VERSO etichetta="Verso">Pubblico</VERSO>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="UPDATING">
+			   <RIPETIZIONE prog="1">
+				     <AGGD etichetta="">08/07/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AGGD etichetta="">13/07/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AGGD etichetta="">14/07/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="4">
+				     <AGGD etichetta="">06/10/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="5">
+				     <AGGD etichetta="">17/11/2008</AGGD>
+         <AGGN etichetta="">Monica Cavicchi</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="6">
+				     <AGGD etichetta="">19/07/2010</AGGD>
+         <AGGN etichetta="">Francesca Mambelli</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="7">
+				     <AGGD etichetta="">24/08/2010</AGGD>
+         <AGGN etichetta="">Francesca Mambelli</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="8">
+				     <AGGD etichetta="">20/06/2013</AGGD>
+         <AGGN etichetta="">Marcello Rossini</AGGN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="SUPERVISOR">
+			   <FUR etichetta="">Giudici C.</FUR>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO note="Guidotti, Bartolomeo , Bonasone Giulio - sec. XVI - Nascita di san Giovanni Battista - insieme"
+            sercdf="37072"
+            altezza="113"
+            larghezza="164">/80000/74000/73873.jpg</FOTO>
+			   <INTESTAZIONE>Bonasone Giulio , Nascita di san Giovanni Battista</INTESTAZIONE>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=F&amp;id=37072</ISSHOWNBY>
+	</SCHEDA>

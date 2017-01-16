@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Anonimo , Carate Brianza, Coll. Privata. M. Pino: la resurrezione di Lazzaro."
+        sercdf="36690"
+        sercdoa="17432">
+		<PARAGRAFO etichetta="CLASSIFICATION">
+			   <SERCD etichetta="SERCD">36690</SERCD>
+			   <SERCDOA etichetta="SERCDOA">17432</SERCDOA>
+			   <INVN etichetta="Inventory number">74344</INVN>
+      <UBFP etichetta="Collection">Fototeca  Zeri</UBFP>
+      <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+      <UBFN etichetta="Container number">0340</UBFN>
+      <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Roma. Cesura, Rubiali, Pico, Matteo da Lecce, Marco da Siena, Zuccari</UBFT>
+      <UBFF etichetta="Folder number">2</UBFF>
+      <UBFU etichetta="Folder heading">Marco da Siena</UBFU>
+      <UBFC etichetta="Shelfmark">PI_0340/2/1</UBFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="SUBJECT">
+			   <SGTI etichetta="Subject">Resurrezione di Lazzaro</SGTI>
+			   <OGTD etichetta="Object">dipinto</OGTD>
+			   <SGLT etichetta="Proper title">Carate Brianza, Coll. Privata. M. Pino: la resurrezione di Lazzaro.</SGLT>
+      <SGLS etichetta="Source of title">dattiloscritto su etichetta sul verso</SGLS>
+      <FTAT etichetta="Detail / Whole">insieme</FTAT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">positivo</OGTD>
+      <QNTN etichetta="Number of objects">1</QNTN>
+      <OGTB etichetta="Type">m</OGTB>
+      <MTX etichetta="BW/C">BN</MTX>
+			   <MTC etichetta="Medium or materials">gelatina ai sali d'argento/ carta baritata</MTC>
+			   <MISA etichetta="Height">153</MISA>
+			   <MISL etichetta="Length">230</MISL>
+			   <MISU etichetta="Unit of measurement">mm</MISU>
+			   <MISO etichetta="Type of dimensions">supporto primario</MISO>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PHOTOGRAPHER">
+			   <RIPETIZIONE prog="1">
+				     <AUFN etichetta="Photographer">Anonimo</AUFN>
+         <AUFM etichetta="Reason for attribution">n.r.</AUFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Pino Marco</AUTN>
+         <AUTP etichetta="Pseudonym">Marco da Siena</AUTP>
+         <AUTB etichetta="Cultural context">Scuola italiana, scuola toscana, scuola senese</AUTB>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">XX</DTZG>
+      <DTSI etichetta="From">1957</DTSI>
+      <DTSV etichetta="Degree of approximation">ca.</DTSV>
+      <DTSF etichetta="To">1957</DTSF>
+      <DTSL etichetta="Degree of approximation">ca.</DTSL>
+      <DTMM etichetta="Reason for dating">analisi tecnico-formale/ bibliografia</DTMM>
+      <DTMS etichetta="Source of dating">Zeri F., "Pittura e Controriforma", 1957</DTMS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">
+			   <LRD etichetta="Shot date">1957/ ante</LRD>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="STATE OF PRESERVATION">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR>
+      <PVCP etichetta="District">BO</PVCP>
+      <PVCC etichetta="Town / Municipality">Bologna</PVCC>
+      <LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN>
+      <LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU>
+      <LDCM etichetta="Collection">Fototeca Zeri</LDCM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CODES">
+			   <TSK etichetta="Type of entry">F</TSK>
+      <LIR etichetta="Cataloguing level">I</LIR>
+      <NCTR etichetta="Regional code">08</NCTR>
+      <NCTN etichetta="Id. number">74344</NCTN>
+      <ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OWNERSHIP">
+			   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG>
+      <CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="COPYRIGHT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CATALOGUING">
+			   <CMPD etichetta="Cataloguing date">29/08/2005 0.00.00</CMPD>
+      <CMPN etichetta="Cataloguer">Elisabetta Sambo</CMPN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIGITAL IMAGE">
+			   <RIPETIZIONE prog="1">
+				     <FTAT etichetta="Detail / Whole">insieme</FTAT>
+         <FTAN etichetta="File name">\80000\74400\74344.jpg</FTAN>
+         <FTAX etichetta="Attached / Unattached image">allegata</FTAX>
+         <FTAP etichetta="Type">fotografia digitale</FTAP>
+         <VERSO etichetta="Verso">Pubblico</VERSO>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="UPDATING">
+			   <RIPETIZIONE prog="1">
+				     <AGGD etichetta="">29/08/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AGGD etichetta="">06/10/2005</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AGGD etichetta="">03/11/2006</AGGD>
+         <AGGN etichetta="">Chiara Basalti</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="4">
+				     <AGGD etichetta="">18/11/2008</AGGD>
+         <AGGN etichetta="">Giulia Alberti</AGGN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="SUPERVISOR">
+			   <FUR etichetta="">Giudici C.</FUR>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO note="Anonimo , Carate Brianza, Coll. Privata. M. Pino: la resurrezione di Lazzaro. - insieme"
+            sercdf="36690"
+            altezza="153"
+            larghezza="230">/80000/74400/74344.jpg</FOTO>
+			   <INTESTAZIONE>Pino Marco , Resurrezione di Lazzaro</INTESTAZIONE>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=F&amp;id=36690</ISSHOWNBY>
+	</SCHEDA>

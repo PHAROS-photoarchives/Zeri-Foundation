@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Trionfi di Lucio Emilio Paolo, Trionfo di Bacco, Divinità, Episodi di storia romana"
+        sercdoa="16516">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16516</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15624</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">decorazione plastico-pittorica</OGTD>
+      <OGTT etichetta="Object type">dipinto/ scultura</OGTT>
+      <SGTI etichetta="Subject">Trionfi di Lucio Emilio Paolo, Trionfo di Bacco, Divinità, Episodi di storia romana</SGTI>
+      <MTC etichetta="Medium or materials">stucco, affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">secondo quarto</DTZS>
+      <DTSI etichetta="From">1530</DTSI>
+      <DTSF etichetta="To">1530</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Liguria</PVCR>
+      <PVCP etichetta="District">Genova</PVCP>
+      <PVCC etichetta="Town / Municipality">Genova</PVCC>
+      <LDCN etichetta="Repository">Palazzo Doria Pamphilj</LDCN>
+      <LDCS etichetta="Precise location">atrio</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73167.jpg"
+            ftat="particolare"
+            sglt="Genova - Palazzo Doria Pamphili - Porzione del soffitto del Vestibolo; Pierin del Vaga."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Genova - Palazzo Doria Pamphili - Porzione del soffitto del Vestibolo; Pierin del Vaga. - particolare"
+            sercdf="37478"
+            progr="1"
+            misa="251"
+            misl="200">/80000/73200/73167.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73168.jpg"
+            ftat="particolare"
+            sglt="Palazzo Doria Pamphili. Porzione del soffitto del Vestibolo con affreschi di Pierin del Vaga."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Palazzo Doria Pamphili. Porzione del soffitto del Vestibolo con affreschi di Pierin del Vaga. - particolare"
+            sercdf="37479"
+            progr="2"
+            misa="249"
+            misl="190">/80000/73200/73168.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73166.jpg"
+            ftat="particolare"
+            sglt="Genova - Palazzo Doria Pamphili - Porzione del soffitto del Vestibolo; Pierin del Vaga."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Genova - Palazzo Doria Pamphili - Porzione del soffitto del Vestibolo; Pierin del Vaga. - particolare"
+            sercdf="37480"
+            progr="3"
+            misa="250"
+            misl="198">/80000/73200/73166.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73165.jpg"
+            ftat="particolare"
+            sglt="Palazzo Doria Pamphili. Soffitti del Vestibolo; Pierino del Vaga"
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Palazzo Doria Pamphili. Soffitti del Vestibolo; Pierino del Vaga - particolare"
+            sercdf="37481"
+            progr="4"
+            misa="200"
+            misl="249">/80000/73200/73165.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73169.jpg"
+            ftat="particolare"
+            sglt="Genova - Palazzo Doria Pamphili - Porzione del soffitto del Vestibolo; Perino del Vaga."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Genova - Palazzo Doria Pamphili - Porzione del soffitto del Vestibolo; Perino del Vaga. - particolare"
+            sercdf="37482"
+            progr="5"
+            misa="249"
+            misl="198">/80000/73200/73169.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16516</ISSHOWNBY>
+	</SCHEDA>

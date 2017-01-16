@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bartolomeo Veneto , Ritratto di giovane donna con liuto"
+        sercdoa="4190">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">4190</SERCD>
+			   <NRSCHEDA etichetta="Entry number">3483</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0426</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Venezia 2</UBFT>
+         <UBFF etichetta="Folder number">1</UBFF>
+         <UBFU etichetta="Folder heading">Bartolomeo Veneto 1</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Ritratto di giovane donna con liuto</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">83</MISA>
+      <MISL etichetta="Length">43</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bartolomeo Veneto</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola veneta</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1515</DTSI>
+      <DTSF etichetta="To">1530</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Regno Unito</PVCS>
+      <PVCC etichetta="Town / Municipality">Londra</PVCC>
+      <LDCN etichetta="Repository">Asta Sotheby's</LDCN>
+      <LDCS etichetta="Precise location">7 luglio 1993, n. 213</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+				     <PRCD etichetta="Repository">Collezione Banks</PRCD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <CATALOGO bid="LO11251811">Old Master Paintings : Wednesday 7th July 1993 / Sotheby's</CATALOGO>
+			   <FOTO ftan="\120000\92400\92163.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Bartolomeo Veneto - sec. XVI - Ritratto di giovane donna con liuto"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Bartolomeo Veneto - sec. XVI - Ritratto di giovane donna con liuto - insieme"
+            sercdf="111293"
+            progr="1"
+            misa="297"
+            misl="215">/120000/92400/92163.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=4190</ISSHOWNBY>
+	</SCHEDA>

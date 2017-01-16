@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Luzio Romano , Imperatore Adriano, San Michele Arcangelo, Episodi della vita dell'imperatore Adriano, Storie di Roma, Allegorie con Pan e Dafne, Divinità, Fregio con Nereidi e Tritoni"
+        sercdoa="16449">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16449</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15613</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">3</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 1</UBFU>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0339</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Roma. Ligorio, Siciolante, Daniele da Volterra, Tibaldi, Mazzoni, Laureti</UBFT>
+         <UBFF etichetta="Folder number">2</UBFF>
+         <UBFU etichetta="Folder heading">Luzio Romano</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">decorazione plastico-pittorica</OGTD>
+      <OGTT etichetta="Object type">dipinto/ scultura</OGTT>
+      <SGTI etichetta="Subject">Imperatore Adriano, San Michele Arcangelo, Episodi della vita dell'imperatore Adriano, Storie di Roma, Allegorie con Pan e Dafne, Divinità, Fregio con Nereidi e Tritoni</SGTI>
+      <MTC etichetta="Medium or materials">stucco, affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Luzio Romano</AUTN>
+         <AUTM>Documentazione</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">metà</DTZS>
+      <DTSI etichetta="From">1544</DTSI>
+      <DTSF etichetta="To">1545</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Roma</PVCC>
+      <LDCN etichetta="Repository">Castel Sant'Angelo</LDCN>
+      <LDCS etichetta="Precise location">sala della Biblioteca</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+			   <OSS etichetta="Notes">Le fotografie 74149; 74132; 74133; 74147; 74148; 74145; 74146 sono collocate nel fascicolo 2 intitolato da F. Zeri "Luzio Romano", all'interno della busta 339 "Pittura italiana sec. XVI. Roma. Ligorio, Siciolante, Daniele da Volterra, Tibaldi, Mazzoni, Laureti"</OSS>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\74400\74149.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Luzio Romano - sec. XVI - Imperatore Adriano; San Michele Arcangelo; Episodi della vita dell'imperatore Adriano; Storie di Roma; Allegorie con Pan e Dafne; Divinità; Fregio con Nereidi e Tritoni"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Luzio Romano - sec. XVI - Imperatore Adriano; San Michele Arcangelo; Episodi della vita dell&amp;#039;imperatore Adriano; Storie di Roma; Allegorie con Pan e Dafne; Divinità; Fregio con Nereidi e Tritoni - insieme"
+            sercdf="38782"
+            progr="1"
+            misa="205"
+            misl="254">/80000/74400/74149.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73137.jpg"
+            ftat="particolare"
+            sglt="Roma. Castel S. Angelo. Sala della Biblioteca - Fregio della volta (Scuola di Raffaello)"
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma. Castel S. Angelo. Sala della Biblioteca - Fregio della volta (Scuola di Raffaello) - particolare"
+            sercdf="37428"
+            progr="2"
+            misa="188"
+            misl="240">/80000/73200/73137.jpg</FOTO>
+			   <FOTO ftan="\80000\74400\74132.jpg"
+            ftat="particolare"
+            sglt="Roma - Fregio del soffitto della Sala della Biblioteca - Giulio Romano - Castel S. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Fregio del soffitto della Sala della Biblioteca - Giulio Romano - Castel S. Angelo - particolare"
+            sercdf="38784"
+            progr="3"
+            misa="200"
+            misl="257">/80000/74400/74132.jpg</FOTO>
+			   <FOTO ftan="\80000\74400\74133.jpg"
+            ftat="particolare"
+            sglt="Roma - Fregio del soffitto della Sala della Biblioteca - Giulio Romano - Castel S. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Fregio del soffitto della Sala della Biblioteca - Giulio Romano - Castel S. Angelo - particolare"
+            sercdf="38785"
+            progr="4"
+            misa="200"
+            misl="260">/80000/74400/74133.jpg</FOTO>
+			   <FOTO ftan="\80000\74400\74147.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Luzio Romano - sec. XVI - San Michele Arcangelo; Fregio con Nereidi e Tritoni"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Luzio Romano - sec. XVI - San Michele Arcangelo; Fregio con Nereidi e Tritoni - particolare"
+            sercdf="38787"
+            progr="5"
+            misa="205"
+            misl="255">/80000/74400/74147.jpg</FOTO>
+			   <FOTO ftan="\80000\74400\74148.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Luzio Romano - sec. XVI - Tritoni e nereidi"
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Luzio Romano - sec. XVI - Tritoni e nereidi - particolare"
+            sercdf="38789"
+            progr="6"
+            misa="163"
+            misl="280">/80000/74400/74148.jpg</FOTO>
+			   <FOTO ftan="\80000\74400\74145.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Luzio Romano - sec. XVI - Sovrapporta con coppia di putti"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Luzio Romano - sec. XVI - Sovrapporta con coppia di putti - particolare"
+            sercdf="38812"
+            progr="7"
+            misa="205"
+            misl="255">/80000/74400/74145.jpg</FOTO>
+			   <FOTO ftan="\80000\74400\74146.jpg"
+            ftat="particolare, prima della pulitura"
+            sglt=""
+            sgla="Luzio Romano - sec. XVI - Sovrapporta con stemma Farnese"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Luzio Romano - sec. XVI - Sovrapporta con stemma Farnese - particolare, prima della pulitura"
+            sercdf="38813"
+            progr="8"
+            misa="205"
+            misl="255">/80000/74400/74146.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16449</ISSHOWNBY>
+	</SCHEDA>

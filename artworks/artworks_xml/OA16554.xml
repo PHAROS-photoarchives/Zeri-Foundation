@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , San Biagio e un cavaliere di Malta"
+        sercdoa="16554">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16554</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15650</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">San Biagio e un cavaliere di Malta</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+				     <AAT etichetta="Name">Bertucci Jacopo</AAT>
+         <AATM>Bibliografia</AATM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1530</DTSI>
+      <DTSF etichetta="To">1547</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Cerveteri</PVCC>
+      <LDCN etichetta="Repository">Municipio</LDCN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73600\73212.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Bonaccorsi Pietro - sec. XVI - San Biagio e un cavaliere di Malta"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Bonaccorsi Pietro - sec. XVI - San Biagio e un cavaliere di Malta - insieme"
+            sercdf="37596"
+            progr="1"
+            misa="224"
+            misl="167">/80000/73600/73212.jpg</FOTO>
+			   <FOTO ftan="\80000\73600\73211.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Bonaccorsi Pietro - sec. XVI - San Biagio e un cavaliere di Malta"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Bonaccorsi Pietro - sec. XVI - San Biagio e un cavaliere di Malta - insieme"
+            sercdf="37597"
+            progr="2"
+            misa="224"
+            misl="170">/80000/73600/73211.jpg</FOTO>
+			   <FOTO ftan="\80000\73600\73213.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Bonaccorsi Pietro - sec. XVI - Volto di san Biagio"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Bonaccorsi Pietro - sec. XVI - Volto di san Biagio - particolare"
+            sercdf="37598"
+            progr="3"
+            misa="233"
+            misl="176">/80000/73600/73213.jpg</FOTO>
+			   <FOTO ftan="\80000\73600\73214.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Bonaccorsi Pietro - sec. XVI - San Biagio e un cavaliere di Malta: donatore"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Bonaccorsi Pietro - sec. XVI - San Biagio e un cavaliere di Malta: donatore - particolare"
+            sercdf="37599"
+            progr="4"
+            misa="239"
+            misl="178">/80000/73600/73214.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16554</ISSHOWNBY>
+	</SCHEDA>

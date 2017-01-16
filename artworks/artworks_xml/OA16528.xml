@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Passaggio del mar Rosso"
+        sercdoa="16528">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16528</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15627</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Passaggio del mar Rosso</SGTI>
+      <MTC etichetta="Medium or materials">tempera su tela</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">122</MISA>
+      <MISL etichetta="Length">198</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1522</DTSI>
+      <DTSF etichetta="To">1523</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Toscana</PVCR>
+      <PVCP etichetta="District">Firenze</PVCP>
+      <PVCC etichetta="Town / Municipality">Firenze</PVCC>
+      <LDCN etichetta="Repository">Palazzo degli Uffizi, Galleria degli Uffizi</LDCN>
+      <LDCS etichetta="Precise location">inv. 9608</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+				     <PRVS etichetta="Country">Italia</PRVS>
+         <PRVR etichetta="Region / Federal State">Toscana</PRVR>
+         <PRVP etichetta="District">Firenze</PRVP>
+         <PRVC etichetta="Town / Municipality">Firenze</PRVC>
+         <PRCD etichetta="Repository">Palazzo Uguccioni</PRCD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73174.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Bonaccorsi Pietro - sec. XVI - Passaggio del mar Rosso"
+            aufn="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze"
+            aufb=""
+            note="Gabinetto Fotografico della Soprintendenza Speciale per il Patrimonio Storico, Artistico ed Etnoantropologico e per il Polo Museale della città di Firenze , Bonaccorsi Pietro - sec. XVI - Passaggio del mar Rosso - insieme"
+            sercdf="37485"
+            progr="1"
+            misa="168"
+            misl="261">/80000/73200/73174.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16528</ISSHOWNBY>
+	</SCHEDA>

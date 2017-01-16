@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Anonimo sec. XVI , Madonna con Bambino e san Giovannino"
+        sercdoa="16551">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16551</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15647</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Madonna con Bambino e san Giovannino</SGTI>
+      <MTC etichetta="Medium or materials">tela</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Anonimo sec. XVI</AUTN>
+         <AUTS etichetta="Connection with artist">(?)</AUTS>
+         <AUTM>Classificazione F. Zeri</AUTM>
+         <ATBD etichetta="Cultural context">n.r.</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1540</DTSI>
+      <DTSF etichetta="To">1599</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <LDCN etichetta="Repository">Ubicazione sconosciuta</LDCN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+			   <ROFF etichetta="Status of work">copia parziale</ROFF>
+      <ROFO etichetta="Initial / Final state">dipinto</ROFO>
+      <ROFS etichetta="Subject of the original / copy">Sacra Famiglia</ROFS>
+      <ROFA etichetta="Author of the original / copy">Bonaccorsi Pietro (Perin del Vaga)</ROFA>
+      <ROFD etichetta="Dating of the original / copy">1530-1540</ROFD>
+      <ROFC etichetta="Place of conservation">
+         <ROFC etichetta="Country">Spagna</ROFC>
+         <ROFC etichetta="District">Madrid</ROFC>
+         <ROFC etichetta="Repository">Museo Nacional del Prado</ROFC>
+      </ROFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15643 , 15644 , 15645 , 15646 , 15647</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73600\73205.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Anonimo - sec. XVI - Madonna con Bambino e san Giovannino"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Anonimo - sec. XVI - Madonna con Bambino e san Giovannino - insieme"
+            sercdf="37590"
+            progr="1"
+            misa="221"
+            misl="174">/80000/73600/73205.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16551</ISSHOWNBY>
+	</SCHEDA>

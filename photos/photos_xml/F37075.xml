@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="La Fototecnica , Roma, Monastero del Corpus Christi. Jacopino del Conte: Deposizione."
+        sercdf="37075"
+        sercdoa="16603">
+		<PARAGRAFO etichetta="CLASSIFICATION">
+			   <SERCD etichetta="SERCD">37075</SERCD>
+			   <SERCDOA etichetta="SERCDOA">16603</SERCDOA>
+			   <INVN etichetta="Inventory number">73874</INVN>
+      <UBFP etichetta="Collection">Fototeca  Zeri</UBFP>
+      <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+      <UBFN etichetta="Container number">0338</UBFN>
+      <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Roma. Jacopino del Conte, Marcello Venusti</UBFT>
+      <UBFF etichetta="Folder number">1</UBFF>
+      <UBFU etichetta="Folder heading">Jacopino del Conte</UBFU>
+      <UBFC etichetta="Shelfmark">PI_0338/1/2</UBFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="SUBJECT">
+			   <SGTI etichetta="Subject">Deposizione di Cristo nel sepolcro</SGTI>
+			   <OGTD etichetta="Object">dipinto</OGTD>
+			   <SGLT etichetta="Proper title">Roma, Monastero del Corpus Christi. Jacopino del Conte: Deposizione.</SGLT>
+      <SGLS etichetta="Source of title">dattiloscritto su etichetta sul verso</SGLS>
+      <FTAT etichetta="Detail / Whole">insieme</FTAT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">positivo</OGTD>
+      <QNTN etichetta="Number of objects">1</QNTN>
+      <OGTB etichetta="Type">m</OGTB>
+      <MTX etichetta="BW/C">BN</MTX>
+			   <MTC etichetta="Medium or materials">gelatina ai sali d'argento/ carta baritata</MTC>
+			   <MISA etichetta="Height">237</MISA>
+			   <MISL etichetta="Length">139</MISL>
+			   <MISU etichetta="Unit of measurement">mm</MISU>
+			   <MISO etichetta="Type of dimensions">supporto primario</MISO>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PHOTOGRAPHER">
+			   <RIPETIZIONE prog="1">
+				     <AUFN etichetta="Photographer">La Fototecnica</AUFN>
+         <AUFI etichetta="Address">La Fototecnica. Roma - Via Francesco Crispi, 26</AUFI>
+         <AUFM etichetta="Reason for attribution">timbro</AUFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Del Conte Jacopino</AUTN>
+         <AUTB etichetta="Cultural context">Scuola italiana, scuola toscana/ scuola romana</AUTB>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">XX</DTZG>
+      <DTSI etichetta="From">1940</DTSI>
+      <DTSF etichetta="To">1950</DTSF>
+      <DTMM etichetta="Reason for dating">analisi storica</DTMM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">
+			   <LRD etichetta="Shot date">1950/ ante</LRD>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			   <ROFI etichetta="Negative number">10032/E77</ROFI>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="STATE OF PRESERVATION">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR>
+      <PVCP etichetta="District">BO</PVCP>
+      <PVCC etichetta="Town / Municipality">Bologna</PVCC>
+      <LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN>
+      <LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU>
+      <LDCM etichetta="Collection">Fototeca Zeri</LDCM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CODES">
+			   <TSK etichetta="Type of entry">F</TSK>
+      <LIR etichetta="Cataloguing level">I</LIR>
+      <NCTR etichetta="Regional code">08</NCTR>
+      <NCTN etichetta="Id. number">73874</NCTN>
+      <ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OWNERSHIP">
+			   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG>
+      <CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="COPYRIGHT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CATALOGUING">
+			   <CMPD etichetta="Cataloguing date">08/07/2005 0.00.00</CMPD>
+      <CMPN etichetta="Cataloguer">Elisabetta Sambo</CMPN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIGITAL IMAGE">
+			   <RIPETIZIONE prog="1">
+				     <FTAT etichetta="Detail / Whole">insieme</FTAT>
+         <FTAN etichetta="File name">\80000\74000\73874.jpg</FTAN>
+         <FTAX etichetta="Attached / Unattached image">allegata</FTAX>
+         <FTAP etichetta="Type">fotografia digitale</FTAP>
+         <VERSO etichetta="Verso">Pubblico</VERSO>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="UPDATING">
+			   <RIPETIZIONE prog="1">
+				     <AGGD etichetta="">08/07/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AGGD etichetta="">12/07/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AGGD etichetta="">14/07/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="4">
+				     <AGGD etichetta="">18/07/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="5">
+				     <AGGD etichetta="">06/10/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="6">
+				     <AGGD etichetta="">13/10/2006 0.00.00</AGGD>
+         <AGGN etichetta="">Chiara Basalti</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="7">
+				     <AGGD etichetta="">17/11/2008</AGGD>
+         <AGGN etichetta="">Monica Cavicchi</AGGN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="SUPERVISOR">
+			   <FUR etichetta="">Giudici C.</FUR>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO note="La Fototecnica , Roma, Monastero del Corpus Christi. Jacopino del Conte: Deposizione. - insieme"
+            sercdf="37075"
+            altezza="237"
+            larghezza="139">/80000/74000/73874.jpg</FOTO>
+			   <INTESTAZIONE>Del Conte Jacopino , Deposizione di Cristo nel sepolcro</INTESTAZIONE>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=F&amp;id=37075</ISSHOWNBY>
+	</SCHEDA>

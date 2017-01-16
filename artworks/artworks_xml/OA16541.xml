@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Anonimo sec. XVI , Sacra Famiglia" sercdoa="16541">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16541</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15639</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Sacra Famiglia</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Anonimo sec. XVI</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">seconda metà</DTZS>
+      <DTSI etichetta="From">1550</DTSI>
+      <DTSF etichetta="To">1599</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Roma</PVCC>
+      <LDCN etichetta="Repository">Galleria Nazionale d'Arte Antica di Palazzo Barberini</LDCN>
+      <LDCS etichetta="Precise location">inv. 590</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+			   <ROFF etichetta="Status of work">copia</ROFF>
+      <ROFO etichetta="Initial / Final state">dipinto</ROFO>
+      <ROFS etichetta="Subject of the original / copy">Sacra Famiglia</ROFS>
+      <ROFA etichetta="Author of the original / copy">Bonaccorsi Pietro (Perin del Vaga)</ROFA>
+      <ROFD etichetta="Dating of the original / copy">1535-1545</ROFD>
+      <ROFC etichetta="Place of conservation">
+         <ROFC etichetta="Country">Francia</ROFC>
+         <ROFC etichetta="District">Chantilly</ROFC>
+         <ROFC etichetta="Repository">Musée Condé</ROFC>
+      </ROFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73196.jpg"
+            ftat="insieme"
+            sglt="Rosso Fiorentino - Sacra Famiglia."
+            sgla=""
+            aufn="Istituto Italiano d'Arti Grafiche"
+            aufb=""
+            note="Istituto Italiano d&amp;#039;Arti Grafiche , Rosso Fiorentino - Sacra Famiglia. - insieme"
+            sercdf="37581"
+            progr="1"
+            misa="256"
+            misl="195">/80000/73200/73196.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16541</ISSHOWNBY>
+	</SCHEDA>

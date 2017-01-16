@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"
+        sercdf="37114"
+        sercdoa="18785">
+		<PARAGRAFO etichetta="CLASSIFICATION">
+			   <SERCD etichetta="SERCD">37114</SERCD>
+			   <SERCDOA etichetta="SERCDOA">18785</SERCDOA>
+			   <INVN etichetta="Inventory number">92277</INVN>
+      <UBFP etichetta="Collection">Fototeca  Zeri</UBFP>
+      <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+      <UBFN etichetta="Container number">0426</UBFN>
+      <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Venezia 2</UBFT>
+      <UBFF etichetta="Folder number">4</UBFF>
+      <UBFU etichetta="Folder heading">Sebastiano del Piombo: ritratti 2</UBFU>
+      <UBFC etichetta="Shelfmark">PI_0426/4/18</UBFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="SUBJECT">
+			   <SGTI etichetta="Subject">Ritratto di Andrea Doria</SGTI>
+			   <OGTD etichetta="Object">dipinto</OGTD>
+			   <SGLT etichetta="Proper title">Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato</SGLT>
+      <SGLS etichetta="Source of title">dell'autore, stampato nell'immagine</SGLS>
+      <FTAT etichetta="Detail / Whole">insieme</FTAT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">positivo</OGTD>
+      <QNTN etichetta="Number of objects">1</QNTN>
+      <OGTB etichetta="Type">m</OGTB>
+      <MTX etichetta="BW/C">BN</MTX>
+			   <MTC etichetta="Medium or materials">gelatina ai sali d'argento/ carta baritata</MTC>
+			   <MISA etichetta="Height">262</MISA>
+			   <MISL etichetta="Length">198</MISL>
+			   <MISU etichetta="Unit of measurement">mm</MISU>
+			   <MISO etichetta="Type of dimensions">supporto primario</MISO>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PHOTOGRAPHER">
+			   <RIPETIZIONE prog="1">
+				     <AUFN etichetta="Photographer">Anderson</AUFN>
+         <AUFI etichetta="Address">Anderson</AUFI>
+         <AUFM etichetta="Reason for attribution">iscrizione</AUFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Luciani Sebastiano</AUTN>
+         <AUTP etichetta="Pseudonym">Sebastiano del Piombo</AUTP>
+         <AUTB etichetta="Cultural context">Scuola italiana, scuola veneta/ scuola romana</AUTB>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">XIX/ XX</DTZG>
+      <DTSI etichetta="From">1890</DTSI>
+      <DTSV etichetta="Degree of approximation">ca.</DTSV>
+      <DTSF etichetta="To">1929</DTSF>
+      <DTSL etichetta="Degree of approximation">ca.</DTSL>
+      <DTMM etichetta="Reason for dating">bibliografia/ analisi tecnico-formale</DTMM>
+      <DTMS etichetta="Source of dating">Catalogo Anderson "Catalogue Général" 1907</DTMS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">
+			   <LRD etichetta="Shot date">1907/ ante</LRD>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			   <ROFI etichetta="Negative number">3074</ROFI>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="STATE OF PRESERVATION">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR>
+      <PVCP etichetta="District">BO</PVCP>
+      <PVCC etichetta="Town / Municipality">Bologna</PVCC>
+      <LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN>
+      <LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU>
+      <LDCM etichetta="Collection">Fototeca Zeri</LDCM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CODES">
+			   <TSK etichetta="Type of entry">F</TSK>
+      <LIR etichetta="Cataloguing level">I</LIR>
+      <NCTR etichetta="Regional code">08</NCTR>
+      <NCTN etichetta="Id. number">92277</NCTN>
+      <ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OWNERSHIP">
+			   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG>
+      <CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="COPYRIGHT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CATALOGUING">
+			   <CMPD etichetta="Cataloguing date">28/09/2005 0.00.00</CMPD>
+      <CMPN etichetta="Cataloguer">Elisabetta Sambo</CMPN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIGITAL IMAGE">
+			   <RIPETIZIONE prog="1">
+				     <FTAT etichetta="Detail / Whole">insieme</FTAT>
+         <FTAN etichetta="File name">\120000\92400\92277.jpg</FTAN>
+         <FTAX etichetta="Attached / Unattached image">allegata</FTAX>
+         <FTAP etichetta="Type">fotografia digitale</FTAP>
+         <VERSO etichetta="Verso">Pubblico</VERSO>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="UPDATING">
+			   <RIPETIZIONE prog="1">
+				     <AGGD etichetta="">28/09/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AGGD etichetta="">06/10/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AGGD etichetta="">13/06/2007 0.00.00</AGGD>
+         <AGGN etichetta="">test</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="4">
+				     <AGGD etichetta="">25/03/2009</AGGD>
+         <AGGN etichetta="">Elisa Montecchi</AGGN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="SUPERVISOR">
+			   <FUR etichetta="">Giudici C.</FUR>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO note="Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato - insieme"
+            sercdf="37114"
+            altezza="262"
+            larghezza="198">/120000/92400/92277.jpg</FOTO>
+			   <INTESTAZIONE>Luciani Sebastiano , Ritratto di Andrea Doria</INTESTAZIONE>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=F&amp;id=37114</ISSHOWNBY>
+	</SCHEDA>

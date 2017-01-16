@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Grechi Michele , Incontro di sant'Anna e san Gioacchino alla Porta Aurea"
+        sercdoa="16426">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16426</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15605</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">3</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 1</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTV etichetta="Identification">elemento d'insieme</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Incontro di sant'Anna e san Gioacchino alla Porta Aurea</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Grechi Michele</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1540</DTSI>
+      <DTSF etichetta="To">1560</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Roma</PVCC>
+      <LDCN etichetta="Repository">Chiesa della Trinità dei Monti</LDCN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15603 , 15604 , 15605</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <ALLEGATO note="memorandum" id="1017" progr="1">
+				     <FNTI etichetta="Inventory number">F1495</FNTI>
+         <FNTS etichetta="Shelfmark">PI_0334/3/7-50</FNTS>
+         <FNTP etichetta="Object Type">memorandum</FNTP>
+         <FNTA etichetta="Author">Anonimo</FNTA>
+         <FNTD etichetta="Date">s.d.</FNTD>
+         <FNTT etichetta="Summary">Elenco dattiloscritto delle opere di Perino del Vaga tratto dalle Vita del Vasari, con segni a matita blu e rossa di F. Zeri che segnalano l'adesione di Zeri alle proposte di attribuzione.</FNTT>
+      </ALLEGATO>
+			   <FOTO ftan="\80000\73200\73124.jpg"
+            ftat="insieme"
+            sglt="Roma - Trinità dei Monti. Sec. XVI. Incontro di S. Anna e Gioacchino"
+            sgla=""
+            aufn="Quaresima, Mario"
+            aufb=""
+            note="Quaresima, Mario , Roma - Trinità dei Monti. Sec. XVI. Incontro di S. Anna e Gioacchino - insieme"
+            sercdf="37363"
+            progr="1"
+            misa="164"
+            misl="215">/80000/73200/73124.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16426</ISSHOWNBY>
+	</SCHEDA>

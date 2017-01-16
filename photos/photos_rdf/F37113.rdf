@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:zeri="https://w3id.org/zericatalog/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:cito="http://purl.org/spar/cito/"
+         xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:fabio="http://purl.org/spar/fabio/"
+         xmlns:fentry="http://www.essepuntato.it/2014/03/fentry/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:frbr="http://purl.org/vocab/frbr/core#"
+         xmlns:hico="http://purl.org/emmedi/hico/"
+         xmlns:oaentry="http://purl.org/emmedi/oaentry/"
+         xmlns:pro="http://purl.org/spar/pro/"
+         xmlns:prov="http://www.w3.org/ns/prov#"
+         xmlns:time="http://www.ontologydesignpatterns.org/cp/owl/timeindexedsituation.owl#"
+         xmlns:ti="http://www.ontologydesignpatterns.org/cp/owl/timeinterval.owl#"
+         xmlns:tvc="http://www.essepuntato.it/2012/04/tvc/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <fentry:FEntry rdf:about="https://w3id.org/zericatalog/fentry/92276">
+      <rdfs:label xml:lang="it">Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:comment xml:lang="it">Scheda F, "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <rdfs:comment xml:lang="en">F Entry, "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <dcterms:description>Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato</dcterms:description>
+      <fentry:describes rdf:resource="https://w3id.org/zericatalog/photo/37113"/>
+      <fentry:describes rdf:resource="https://w3id.org/zericatalog/photo/37113/shot"/>
+      <fentry:describes rdf:resource="https://w3id.org/zericatalog/photo/37113/positive"/>
+      <fentry:describes rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+      <fentry:describes rdf:resource="https://w3id.org/zericatalog/photo/37113/negative"/>
+      <fentry:describes rdf:resource="https://w3id.org/zericatalog/photo/37113/negative/item-fz"/>
+      <fentry:describes rdf:resource="https://w3id.org/zericatalog/artwork/18785/item"/>
+      <fabio:hasPortrayal rdf:resource="http://catalogo.fondazionezeri.unibo.it/scheda.jsp?decorator=layout_resp&amp;apply=true&amp;tipo_scheda=F&amp;id=37113"/>
+      <crm:P102_has_title>
+         <crm:E35_Title rdf:about="https://w3id.org/zericatalog/fentry/92276/title">
+            <rdfs:label xml:lang="it">"Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <rdfs:label xml:lang="en">"Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <dcterms:description>Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato</dcterms:description>
+         </crm:E35_Title>
+      </crm:P102_has_title>
+      <crm:P140i_was_attributed_by>
+         <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/fentry/92276/nctn-assignment">
+            <rdfs:label xml:lang="it">Assegnazione del numero di catalogo generale: 92276</rdfs:label>
+            <rdfs:label xml:lang="en">Assignment of the catalog number: 92276</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/fentry/nctn/92276">
+                  <rdfs:label xml:lang="it">92276</rdfs:label>
+                  <rdfs:label xml:lang="en">92276</rdfs:label>
+                  <dcterms:description>92276</dcterms:description>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/catalog-number">
+                        <rdfs:label xml:lang="en">Catalog number</rdfs:label>
+                        <rdfs:label xml:lang="it">Numero di catalogo generale</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E15_Identifier_Assignment>
+      </crm:P140i_was_attributed_by>
+      <crm:P140i_was_attributed_by>
+         <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/fentry/92276/nctr-assignment">
+            <rdfs:label xml:lang="it">Assegnazione del codice regionale: 08</rdfs:label>
+            <rdfs:label xml:lang="en">Assignment of the regional code: 08</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/fentry/nctr/08">
+                  <rdfs:label xml:lang="it">08</rdfs:label>
+                  <rdfs:label xml:lang="en">08</rdfs:label>
+                  <dcterms:description>08</dcterms:description>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/regional-code">
+                        <rdfs:label xml:lang="en">Regional code</rdfs:label>
+                        <rdfs:label xml:lang="it">Codice regionale</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E15_Identifier_Assignment>
+      </crm:P140i_was_attributed_by>
+      <crm:P140i_was_attributed_by>
+         <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/fentry/92276/unique-code-assignment">
+            <rdfs:label xml:lang="it">Assegnazione del codice univoco: 0892276</rdfs:label>
+            <rdfs:label xml:lang="en">Assignment of unique code: 0892276</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/fentry/id/0892276">
+                  <rdfs:label xml:lang="it">0892276</rdfs:label>
+                  <rdfs:label xml:lang="en">0892276</rdfs:label>
+                  <dcterms:description>0892276</dcterms:description>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/unique-code">
+                        <rdfs:label xml:lang="en">Unique code</rdfs:label>
+                        <rdfs:label xml:lang="it">Codice univoco del collegamento fra bene e scheda</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E15_Identifier_Assignment>
+      </crm:P140i_was_attributed_by>
+      <crm:P140i_was_attributed_by>
+         <crm:E13_Attribute_Assignment rdf:about="https://w3id.org/zericatalog/fentry/92276/lir-assignment">
+            <rdfs:label xml:lang="it">Assegnazione del livello di catalogazione: inventariale</rdfs:label>
+            <rdfs:label xml:lang="en">Assignment of the cataloguing level: inventory</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/fentry/lir/inventory">
+                  <rdfs:label xml:lang="it">inventariale</rdfs:label>
+                  <rdfs:label xml:lang="en">inventory</rdfs:label>
+                  <dcterms:description>inventariale</dcterms:description>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/cataloguing-level">
+                        <rdfs:label xml:lang="en">Cataloguing level</rdfs:label>
+                        <rdfs:label xml:lang="it">Livello di catalogazione</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E13_Attribute_Assignment>
+      </crm:P140i_was_attributed_by>
+      <frbr:realization rdf:resource="https://w3id.org/zericatalog/fentry/92276/expression-1"/>
+      <frbr:realization rdf:resource="https://w3id.org/zericatalog/fentry/92276/expression-2"/>
+      <frbr:realization rdf:resource="https://w3id.org/zericatalog/fentry/92276/expression-3"/>
+      <frbr:realization rdf:resource="https://w3id.org/zericatalog/fentry/92276/expression-4"/>
+      <crm:P94i_was_created_by rdf:resource="https://w3id.org/zericatalog/fentry/92276/creation"/>
+   </fentry:FEntry>
+   <crm:E65_Creation rdf:about="https://w3id.org/zericatalog/fentry/92276/creation">
+      <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" creation</rdfs:label>
+      <rdfs:label xml:lang="it">Creazione della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <crm:P94_has_created rdf:resource="https://w3id.org/zericatalog/fentry/92276"/>
+      <crm:P14_carried_out_by>
+         <crm:E21_Person rdf:about="https://w3id.org/zericatalog/person/elisabetta-sambo">
+            <rdfs:label xml:lang="it">Elisabetta Sambo</rdfs:label>
+            <rdfs:label xml:lang="en">Elisabetta Sambo</rdfs:label>
+            <crm:P107i_is_current_or_former_member_of>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation"/>
+            </crm:P107i_is_current_or_former_member_of>
+            <pro:isRelatedToRoleInTime>
+               <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/fentry/92276/cataloguer/elisabetta-sambo">
+                  <pro:isHeldBy rdf:resource="https://w3id.org/zericatalog/person/elisabetta-sambo"/>
+                  <pro:withRole rdf:resource="http://purl.org/emmedi/oaentry/cataloguer"/>
+                  <pro:relatesTo rdf:resource="https://w3id.org/zericatalog/fentry/92276"/>
+               </pro:RoleInTime>
+            </pro:isRelatedToRoleInTime>
+         </crm:E21_Person>
+      </crm:P14_carried_out_by>
+      <crm:P4_has_time_span>
+         <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/28-09-2005">
+            <rdfs:label>28-09-2005</rdfs:label>
+         </crm:E52_Time-Span>
+      </crm:P4_has_time_span>
+   </crm:E65_Creation>
+   <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/fentry/92276/expression-4">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E73_Information_Object"/>
+      <rdfs:label xml:lang="en">Content of F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato": revision n. 4</rdfs:label>
+      <rdfs:label xml:lang="it">Contenuto della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato": revisione n. 4</rdfs:label>
+      <frbr:realizationOf rdf:resource="https://w3id.org/zericatalog/fentry/92276"/>
+      <pro:isRelatedToRoleInTime>
+         <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/update-4/92276/expression/elisa-montecchi">
+            <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" update n. 4</rdfs:label>
+            <rdfs:label xml:lang="it">Aggiornamento n. 4 della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <pro:relatesTo rdf:resource="https://w3id.org/zericatalog/fentry/92276/expression-4"/>
+            <pro:isHeldBy>
+               <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/elisa-montecchi">
+                  <rdfs:label xml:lang="en">Elisa Montecchi</rdfs:label>
+                  <rdfs:label xml:lang="it">Elisa Montecchi</rdfs:label>
+               </foaf:Agent>
+            </pro:isHeldBy>
+            <pro:withRole>
+               <pro:Role rdf:about="https://w3id.org/zericatalog/role/revisor">
+                  <rdfs:label xml:lang="en">Revisor</rdfs:label>
+                  <rdfs:label xml:lang="it">Revisore</rdfs:label>
+               </pro:Role>
+            </pro:withRole>
+            <tvc:atTime>
+               <ti:TimeInterval rdf:about="https://w3id.org/zericatalog/date/since-25-03-2009">
+                  <rdfs:label>25-03-2009</rdfs:label>
+               </ti:TimeInterval>
+            </tvc:atTime>
+         </pro:RoleInTime>
+      </pro:isRelatedToRoleInTime>
+      <pro:isRelatedToRoleInTime>
+         <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/supervision/92276/giudici-c">
+            <rdfs:label xml:lang="en">Supervision of F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <rdfs:label xml:lang="it">Supervisione della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <pro:relatesTo rdf:resource="https://w3id.org/zericatalog/fentry/92276/expression-4"/>
+            <pro:isHeldBy>
+               <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/giudici-c">
+                  <rdfs:label xml:lang="en">Giudici C.</rdfs:label>
+                  <rdfs:label xml:lang="it">Giudici C.</rdfs:label>
+               </foaf:Agent>
+            </pro:isHeldBy>
+            <pro:withRole>
+               <pro:Role rdf:about="https://w3id.org/zericatalog/role/supervisor">
+                  <rdfs:label xml:lang="en">Supervisor</rdfs:label>
+                  <rdfs:label xml:lang="it">Supervisore</rdfs:label>
+               </pro:Role>
+            </pro:withRole>
+         </pro:RoleInTime>
+      </pro:isRelatedToRoleInTime>
+      <frbr:revisionOf>
+         <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/fentry/92276/expression-3">
+            <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" content: revision n. 3</rdfs:label>
+            <rdfs:label xml:lang="it">Contenuto della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato": revisione n. 3</rdfs:label>
+            <pro:isRelatedToRoleInTime>
+               <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/update-3/92276/expression/test">
+                  <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" update n. 3</rdfs:label>
+                  <rdfs:label xml:lang="it">Aggiornamento n. 3 della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                  <pro:isHeldBy>
+                     <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/zeri-foundation-cataloguer">
+                        <rdfs:label xml:lang="en">Zeri Foundation Cataloguer</rdfs:label>
+                        <rdfs:label xml:lang="it">Zeri Foundation Cataloguer</rdfs:label>
+                     </foaf:Agent>
+                  </pro:isHeldBy>
+                  <pro:withRole>
+                     <pro:Role rdf:about="https://w3id.org/zericatalog/role/revisor">
+                        <rdfs:label xml:lang="en">Revisor</rdfs:label>
+                        <rdfs:label xml:lang="it">Revisore</rdfs:label>
+                     </pro:Role>
+                  </pro:withRole>
+                  <tvc:atTime>
+                     <ti:TimeInterval rdf:about="https://w3id.org/zericatalog/date/since-13-06-2007">
+                        <rdfs:label>13-06-2007</rdfs:label>
+                     </ti:TimeInterval>
+                  </tvc:atTime>
+               </pro:RoleInTime>
+            </pro:isRelatedToRoleInTime>
+            <pro:isRelatedToRoleInTime>
+               <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/supervision/92276/giudici-c">
+                  <rdfs:label xml:lang="en">Supervision of F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                  <rdfs:label xml:lang="it">Supervisione della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                  <pro:isHeldBy>
+                     <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/giudici-c">
+                        <rdfs:label xml:lang="en">Giudici C.</rdfs:label>
+                        <rdfs:label xml:lang="it">Giudici C.</rdfs:label>
+                     </foaf:Agent>
+                  </pro:isHeldBy>
+                  <pro:withRole>
+                     <pro:Role rdf:about="https://w3id.org/zericatalog/role/supervisor">
+                        <rdfs:label xml:lang="en">Supervisor</rdfs:label>
+                        <rdfs:label xml:lang="it">Supervisore</rdfs:label>
+                     </pro:Role>
+                  </pro:withRole>
+               </pro:RoleInTime>
+            </pro:isRelatedToRoleInTime>
+            <frbr:revisionOf>
+               <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/fentry/92276/expression-2">
+                  <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" content: revision n. 2</rdfs:label>
+                  <rdfs:label xml:lang="it">Contenuto della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato": revisione n. 2</rdfs:label>
+                  <pro:isRelatedToRoleInTime>
+                     <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/update-2/92276/expression/elisabetta-sambo">
+                        <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" update n. 2</rdfs:label>
+                        <rdfs:label xml:lang="it">Aggiornamento n. 2 della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                        <pro:isHeldBy>
+                           <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/elisabetta-sambo">
+                              <rdfs:label xml:lang="en">Elisabetta Sambo</rdfs:label>
+                              <rdfs:label xml:lang="it">Elisabetta Sambo</rdfs:label>
+                           </foaf:Agent>
+                        </pro:isHeldBy>
+                        <pro:withRole>
+                           <pro:Role rdf:about="https://w3id.org/zericatalog/role/revisor">
+                              <rdfs:label xml:lang="en">Revisor</rdfs:label>
+                              <rdfs:label xml:lang="it">Revisore</rdfs:label>
+                           </pro:Role>
+                        </pro:withRole>
+                        <tvc:atTime>
+                           <ti:TimeInterval rdf:about="https://w3id.org/zericatalog/date/since-06-10-2005">
+                              <rdfs:label>06-10-2005</rdfs:label>
+                           </ti:TimeInterval>
+                        </tvc:atTime>
+                     </pro:RoleInTime>
+                  </pro:isRelatedToRoleInTime>
+                  <pro:isRelatedToRoleInTime>
+                     <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/supervision/92276/giudici-c">
+                        <rdfs:label xml:lang="en">Supervision of F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                        <rdfs:label xml:lang="it">Supervisione della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                        <pro:isHeldBy>
+                           <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/giudici-c">
+                              <rdfs:label xml:lang="en">Giudici C.</rdfs:label>
+                              <rdfs:label xml:lang="it">Giudici C.</rdfs:label>
+                           </foaf:Agent>
+                        </pro:isHeldBy>
+                        <pro:withRole>
+                           <pro:Role rdf:about="https://w3id.org/zericatalog/role/supervisor">
+                              <rdfs:label xml:lang="en">Supervisor</rdfs:label>
+                              <rdfs:label xml:lang="it">Supervisore</rdfs:label>
+                           </pro:Role>
+                        </pro:withRole>
+                     </pro:RoleInTime>
+                  </pro:isRelatedToRoleInTime>
+                  <frbr:revisionOf>
+                     <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/fentry/92276/expression-1">
+                        <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" content: revision n. 1</rdfs:label>
+                        <rdfs:label xml:lang="it">Contenuto della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato": revisione n. 1</rdfs:label>
+                        <pro:isRelatedToRoleInTime>
+                           <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/update-1/92276/expression/elisabetta-sambo">
+                              <rdfs:label xml:lang="en">F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato" update n. 1</rdfs:label>
+                              <rdfs:label xml:lang="it">Aggiornamento n. 1 della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                              <pro:isHeldBy>
+                                 <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/elisabetta-sambo">
+                                    <rdfs:label xml:lang="en">Elisabetta Sambo</rdfs:label>
+                                    <rdfs:label xml:lang="it">Elisabetta Sambo</rdfs:label>
+                                 </foaf:Agent>
+                              </pro:isHeldBy>
+                              <pro:withRole>
+                                 <pro:Role rdf:about="https://w3id.org/zericatalog/role/revisor">
+                                    <rdfs:label xml:lang="en">Revisor</rdfs:label>
+                                    <rdfs:label xml:lang="it">Revisore</rdfs:label>
+                                 </pro:Role>
+                              </pro:withRole>
+                              <tvc:atTime>
+                                 <ti:TimeInterval rdf:about="https://w3id.org/zericatalog/date/since-28-09-2005">
+                                    <rdfs:label>28-09-2005</rdfs:label>
+                                 </ti:TimeInterval>
+                              </tvc:atTime>
+                           </pro:RoleInTime>
+                        </pro:isRelatedToRoleInTime>
+                        <pro:isRelatedToRoleInTime>
+                           <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/supervision/92276/giudici-c">
+                              <rdfs:label xml:lang="en">Supervision of F Entry "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                              <rdfs:label xml:lang="it">Supervisione della Scheda F "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                              <pro:isHeldBy>
+                                 <foaf:Agent rdf:about="https://w3id.org/zericatalog/person/giudici-c">
+                                    <rdfs:label xml:lang="en">Giudici C.</rdfs:label>
+                                    <rdfs:label xml:lang="it">Giudici C.</rdfs:label>
+                                 </foaf:Agent>
+                              </pro:isHeldBy>
+                              <pro:withRole>
+                                 <pro:Role rdf:about="https://w3id.org/zericatalog/role/supervisor">
+                                    <rdfs:label xml:lang="en">Supervisor</rdfs:label>
+                                    <rdfs:label xml:lang="it">Supervisore</rdfs:label>
+                                 </pro:Role>
+                              </pro:withRole>
+                           </pro:RoleInTime>
+                        </pro:isRelatedToRoleInTime>
+                     </fabio:MetadataDocument>
+                  </frbr:revisionOf>
+               </fabio:MetadataDocument>
+            </frbr:revisionOf>
+         </fabio:MetadataDocument>
+      </frbr:revisionOf>
+   </fabio:MetadataDocument>
+   <fentry:Photograph rdf:about="https://w3id.org/zericatalog/photo/37113">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object"/>
+      <rdfs:label xml:lang="en">Photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:label xml:lang="it">Fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:comment xml:lang="en">Photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <rdfs:comment xml:lang="it">Fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <crm:P2_has_type>
+         <crm:E55_Type rdf:about="https://w3id.org/zericatalog/monography">
+            <rdfs:label xml:lang="en">monography</rdfs:label>
+            <rdfs:label xml:lang="it">monografia</rdfs:label>
+         </crm:E55_Type>
+      </crm:P2_has_type>
+      <fabio:hasSubjectTerm>
+         <fabio:SubjectTerm rdf:about="https://w3id.org/zericatalog/subject/ritratto-di-andrea-doria">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_Entity"/>
+            <rdfs:label xml:lang="it">Ritratto di Andrea Doria</rdfs:label>
+         </fabio:SubjectTerm>
+      </fabio:hasSubjectTerm>
+      <frbr:subject>
+         <fabio:AnalogItem rdf:about="https://w3id.org/zericatalog/artwork/18785/item"/>
+      </frbr:subject>
+      <crm:P102_has_title>
+         <crm:E35_Title rdf:about="https://w3id.org/zericatalog/photo/37113/proper-title">
+            <rdfs:label xml:lang="it">Titolo proprio "Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <rdfs:label xml:lang="en">Proper title "Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <crm:P2_has_type>
+               <crm:E55_Type rdf:about="https://w3id.org/zericatalog/proper-title">
+                  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+                  <rdfs:label xml:lang="en">Proper title</rdfs:label>
+                  <rdfs:label xml:lang="it">Titolo proprio</rdfs:label>
+               </crm:E55_Type>
+            </crm:P2_has_type>
+            <prov:wasGeneratedBy>
+               <hico:InterpretationAct rdf:about="https://w3id.org/zericatalog/photo/37113/attribution-of-proper-title">
+                  <rdfs:label xml:lang="en">Attribution of proper title</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione del titolo proprio</rdfs:label>
+                  <rdfs:comment xml:lang="en">Attribution of proper title "Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+                  <rdfs:comment xml:lang="it">Attribuzione del titolo proprio "Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+                  <crm:P3_has_note>dell'autore, stampato nell'immagine</crm:P3_has_note>
+                  <hico:hasInterpretationType>
+                     <hico:InterpretationType rdf:about="http://purl.org/emmedi/oaentry/title-attribution">
+                        <rdfs:label xml:lang="en">Attribution of proper title</rdfs:label>
+                        <rdfs:label xml:lang="it">Attribuzione del titolo proprio</rdfs:label>
+                     </hico:InterpretationType>
+                  </hico:hasInterpretationType>
+                  <hico:hasInterpretationCriterion>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/criterion/authors-choice">
+                        <rdfs:label xml:lang="en">Author's choice</rdfs:label>
+                        <rdfs:label xml:lang="it">Scelta dell'autore</rdfs:label>
+                     </rdf:Description>
+                  </hico:hasInterpretationCriterion>
+                  <hico:hasInterpretationCriterion>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/criterion/title-printed-on-recto-of-photograph">
+                        <rdfs:label xml:lang="en">Title printed on recto of photograph</rdfs:label>
+                        <rdfs:label xml:lang="it">Titolo stampato sul recto</rdfs:label>
+                     </rdf:Description>
+                  </hico:hasInterpretationCriterion>
+                  <cito:citesAsEvidence>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/photo/37113/positive/item-fz/recto">
+                        <rdfs:label xml:lang="it">recto of photograph</rdfs:label>
+                        <rdfs:label xml:lang="en">recto della fotografia</rdfs:label>
+                        <crm:P46i_forms_part_of rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+                     </rdf:Description>
+                  </cito:citesAsEvidence>
+                  <prov:wasAssociatedWith>
+                     <prov:Agent rdf:about="https://w3id.org/zericatalog/organization/crr-mm"/>
+                  </prov:wasAssociatedWith>
+                  <hico:isExtractedFrom>
+                     <frbr:Expression rdf:about="https://w3id.org/zericatalog/fentry/92276/expression-4"/>
+                  </hico:isExtractedFrom>
+               </hico:InterpretationAct>
+            </prov:wasGeneratedBy>
+         </crm:E35_Title>
+      </crm:P102_has_title>
+      <crm:P106i_forms_part_of>
+         <fabio:WorkCollection rdf:about="https://w3id.org/zericatalog/collection/zeri-photo-archive">
+            <rdfs:label xml:lang="it">Fototeca  Zeri</rdfs:label>
+            <rdfs:label xml:lang="en">Zeri Photo Archive</rdfs:label>
+            <fabio:hasPortrayal>
+               <fabio:ItemCollection rdf:about="https://w3id.org/zericatalog/item-collection/zeri-photo-archive">
+                  <rdfs:label xml:lang="it">Fototeca  Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Zeri Photo Archive</rdfs:label>
+               </fabio:ItemCollection>
+            </fabio:hasPortrayal>
+         </fabio:WorkCollection>
+      </crm:P106i_forms_part_of>
+      <crm:P106i_forms_part_of>
+         <fabio:WorkCollection rdf:about="https://w3id.org/zericatalog/archival-unit/0426-4">
+            <rdfs:label xml:lang="it">Sebastiano del Piombo: ritratti 2</rdfs:label>
+            <rdfs:label xml:lang="en">Sebastiano del Piombo: ritratti 2</rdfs:label>
+            <crm:P102_has_title>
+               <crm:E35_Title rdf:about="https://w3id.org/zericatalog/archival-unit/0426-4/title">
+                  <rdfs:label xml:lang="it">Sebastiano del Piombo: ritratti 2</rdfs:label>
+                  <rdfs:label xml:lang="en">Sebastiano del Piombo: ritratti 2</rdfs:label>
+               </crm:E35_Title>
+            </crm:P102_has_title>
+            <fabio:hasPortrayal>
+               <fabio:ItemCollection rdf:about="https://w3id.org/zericatalog/archival-unit/0426-4/item">
+                  <rdfs:label xml:lang="it">Sebastiano del Piombo: ritratti 2</rdfs:label>
+                  <rdfs:label xml:lang="en">Sebastiano del Piombo: ritratti 2</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/folder">
+                        <rdfs:label xml:lang="en">Folder</rdfs:label>
+                        <rdfs:label xml:lang="it">Fascicolo</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+                  <crm:P48_has_preferred_identifier>
+                     <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/folder-id/0426-4">
+                        <rdfs:label xml:lang="it">4</rdfs:label>
+                        <rdfs:label xml:lang="en">4</rdfs:label>
+                     </crm:E42_Identifier>
+                  </crm:P48_has_preferred_identifier>
+                  <crm:P140i_was_attributed_by>
+                     <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/folder-id/0426-4/id-assignment">
+                        <rdfs:label xml:lang="it">Assegnazione dell'identificativo del fascicolo: 4</rdfs:label>
+                        <rdfs:label xml:lang="en">Assignment of unique identifier to the folder: 4</rdfs:label>
+                        <crm:P37_assigned>
+                           <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/folder-id/0426-4">
+                              <rdfs:label xml:lang="it">4</rdfs:label>
+                              <rdfs:label xml:lang="en">4</rdfs:label>
+                              <crm:P2_has_type>
+                                 <crm:E55_Type rdf:about="https://w3id.org/zericatalog/folder-number">
+                                    <rdfs:label xml:lang="en">Folder identifier</rdfs:label>
+                                    <rdfs:label xml:lang="it">Identificativo del fascicolo</rdfs:label>
+                                 </crm:E55_Type>
+                              </crm:P2_has_type>
+                           </crm:E42_Identifier>
+                        </crm:P37_assigned>
+                        <crm:P14_carried_out_by>
+                           <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                              <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                              <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                              <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+                           </crm:E40_Legal_Body>
+                        </crm:P14_carried_out_by>
+                     </crm:E15_Identifier_Assignment>
+                  </crm:P140i_was_attributed_by>
+                  <crm:P46i_forms_part_of rdf:resource="https://w3id.org/zericatalog/container/0426/item"/>
+                  <crm:P46_is_composed_of rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+               </fabio:ItemCollection>
+            </fabio:hasPortrayal>
+            <crm:P106i_forms_part_of>
+               <fabio:WorkCollection rdf:about="https://w3id.org/zericatalog/container/0426">
+                  <rdfs:label xml:lang="it">Pittura italiana sec. XVI. Venezia 2</rdfs:label>
+                  <rdfs:label xml:lang="en">Pittura italiana sec. XVI. Venezia 2</rdfs:label>
+                  <crm:P102_has_title>
+                     <crm:E35_Title rdf:about="https://w3id.org/zericatalog/container/0426/title">
+                        <rdfs:label xml:lang="it">Pittura italiana sec. XVI. Venezia 2</rdfs:label>
+                        <rdfs:label xml:lang="en">Pittura italiana sec. XVI. Venezia 2</rdfs:label>
+                     </crm:E35_Title>
+                  </crm:P102_has_title>
+                  <fabio:hasPortrayal>
+                     <fabio:ItemCollection rdf:about="https://w3id.org/zericatalog/container/0426/item">
+                        <rdfs:label xml:lang="it">Pittura italiana sec. XVI. Venezia 2, esemplare</rdfs:label>
+                        <rdfs:label xml:lang="en">Pittura italiana sec. XVI. Venezia 2, item</rdfs:label>
+                        <crm:P2_has_type>
+                           <crm:E55_Type rdf:about="https://w3id.org/zericatalog/container">
+                              <rdfs:label xml:lang="en">Container</rdfs:label>
+                              <rdfs:label xml:lang="it">Contenitore</rdfs:label>
+                           </crm:E55_Type>
+                        </crm:P2_has_type>
+                        <crm:P48_has_preferred_identifier>
+                           <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/container-id/0426">
+                              <rdfs:label xml:lang="it">0426</rdfs:label>
+                              <rdfs:label xml:lang="en">0426</rdfs:label>
+                           </crm:E42_Identifier>
+                        </crm:P48_has_preferred_identifier>
+                        <crm:P140i_was_attributed_by>
+                           <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/container-id/0426/id-assignment">
+                              <rdfs:label xml:lang="it">Assegnazione dell'identificativo del contenitore: 0426</rdfs:label>
+                              <rdfs:label xml:lang="en">Assignment of unique identifier to the container: 0426</rdfs:label>
+                              <crm:P37_assigned>
+                                 <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/container-id/0426">
+                                    <rdfs:label xml:lang="it">0426</rdfs:label>
+                                    <rdfs:label xml:lang="en">0426</rdfs:label>
+                                    <crm:P2_has_type>
+                                       <crm:E55_Type rdf:about="https://w3id.org/zericatalog/container-number">
+                                          <rdfs:label xml:lang="en">Container identifier</rdfs:label>
+                                          <rdfs:label xml:lang="it">Identificativo del contenitore</rdfs:label>
+                                       </crm:E55_Type>
+                                    </crm:P2_has_type>
+                                 </crm:E42_Identifier>
+                              </crm:P37_assigned>
+                              <crm:P14_carried_out_by>
+                                 <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                                    <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                                    <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                                    <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+                                 </crm:E40_Legal_Body>
+                              </crm:P14_carried_out_by>
+                           </crm:E15_Identifier_Assignment>
+                        </crm:P140i_was_attributed_by>
+                        <crm:P46i_forms_part_of rdf:resource="https://w3id.org/zericatalog/series/pittura-italiana/item"/>
+                     </fabio:ItemCollection>
+                  </fabio:hasPortrayal>
+                  <crm:P106i_forms_part_of>
+                     <fabio:WorkCollection rdf:about="https://w3id.org/zericatalog/series/pittura-italiana">
+                        <rdfs:label xml:lang="it">Pittura italiana</rdfs:label>
+                        <rdfs:label xml:lang="en">Pittura italiana</rdfs:label>
+                        <crm:P102_has_title>
+                           <crm:E35_Title rdf:about="https://w3id.org/zericatalog/series/pittura-italiana/title">
+                              <rdfs:label xml:lang="it">Pittura italiana</rdfs:label>
+                              <rdfs:label xml:lang="en">Pittura italiana</rdfs:label>
+                           </crm:E35_Title>
+                        </crm:P102_has_title>
+                        <fabio:hasPortrayal>
+                           <fabio:ItemCollection rdf:about="https://w3id.org/zericatalog/series/pittura-italiana/item">
+                              <rdfs:label xml:lang="it">Pittura italiana</rdfs:label>
+                              <rdfs:label xml:lang="en">Pittura italiana</rdfs:label>
+                              <crm:P2_has_type>
+                                 <crm:E55_Type rdf:about="https://w3id.org/zericatalog/archival-series">
+                                    <rdfs:label xml:lang="en">Series</rdfs:label>
+                                    <rdfs:label xml:lang="it">Serie</rdfs:label>
+                                 </crm:E55_Type>
+                              </crm:P2_has_type>
+                              <crm:P46i_forms_part_of rdf:resource="https://w3id.org/zericatalog/item-collection/zeri-photo-archive"/>
+                           </fabio:ItemCollection>
+                        </fabio:hasPortrayal>
+                        <crm:P106i_forms_part_of rdf:resource="https://w3id.org/zericatalog/collection/zeri-photo-archive"/>
+                     </fabio:WorkCollection>
+                  </crm:P106i_forms_part_of>
+               </fabio:WorkCollection>
+            </crm:P106i_forms_part_of>
+         </fabio:WorkCollection>
+      </crm:P106i_forms_part_of>
+      <foaf:depiction rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/120000/92400/92276.jpg"/>
+      <crm:P94i_was_created_by rdf:resource="https://w3id.org/zericatalog/photo/37113/creation"/>
+      <frbr:realization rdf:resource="https://w3id.org/zericatalog/photo/37113/shot"/>
+   </fentry:Photograph>
+   <crm:E65_Creation rdf:about="https://w3id.org/zericatalog/photo/37113/creation">
+      <rdfs:label xml:lang="en">Creation of photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:label xml:lang="it">Creazione della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:comment xml:lang="en">Creation of photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <rdfs:comment xml:lang="it">Creazione della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <crm:P4_has_time_span>
+         <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/1907-ante">
+            <rdfs:label xml:lang="en">1907/ ante</rdfs:label>
+            <rdfs:label xml:lang="it">1907/ ante</rdfs:label>
+         </crm:E52_Time-Span>
+      </crm:P4_has_time_span>
+      <crm:P14_carried_out_by>
+         <crm:E39_Actor rdf:about="https://w3id.org/zericatalog/organization/2087/anderson">
+            <crm:P76_has_contact_point>
+               <rdf:Description rdf:about="https://w3id.org/zericatalog/organization/2087/anderson/address">
+                  <rdfs:label xml:lang="it">Anderson</rdfs:label>
+                  <rdfs:label xml:lang="en">Anderson</rdfs:label>
+               </rdf:Description>
+            </crm:P76_has_contact_point>
+            <pro:holdsRoleInTime>
+               <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/photo/37113/photographer/anderson">
+                  <rdfs:label xml:lang="en">Anderson, photographer of photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                  <rdfs:label xml:lang="it">Anderson, fotografo della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+                  <rdfs:comment xml:lang="en">Anderson, photographer of photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+                  <rdfs:comment xml:lang="it">Anderson, fotografo della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+                  <pro:relatesToEntity>
+                     <fentry:Photograph rdf:about="https://w3id.org/zericatalog/photo/37113"/>
+                  </pro:relatesToEntity>
+                  <pro:withRole>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/role/photographer">
+                        <rdfs:label xml:lang="it">Fotografo</rdfs:label>
+                        <rdfs:label xml:lang="en">Photographer</rdfs:label>
+                     </rdf:Description>
+                  </pro:withRole>
+               </pro:RoleInTime>
+            </pro:holdsRoleInTime>
+         </crm:E39_Actor>
+      </crm:P14_carried_out_by>
+      <prov:wasGeneratedBy>
+         <hico:InterpretationAct rdf:about="https://w3id.org/zericatalog/photo/37113/photographer-attribution/anderson">
+            <rdfs:label xml:lang="en">Authorship attribution: Anderson</rdfs:label>
+            <rdfs:label xml:lang="it">Attribuzione di autorialità: Anderson</rdfs:label>
+            <rdfs:comment xml:lang="en">Authorship attribution, photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato": Anderson</rdfs:comment>
+            <rdfs:comment xml:lang="it">Attribuzione di autorialità, fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato": Anderson</rdfs:comment>
+            <crm:P3_has_note>iscrizione</crm:P3_has_note>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="https://w3id.org/zericatalog/type-of-attribution/zeri-preferred-attribution">
+                  <rdfs:label xml:lang="en">Zeri Foundation Preferred attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione scelta dalla Fondazione Zeri</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="http://purl.org/emmedi/oaentry/authorship-attribution">
+                  <rdfs:label xml:lang="en">Authorship attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione di autorialità</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationCriterion>
+               <rdf:Description rdf:about="https://w3id.org/zericatalog/criterion/inscription">
+                  <rdfs:label xml:lang="it">Iscrizione</rdfs:label>
+                  <rdfs:label xml:lang="en">Inscription</rdfs:label>
+               </rdf:Description>
+            </hico:hasInterpretationCriterion>
+            <prov:wasAssociatedWith>
+               <prov:Agent rdf:about="https://w3id.org/zericatalog/organization/crr-mm">
+                  <rdfs:label xml:lang="it">Centro Risorse per la Ricerca (CRR-MM)</rdfs:label>
+                  <rdfs:label xml:lang="en">Multimedia Center (CRR-MM)</rdfs:label>
+               </prov:Agent>
+            </prov:wasAssociatedWith>
+            <hico:isExtractedFrom>
+               <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/fentry/92276/expression-4"/>
+            </hico:isExtractedFrom>
+         </hico:InterpretationAct>
+      </prov:wasGeneratedBy>
+   </crm:E65_Creation>
+   <fentry:Shot rdf:about="https://w3id.org/zericatalog/photo/37113/shot">
+      <rdfs:label xml:lang="en">Shot of "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:label xml:lang="it">Scatto (immagine) della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+      <rdfs:comment xml:lang="en">Shot "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <rdfs:comment xml:lang="it">Scatto (immagine) della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:comment>
+      <crm:P94i_was_created_by rdf:resource="https://w3id.org/zericatalog/photo/37113/creation"/>
+      <frbr:embodiment rdf:resource="https://w3id.org/zericatalog/photo/37113/positive"/>
+      <frbr:embodiment rdf:resource="https://w3id.org/zericatalog/photo/37113/negative"/>
+   </fentry:Shot>
+   <fabio:AnalogManifestation rdf:about="https://w3id.org/zericatalog/photo/37113/positive">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+      <rdfs:label xml:lang="en">Photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", positive</rdfs:label>
+      <rdfs:label xml:lang="it">Fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", positivo</rdfs:label>
+      <frbr:exemplar rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+      <crm:P45_consists_of>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/material/gelatin-silver">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E57_Material"/>
+            <rdfs:label xml:lang="it">gelatina ai sali d'argento</rdfs:label>
+            <rdfs:label xml:lang="en">gelatin silver</rdfs:label>
+            <skos:relatedMatch rdf:resource="http://vocab.getty.edu/aat/300128695"/>
+         </rdf:Description>
+      </crm:P45_consists_of>
+      <crm:P45_consists_of>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/material/baryta-paper">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E57_Material"/>
+            <rdfs:label xml:lang="it">carta baritata</rdfs:label>
+            <rdfs:label xml:lang="en">baryta paper</rdfs:label>
+            <skos:relatedMatch rdf:resource="http://vocab.getty.edu/aat/300127335"/>
+         </rdf:Description>
+      </crm:P45_consists_of>
+      <crm:P56_bears_feature>
+         <crm:E26_Physical_Feature rdf:about="https://w3id.org/zericatalog/color/black-and-white">
+            <rdfs:label xml:lang="it">bianco e nero</rdfs:label>
+            <rdfs:label xml:lang="en">black and white</rdfs:label>
+         </crm:E26_Physical_Feature>
+      </crm:P56_bears_feature>
+      <crm:P39i_was_measured_by>
+         <crm:E16_Measurement rdf:about="https://w3id.org/zericatalog/photo/37113/positive/measurement">
+            <rdfs:label xml:lang="en">Measurement of the photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <rdfs:label xml:lang="it">Misure della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <crm:P39_measured rdf:resource="https://w3id.org/zericatalog/photo/37113/positive"/>
+            <crm:P40_observed_dimension>
+               <crm:E54_Dimension rdf:about="https://w3id.org/zericatalog/height/262mm">
+                  <rdfs:label xml:lang="it">Altezza: 262mm</rdfs:label>
+                  <rdfs:label xml:lang="en">Height: 262mm</rdfs:label>
+                  <crm:P2_has_type>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/height">
+                        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+                        <rdfs:label xml:lang="en">Height</rdfs:label>
+                        <rdfs:label xml:lang="it">Altezza</rdfs:label>
+                     </rdf:Description>
+                  </crm:P2_has_type>
+                  <crm:P90_has_value>262</crm:P90_has_value>
+                  <crm:P91_has_unit>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/unit/mm">
+                        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit"/>
+                        <rdfs:label xml:lang="en">Measurement unit: mm</rdfs:label>
+                        <rdfs:label xml:lang="it">Unità di misura: mm</rdfs:label>
+                     </rdf:Description>
+                  </crm:P91_has_unit>
+               </crm:E54_Dimension>
+            </crm:P40_observed_dimension>
+            <crm:P40_observed_dimension>
+               <crm:E54_Dimension rdf:about="https://w3id.org/zericatalog/length/197mm">
+                  <rdfs:label xml:lang="it">Lunghezza: 197mm</rdfs:label>
+                  <rdfs:label xml:lang="en">Length: 197mm</rdfs:label>
+                  <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E54_Dimension"/>
+                  <crm:P2_has_type>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/length">
+                        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E55_Type"/>
+                        <rdfs:label xml:lang="en">Lenght</rdfs:label>
+                        <rdfs:label xml:lang="it">Lunghezza</rdfs:label>
+                     </rdf:Description>
+                  </crm:P2_has_type>
+                  <crm:P90_has_value>197</crm:P90_has_value>
+                  <crm:P91_has_unit>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/unit/mm">
+                        <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E58_Measurement_Unit"/>
+                        <rdfs:label xml:lang="en">Measurement unit: mm</rdfs:label>
+                        <rdfs:label xml:lang="it">Unità di misura: mm</rdfs:label>
+                     </rdf:Description>
+                  </crm:P91_has_unit>
+               </crm:E54_Dimension>
+            </crm:P40_observed_dimension>
+            <crm:P2_has_type>
+               <crm:E55_Type rdf:about="https://w3id.org/zericatalog/primary-support">
+                  <rdfs:label xml:lang="it">supporto primario</rdfs:label>
+               </crm:E55_Type>
+            </crm:P2_has_type>
+         </crm:E16_Measurement>
+      </crm:P39i_was_measured_by>
+   </fabio:AnalogManifestation>
+   <fabio:AnalogManifestation rdf:about="https://w3id.org/zericatalog/photo/37113/negative">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+      <rdfs:label xml:lang="en">Photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", negative</rdfs:label>
+      <rdfs:label xml:lang="it">Fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", negativo</rdfs:label>
+      <frbr:exemplar rdf:resource="https://w3id.org/zericatalog/photo/37113/negative/item-fz"/>
+   </fabio:AnalogManifestation>
+   <fabio:AnalogItem rdf:about="https://w3id.org/zericatalog/photo/37113/positive/item-fz">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+      <rdfs:label xml:lang="en">Photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", positive - exemplar</rdfs:label>
+      <rdfs:label xml:lang="it">Fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", positivo - esemplare</rdfs:label>
+      <crm:P57_has_number_of_parts>1</crm:P57_has_number_of_parts>
+      <crm:P140i_was_attributed_by>
+         <crm:E13_Attribute_Assignment rdf:about="https://w3id.org/zericatalog/photo/37113/positive/item/invn-assignment">
+            <rdfs:label xml:lang="it">Assegnazione del numero di inventario: 92276</rdfs:label>
+            <rdfs:label xml:lang="en">Inventory number assignment: 92276</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/photo/invn/92276">
+                  <rdfs:label xml:lang="it">92276</rdfs:label>
+                  <rdfs:label xml:lang="en">92276</rdfs:label>
+                  <dcterms:description>92276</dcterms:description>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/inventory-number">
+                        <rdfs:label xml:lang="en">Inventory number</rdfs:label>
+                        <rdfs:label xml:lang="it">Numero d'inventario</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E13_Attribute_Assignment>
+      </crm:P140i_was_attributed_by>
+      <crm:P140i_was_attributed_by>
+         <crm:E13_Attribute_Assignment rdf:about="https://w3id.org/zericatalog/archival-unit/0426-4/item/invn-assignment">
+            <rdfs:label xml:lang="it">Assegnazione della collocazione: pi0426417</rdfs:label>
+            <rdfs:label xml:lang="en">Shelfmark number assignment: pi0426417</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/photo/shelfmark/pi0426417">
+                  <rdfs:label xml:lang="it">pi0426417</rdfs:label>
+                  <rdfs:label xml:lang="en">pi0426417</rdfs:label>
+                  <dcterms:description>pi0426417</dcterms:description>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/shelfmark-number">
+                        <rdfs:label xml:lang="en">Shelfmark number</rdfs:label>
+                        <rdfs:label xml:lang="it">Collocazione archivistica</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E13_Attribute_Assignment>
+      </crm:P140i_was_attributed_by>
+      <crm:P46i_forms_part_of rdf:resource="https://w3id.org/zericatalog/archival-unit/0426-4/item"/>
+      <crm:P55_has_current_location>
+         <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/ex-convent-of-s-cristina"/>
+      </crm:P55_has_current_location>
+      <crm:P50_has_current_keeper rdf:resource="https://w3id.org/zericatalog/organization/federico-zeri-foundation"/>
+      <crm:P52_has_current_owner>
+         <crm:E39_Actor rdf:about="https://w3id.org/zericatalog/organization/alma-mater-studiorum-university-of-bologna">
+            <rdfs:label xml:lang="it">Alma Mater Studiorum Università di Bologna</rdfs:label>
+            <rdfs:label xml:lang="en">Alma Mater Studiorum University of Bologna</rdfs:label>
+            <crm:P22i_acquired_title_through>
+               <rdf:Description rdf:about="https://w3id.org/zericatalog/photo/37113/acquisition/alma-mater-studiorum-university-of-bologna">
+                  <rdfs:label xml:lang="it">Acquisizione da parte di Alma Mater Studiorum Università di Bologna</rdfs:label>
+                  <rdfs:label xml:lang="en">Alma Mater Studiorum University of Bologna, acquisition</rdfs:label>
+                  <crm:P2_has_type>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/ownership-type/nonterritorial-public-authority-property">
+                        <rdfs:label xml:lang="it">proprietà Ente pubblico non territoriale</rdfs:label>
+                        <rdfs:label xml:lang="en">Non-territorial public authority property</rdfs:label>
+                     </rdf:Description>
+                  </crm:P2_has_type>
+                  <crm:P24_transferred_title_of>
+                     <rdf:Description rdf:about="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+                  </crm:P24_transferred_title_of>
+               </rdf:Description>
+            </crm:P22i_acquired_title_through>
+         </crm:E39_Actor>
+      </crm:P52_has_current_owner>
+      <foaf:depiction rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/120000/92400/92276.jpg"/>
+      <crm:P108i_was_produced_by rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz/print"/>
+   </fabio:AnalogItem>
+   <rdf:Description rdf:about="https://w3id.org/zericatalog/photo/37113/positive/item-fz/recto">
+      <rdfs:label xml:lang="it">recto of photograph</rdfs:label>
+      <rdfs:label xml:lang="en">recto della fotografia</rdfs:label>
+      <foaf:depiction rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/120000/92400/92276.jpg"/>
+   </rdf:Description>
+   <fabio:AnalogItem rdf:about="https://w3id.org/zericatalog/photo/37113/negative/item-fz">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+      <rdfs:label xml:lang="en">Photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", negative - exemplar</rdfs:label>
+      <rdfs:label xml:lang="it">Fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", negativo - esemplare</rdfs:label>
+      <crm:P140i_was_attributed_by>
+         <crm:E13_Attribute_Assignment rdf:about="https://w3id.org/zericatalog/photo/37113/negative/item/invn-assignment">
+            <rdfs:label xml:lang="it">Assegnazione del numero di inventario: 3074</rdfs:label>
+            <rdfs:label xml:lang="en">Inventory number assignment: 3074</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/photo/invn/3074">
+                  <rdfs:label xml:lang="it">3074</rdfs:label>
+                  <rdfs:label xml:lang="en">3074</rdfs:label>
+                  <dcterms:description>3074</dcterms:description>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/inventory-number">
+                        <rdfs:label xml:lang="en">Inventory number</rdfs:label>
+                        <rdfs:label xml:lang="it">Numero d'inventario</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+         </crm:E13_Attribute_Assignment>
+      </crm:P140i_was_attributed_by>
+   </fabio:AnalogItem>
+   <crm:E12_Production rdf:about="https://w3id.org/zericatalog/photo/37113/positive/item-fz/print">
+      <rdfs:label xml:lang="en">Print of the photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", positive</rdfs:label>
+      <rdfs:label xml:lang="it">Stampa della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato", positivo</rdfs:label>
+      <crm:P4_has_time_span>
+         <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/1890ca-1929ca">
+            <rdfs:label>1890-1929</rdfs:label>
+            <ti:hasIntervalStartDate>1890-01-01T00:00:00Z</ti:hasIntervalStartDate>
+            <ti:hasIntervalEndDate>1929-01-01T00:00:00Z</ti:hasIntervalEndDate>
+            <crm:P79_beginning_is_qualified_by>ca.</crm:P79_beginning_is_qualified_by>
+            <crm:P80_end_is_qualified_by>ca.</crm:P80_end_is_qualified_by>
+            <crm:P86_falls_within>
+               <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/xix-xx">
+                  <rdfs:label xml:lang="it">XIX/ XX</rdfs:label>
+               </crm:E52_Time-Span>
+            </crm:P86_falls_within>
+         </crm:E52_Time-Span>
+      </crm:P4_has_time_span>
+      <prov:wasGeneratedBy>
+         <hico:InterpretationAct rdf:about="https://w3id.org/zericatalog/photo/37113/attribution-of-date/1890ca-1929ca">
+            <rdfs:label xml:lang="en">Attribution of date: 1890ca-1929ca</rdfs:label>
+            <rdfs:label xml:lang="it">Attribuzione della data: 1890ca-1929ca</rdfs:label>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="https://w3id.org/zericatalog/type-of-attribution/zeri-preferred-attribution">
+                  <rdfs:label xml:lang="en">Zeri Foundation preferred attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione scelta dalla Fondazione Zeri</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="http://purl.org/emmedi/oaentry/date-attribution">
+                  <rdfs:label xml:lang="en">Attribution of date</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione della data</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <prov:wasAssociatedWith>
+               <prov:Agent rdf:about="https://w3id.org/zericatalog/organization/crr-mm"/>
+            </prov:wasAssociatedWith>
+            <hico:isExtractedFrom>
+               <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/fentry/92276/expression-4"/>
+            </hico:isExtractedFrom>
+            <crm:P3_has_note>Catalogo Anderson "Catalogue Général" 1907</crm:P3_has_note>
+            <crm:P3_has_note>bibliografia/ analisi tecnico-formale</crm:P3_has_note>
+            <hico:hasInterpretationCriterion>
+               <rdf:Description rdf:about="https://w3id.org/zericatalog/criterion/bibliography">
+                  <rdfs:label xml:lang="it">bibliografia</rdfs:label>
+                  <rdfs:label xml:lang="en">bibliography</rdfs:label>
+               </rdf:Description>
+            </hico:hasInterpretationCriterion>
+            <hico:hasInterpretationCriterion>
+               <rdf:Description rdf:about="https://w3id.org/zericatalog/criterion/formal-and-technical-analysis">
+                  <rdfs:label xml:lang="it">analisi tecnico formale</rdfs:label>
+                  <rdfs:label xml:lang="en">formal and technical analysis</rdfs:label>
+               </rdf:Description>
+            </hico:hasInterpretationCriterion>
+         </hico:InterpretationAct>
+      </prov:wasGeneratedBy>
+      <crm:P108_has_produced rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+   </crm:E12_Production>
+   <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/ex-convent-of-s-cristina">
+      <rdfs:label xml:lang="en">Ex convent of S. Cristina</rdfs:label>
+      <rdfs:label xml:lang="it">Ex convento di S. Cristina</rdfs:label>
+      <crm:P76_has_contact_point>
+         <crm:E45_Address rdf:about="https://w3id.org/zericatalog/address/piazzetta-g-morandi-2">
+            <rdfs:label xml:lang="en">piazzetta G. Morandi, 2</rdfs:label>
+            <rdfs:label xml:lang="it">piazzetta G. Morandi, 2</rdfs:label>
+         </crm:E45_Address>
+      </crm:P76_has_contact_point>
+      <crm:P89_falls_within>
+         <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/bologna">
+            <rdfs:label xml:lang="en">Bologna</rdfs:label>
+            <rdfs:label xml:lang="it">Bologna</rdfs:label>
+            <crm:P89_falls_within>
+               <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/bologna-district">
+                  <rdfs:label xml:lang="en">Bologna (district)</rdfs:label>
+                  <rdfs:label xml:lang="it">Bologna (provincia)</rdfs:label>
+                  <crm:P89_falls_within>
+                     <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/emilia-romagna">
+                        <rdfs:label xml:lang="en">Emilia Romagna</rdfs:label>
+                        <rdfs:label xml:lang="it">Emilia Romagna</rdfs:label>
+                        <crm:P89_falls_within>
+                           <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/italy">
+                              <rdfs:label xml:lang="en">Italy</rdfs:label>
+                              <rdfs:label xml:lang="it">Italia</rdfs:label>
+                           </crm:E53_Place>
+                        </crm:P89_falls_within>
+                     </crm:E53_Place>
+                  </crm:P89_falls_within>
+               </crm:E53_Place>
+            </crm:P89_falls_within>
+         </crm:E53_Place>
+      </crm:P89_falls_within>
+   </crm:E53_Place>
+   <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+      <rdfs:label xml:lang="it">Fondazione Federico Zeri - Università di Bologna</rdfs:label>
+      <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+      <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+      <pro:holdsRoleInTime>
+         <pro:RoleInTime rdf:about="https://w3id.org/zericatalog/photo/37113/positive/item/federico-zeri-foundation-cataloguing-istitution">
+            <rdfs:label xml:lang="it">Fondazione Federico Zeri - Università di Bologna, ente catalogatore della fotografia "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <rdfs:label xml:lang="en">Federico Zeri Foundation, cataloguing institution of the photograph "Anderson , Roma - Ritratto di Andrea Doria - Sebastiano del Piombo - Palazzo Doria - Appartamento privato"</rdfs:label>
+            <pro:withRole rdf:resource="http://purl.org/emmedi/oaentry/cataloguing-institution"/>
+            <pro:relatesTo rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+            <pro:isHeldBy rdf:resource="https://w3id.org/zericatalog/organization/federico-zeri-foundation"/>
+         </pro:RoleInTime>
+      </pro:holdsRoleInTime>
+      <crm:P74_has_current_or_former_residence rdf:resource="https://w3id.org/zericatalog/place/ex-convent-of-s-cristina"/>
+      <crm:P76_has_contact_point>
+         <crm:E45_Address rdf:about="https://w3id.org/zericatalog/address/piazzetta-g-morandi-2">
+            <rdfs:label xml:lang="en">piazzetta G. Morandi, 2</rdfs:label>
+            <rdfs:label xml:lang="it">piazzetta G. Morandi, 2</rdfs:label>
+         </crm:E45_Address>
+      </crm:P76_has_contact_point>
+      <frbr:creatorOf rdf:resource="https://w3id.org/zericatalog/collection/zeri-photo-archive"/>
+      <frbr:responsibleEntityOf rdf:resource="https://w3id.org/zericatalog/photo/37113/positive/item-fz"/>
+   </crm:E40_Legal_Body>
+</rdf:RDF>

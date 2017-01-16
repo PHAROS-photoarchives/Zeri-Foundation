@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Buon ladrone" sercdoa="16533">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16533</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15632</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTV etichetta="Identification">frammento</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Buon ladrone</SGTI>
+      <MTC etichetta="Medium or materials">olio su tavola</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">122.3</MISA>
+      <MISL etichetta="Length">134</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1517</DTSI>
+      <DTSF etichetta="To">1520</DTSF>
+      <ADT etichetta="Different dating">sec. XVI (1525-1527)</ADT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Regno Unito</PVCS>
+      <PVCC etichetta="Town / Municipality">Londra</PVCC>
+      <PVCL etichetta="Village">Richmond</PVCL>
+      <LDCN etichetta="Repository">Hampton Court Palace, Royal Collection</LDCN>
+      <LDCS etichetta="Precise location">inv. 690</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15632 , 15633</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+			   <RIPETIZIONE prog="1">
+				     <BIBX etichetta="Type">bibliografia specifica</BIBX>
+         <BIBA etichetta="Author">Zeri F.</BIBA>
+         <BIBG etichetta="Title">Pittura e Controriforma. L' «arte senza tempo» di Scipione da Gaeta</BIBG>
+         <BIBD etichetta="Publication date">1957</BIBD>
+         <BIBN etichetta="Page">107</BIBN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73179.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Bonaccorsi Pietro - sec. XVI - Il buon ladrone"
+            aufn="Royal Collection"
+            aufb=""
+            note="Royal Collection , Bonaccorsi Pietro - sec. XVI - Il buon ladrone - insieme"
+            sercdf="37490"
+            progr="1"
+            misa="216"
+            misl="161">/80000/73200/73179.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16533</ISSHOWNBY>
+	</SCHEDA>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Robusti Jacopo , Martirio di san Lorenzo" sercdoa="11466">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">11466</SERCD>
+			   <NRSCHEDA etichetta="Entry number">8902</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0453</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Venezia. Tintoretto 1</UBFT>
+         <UBFF etichetta="Folder number">5</UBFF>
+         <UBFU etichetta="Folder heading">Jacopo Robusti (il Tintoretto): santi</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Martirio di san Lorenzo</SGTI>
+      <MTC etichetta="Medium or materials">tela</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">126</MISA>
+      <MISL etichetta="Length">191</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Robusti Jacopo</AUTN>
+         <AUTP etichetta="Pseudonym">Tintoretto</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola veneta</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1585</DTSI>
+      <DTSV etichetta="Degree of approximation">ca.</DTSV>
+      <DTSF etichetta="To">1590</DTSF>
+      <DTSL etichetta="Degree of approximation">ca.</DTSL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Regno Unito</PVCS>
+      <PVCC etichetta="Town / Municipality">Oxford</PVCC>
+      <LDCN etichetta="Repository">Christ Church Picture Gallery</LDCN>
+      <LDCS etichetta="Precise location">inv. 213</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+			   <RIPETIZIONE prog="1">
+				     <BIBX etichetta="Type">bibliografia specifica</BIBX>
+         <BIBA etichetta="Author">Pallucchini R./ Rossi P.</BIBA>
+         <BIBG etichetta="Title">Tintoretto. Le opere sacre e profane</BIBG>
+         <BIBD etichetta="Publication date">1982</BIBD>
+         <BIBN etichetta="Page">v. I p. 230</BIBN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+			   <RIPETIZIONE prog="1">
+				     <MSTL etichetta="Place of exhibition">Londra</MSTL>
+         <MSTD etichetta="Date of exhibition">1960</MSTD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\120000\98000\97818.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Robusti Jacopo - sec. XVI - Martirio di san Lorenzo"
+            aufn="Photo Studios Limited"
+            aufb=""
+            note="Photo Studios Limited , Robusti Jacopo - sec. XVI - Martirio di san Lorenzo - insieme"
+            sercdf="113228"
+            progr="1"
+            misa="144"
+            misl="208">/120000/98000/97818.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=11466</ISSHOWNBY>
+	</SCHEDA>

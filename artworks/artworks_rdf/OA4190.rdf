@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:hico="http://purl.org/emmedi/hico/"
+         xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+         xmlns:oaentry="http://purl.org/emmedi/oaentry/"
+         xmlns:fentry="http://www.essepuntato.it/2014/03/fentry/"
+         xmlns:frbr="http://purl.org/vocab/frbr/core#"
+         xmlns:fabio="http://purl.org/spar/fabio/"
+         xmlns:cito="http://purl.org/spar/cito/"
+         xmlns:prov="http://www.w3.org/ns/prov#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:zeri="https://w3id.org/zericatalog/"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:pro="http://purl.org/spar/pro/"
+         xmlns:time="http://www.ontologydesignpatterns.org/cp/owl/timeindexedsituation.owl#"
+         xmlns:ti="http://www.ontologydesignpatterns.org/cp/owl/timeinterval.owl#"
+         xmlns:tvc="http://www.essepuntato.it/2012/04/tvc/">
+   <oaentry:OAEntry rdf:about="https://w3id.org/zericatalog/oaentry/3483"
+                    rdf:type="http://www.cidoc-crm.org/cidoc-crm/E31_Document">
+      <rdfs:label xml:lang="it">Scheda OA "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+      <rdfs:label xml:lang="en">OA Entry "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+      <rdfs:comment xml:lang="it">Scheda OA, "Bartolomeo Veneto , Ritratto di giovane donna con liuto", n. 3483</rdfs:comment>
+      <rdfs:comment xml:lang="en">OA Entry, "Bartolomeo Veneto , Ritratto di giovane donna con liuto", n. 3483</rdfs:comment>
+      <fabio:hasPortrayal rdf:resource="http://catalogo.fondazionezeri.unibo.it/scheda.jsp?decorator=layout_resp&amp;apply=true&amp;tipo_scheda=OA&amp;id=4190"/>
+      <oaentry:describes rdf:resource="https://w3id.org/zericatalog/artwork/4190"/>
+      <oaentry:describes rdf:resource="https://w3id.org/zericatalog/artwork/4190/manifestation"/>
+      <oaentry:describes rdf:resource="https://w3id.org/zericatalog/artwork/4190/item"/>
+      <crm:P102_has_title>
+         <crm:E35_Title rdf:about="https://w3id.org/zericatalog/oaentry/3483/title">
+            <rdfs:label xml:lang="it">Bartolomeo Veneto , Ritratto di giovane donna con liuto</rdfs:label>
+            <rdfs:label xml:lang="en">Bartolomeo Veneto , Ritratto di giovane donna con liuto</rdfs:label>
+         </crm:E35_Title>
+      </crm:P102_has_title>
+      <crm:P140i_was_attributed_by>
+         <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/oaentry/3483/id-assignment">
+            <rdfs:label xml:lang="it">Assegnazione dell'identificativo: 3483</rdfs:label>
+            <rdfs:label xml:lang="en">Assignment of unique identifier: 3483</rdfs:label>
+            <crm:P37_assigned>
+               <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/oaentry/id/3483">
+                  <rdfs:label xml:lang="it">3483</rdfs:label>
+                  <rdfs:label xml:lang="en">3483</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/catalog-entry-number">
+                        <rdfs:label xml:lang="en">Catalog entry number</rdfs:label>
+                        <rdfs:label xml:lang="it">Numero di catalogo della scheda</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E42_Identifier>
+            </crm:P37_assigned>
+            <crm:P14_carried_out_by>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                  <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+               </crm:E40_Legal_Body>
+            </crm:P14_carried_out_by>
+         </crm:E15_Identifier_Assignment>
+      </crm:P140i_was_attributed_by>
+      <crm:P94i_was_created_by rdf:resource="https://w3id.org/zericatalog/oaentry/3483/creation"/>
+      <frbr:realization rdf:resource="https://w3id.org/zericatalog/oaentry/3483/expression-1"/>
+      <cito:citesForInformation>
+         <fabio:Catalog rdf:about="https://w3id.org/zericatalog/catalog/lo11251811">
+            <rdfs:label xml:lang="it">Catalogo d'asta n. LO11251811</rdfs:label>
+            <rdfs:label xml:lang="en">Auction catalog n. LO11251811</rdfs:label>
+            <dcterms:description>Old Master Paintings : Wednesday 7th July 1993 / Sotheby's</dcterms:description>
+            <dcterms:identifier>LO11251811</dcterms:identifier>
+            <crm:P140i_was_attributed_by>
+               <crm:E15_Identifier_Assignment rdf:about="https://w3id.org/zericatalog/catalog/lo11251811/id-assignment">
+                  <rdfs:label xml:lang="it">Assegnazione dell'identificativo: LO11251811</rdfs:label>
+                  <rdfs:label xml:lang="en">Assignment of unique identifier: LO11251811</rdfs:label>
+                  <crm:P37_assigned>
+                     <crm:E42_Identifier rdf:about="https://w3id.org/zericatalog/catalog/id/lo11251811">
+                        <rdfs:label xml:lang="it">LO11251811</rdfs:label>
+                        <rdfs:label xml:lang="en">LO11251811</rdfs:label>
+                        <crm:P2_has_type>
+                           <crm:E55_Type rdf:about="https://w3id.org/zericatalog/catalog-number">
+                              <rdfs:label xml:lang="en">Catalog number</rdfs:label>
+                              <rdfs:label xml:lang="it">Numero di catalogo</rdfs:label>
+                           </crm:E55_Type>
+                        </crm:P2_has_type>
+                     </crm:E42_Identifier>
+                  </crm:P37_assigned>
+                  <crm:P14_carried_out_by>
+                     <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                        <rdfs:label xml:lang="it">Fondazione Federico Zeri</rdfs:label>
+                        <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+                        <owl:sameAs rdf:resource="http://viaf.org/viaf/253131638"/>
+                     </crm:E40_Legal_Body>
+                  </crm:P14_carried_out_by>
+               </crm:E15_Identifier_Assignment>
+            </crm:P140i_was_attributed_by>
+         </fabio:Catalog>
+      </cito:citesForInformation>
+      <cito:citesAsEvidence rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/120000/92400/92163.jpg"/>
+      <cito:citesAsEvidence rdf:resource="https://w3id.org/zericatalog/photo/111293/positive/item-fz"/>
+   </oaentry:OAEntry>
+   <crm:E65_Creation rdf:about="https://w3id.org/zericatalog/oaentry/3483/creation">
+      <rdfs:label xml:lang="en">Creation of the OA Entry "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+      <rdfs:label xml:lang="it">Creazione della Scheda OA "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+      <crm:P94_has_created rdf:resource="https://w3id.org/zericatalog/oaentry/3483"/>
+      <crm:P14_carried_out_by>
+         <crm:E21_Person rdf:about="https://w3id.org/zericatalog/person/monica-cavicchi">
+            <rdfs:label xml:lang="it">Monica Cavicchi</rdfs:label>
+            <rdfs:label xml:lang="en">Monica Cavicchi</rdfs:label>
+            <crm:P107i_is_current_or_former_member_of>
+               <crm:E40_Legal_Body rdf:about="https://w3id.org/zericatalog/organization/federico-zeri-foundation">
+                  <rdfs:label xml:lang="it">Fondazione Federico Zeri - Università di Bologna</rdfs:label>
+                  <rdfs:label xml:lang="en">Federico Zeri Foundation</rdfs:label>
+               </crm:E40_Legal_Body>
+            </crm:P107i_is_current_or_former_member_of>
+         </crm:E21_Person>
+      </crm:P14_carried_out_by>
+   </crm:E65_Creation>
+   <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/oaentry/3483/expression-1">
+      <rdfs:label xml:lang="it">Contenuto della scheda OA "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+      <rdfs:label xml:lang="en">Content of the OA Entry "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+   </fabio:MetadataDocument>
+   <fabio:ArtisticWork rdf:about="https://w3id.org/zericatalog/artwork/4190"
+                       rdf:type="http://www.cidoc-crm.org/cidoc-crm/E28_Conceptual_Object">
+      <rdfs:label xml:lang="en">Artwork "Bartolomeo Veneto , Ritratto di giovane donna con liuto" </rdfs:label>
+      <rdfs:label xml:lang="it">Opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto" </rdfs:label>
+      <rdfs:comment xml:lang="en">Artwork "Bartolomeo Veneto , Ritratto di giovane donna con liuto" </rdfs:comment>
+      <rdfs:comment xml:lang="it">Opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto" </rdfs:comment>
+      <crm:P2_has_type>
+         <crm:E55_Type rdf:about="https://w3id.org/zericatalog/object/painting">
+            <rdfs:label xml:lang="it">dipinto</rdfs:label>
+            <rdfs:label xml:lang="en">painting</rdfs:label>
+            <skos:relatedMatch rdf:resource="http://vocab.getty.edu/aat/300033618"/>
+         </crm:E55_Type>
+      </crm:P2_has_type>
+      <fabio:hasSubjectTerm>
+         <fabio:SubjectTerm rdf:about="https://w3id.org/zericatalog/subject/ritratto-di-giovane-donna-con-liuto">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E1_Entity"/>
+            <rdfs:label xml:lang="it">Ritratto di giovane donna con liuto</rdfs:label>
+         </fabio:SubjectTerm>
+      </fabio:hasSubjectTerm>
+      <oaentry:isDescribedBy rdf:resource="https://w3id.org/zericatalog/oaentry/3483"/>
+      <crm:P94i_was_created_by rdf:resource="https://w3id.org/zericatalog/artwork/4190/creation"/>
+      <fabio:hasManifestation>
+         <fabio:AnalogManifestation rdf:about="https://w3id.org/zericatalog/artwork/4190/manifestation">
+            <frbr:exemplar rdf:resource="https://w3id.org/zericatalog/artwork/4190/item"/>
+         </fabio:AnalogManifestation>
+      </fabio:hasManifestation>
+      <frbr:subjectOf rdf:resource="https://w3id.org/zericatalog/catalog/lo11251811"/>
+      <foaf:depiction rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/120000/92400/92163.jpg"/>
+   </fabio:ArtisticWork>
+   <crm:E65_Creation rdf:about="https://w3id.org/zericatalog/artwork/4190/creation">
+      <rdfs:label xml:lang="it">Creazione dell'opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto", 1515-1530</rdfs:label>
+      <rdfs:label xml:lang="en">Creation of the artwork "Bartolomeo Veneto , Ritratto di giovane donna con liuto", 1515-1530</rdfs:label>
+      <rdfs:comment xml:lang="it">Creazione dell'opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto", 1515-1530</rdfs:comment>
+      <rdfs:comment xml:lang="en">Creation of the artwork "Bartolomeo Veneto , Ritratto di giovane donna con liuto", 1515-1530</rdfs:comment>
+      <crm:P4_has_time_span>
+         <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/1515-1530">
+            <rdfs:label xml:lang="it">1515-1530</rdfs:label>
+            <rdfs:label xml:lang="en">1515-1530</rdfs:label>
+            <ti:hasIntervalStartDate>1515-01-01T00:00:00Z</ti:hasIntervalStartDate>
+            <ti:hasIntervalEndDate>1530-01-01T00:00:00Z</ti:hasIntervalEndDate>
+            <crm:P86_falls_within>
+               <crm:E52_Time-Span rdf:about="https://w3id.org/zericatalog/date/sec-xvi">
+                  <rdfs:label xml:lang="it">sec. XVI</rdfs:label>
+                  <rdfs:label xml:lang="en">sec. XVI</rdfs:label>
+               </crm:E52_Time-Span>
+            </crm:P86_falls_within>
+         </crm:E52_Time-Span>
+      </crm:P4_has_time_span>
+      <prov:wasGeneratedBy>
+         <hico:InterpretationAct rdf:about="https://w3id.org/zericatalog/artwork/4190/attribution-of-date/1515-1530">
+            <rdfs:label xml:lang="en">Attribution of creation date: 1515-1530</rdfs:label>
+            <rdfs:label xml:lang="it">Attribuzione della data di creazione: 1515-1530</rdfs:label>
+            <rdf:type rdf:resource="http://purl.org/emmedi/hico/InterpretationAct"/>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="https://w3id.org/zericatalog/type-of-attribution/zeri-preferred-attribution">
+                  <rdfs:label xml:lang="en">Zeri Foundation preferred attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione scelta dalla Fondazione Zeri</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="http://purl.org/emmedi/oaentry/date-attribution">
+                  <rdfs:label xml:lang="en">Attribution of date</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione della data</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationCriterion>
+               <hico:InterpretationCriterion rdf:about="https://w3id.org/zericatalog/criterion/cataloguers-choice">
+                  <rdfs:label xml:lang="en">Cataloguer's choice</rdfs:label>
+                  <rdfs:label xml:lang="it">Scelta del catalogatore</rdfs:label>
+               </hico:InterpretationCriterion>
+            </hico:hasInterpretationCriterion>
+            <prov:wasAssociatedWith>
+               <prov:Agent rdf:about="https://w3id.org/zericatalog/organization/crr-mm"/>
+            </prov:wasAssociatedWith>
+            <hico:isExtractedFrom>
+               <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/oaentry/3483/expression-1"/>
+            </hico:isExtractedFrom>
+         </hico:InterpretationAct>
+      </prov:wasGeneratedBy>
+      <crm:P94_has_created rdf:resource="https://w3id.org/zericatalog/artwork/4190"/>
+      <crm:P14_carried_out_by>
+         <crm:E21_Person rdf:about="https://w3id.org/zericatalog/person/x/bartolomeo-veneto">
+            <rdfs:label xml:lang="it">Bartolomeo Veneto</rdfs:label>
+            <crm:P131_is_identified_by>
+               <crm:E82_Actor_Appellation rdf:about="https://w3id.org/zericatalog/name/bartolomeo-veneto">
+                  <rdfs:label xml:lang="it">Bartolomeo Veneto</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/preferred-name">
+                        <rdfs:label xml:lang="en">Preferred name</rdfs:label>
+                        <rdfs:label xml:lang="it">Nome scelto</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+               </crm:E82_Actor_Appellation>
+            </crm:P131_is_identified_by>
+            <crm:P107i_is_current_or_former_member_of>
+               <crm:E74_Group rdf:about="https://w3id.org/zericatalog/scuola-italiana">
+                  <rdfs:label xml:lang="it">scuola italiana</rdfs:label>
+               </crm:E74_Group>
+            </crm:P107i_is_current_or_former_member_of>
+            <crm:P107i_is_current_or_former_member_of>
+               <crm:E74_Group rdf:about="https://w3id.org/zericatalog/scuola-veneta">
+                  <rdfs:label xml:lang="it">scuola veneta</rdfs:label>
+               </crm:E74_Group>
+            </crm:P107i_is_current_or_former_member_of>
+         </crm:E21_Person>
+      </crm:P14_carried_out_by>
+      <prov:wasGeneratedBy>
+         <hico:InterpretationAct rdf:about="https://w3id.org/zericatalog/artwork/4190/authorship/bartolomeo-veneto">
+            <rdfs:label xml:lang="en">Authorship attribution of the artistic work: Bartolomeo Veneto</rdfs:label>
+            <rdfs:label xml:lang="it">Attribuzione di autorialità dell'opera: Bartolomeo Veneto</rdfs:label>
+            <rdfs:comment xml:lang="en">Authorship attribution of the artistic work "Bartolomeo Veneto , Ritratto di giovane donna con liuto": Bartolomeo Veneto</rdfs:comment>
+            <rdfs:comment xml:lang="it">Attribuzione di autorialità dell'opera "Bartolomeo Veneto , Ritratto di giovane donna con liuto": Bartolomeo Veneto</rdfs:comment>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="https://w3id.org/zericatalog/type-of-attribution/zeri-preferred-attribution">
+                  <rdfs:label xml:lang="en">Zeri Foundation preferred attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione scelta dalla Fondazione Zeri</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <hico:hasInterpretationType>
+               <hico:InterpretationType rdf:about="http://purl.org/emmedi/hico/authorship-attribution">
+                  <rdfs:label xml:lang="en">Authorship attribution</rdfs:label>
+                  <rdfs:label xml:lang="it">Attribuzione di autorialità</rdfs:label>
+               </hico:InterpretationType>
+            </hico:hasInterpretationType>
+            <crm:P3_has_note>Bibliografia</crm:P3_has_note>
+            <hico:hasInterpretationCriterion>
+               <hico:InterpretationCriterion rdf:about="https://w3id.org/zericatalog/criterion/bibliography">
+                  <rdfs:label xml:lang="en">Bibliography</rdfs:label>
+                  <rdfs:label xml:lang="it">Bibliografia</rdfs:label>
+               </hico:InterpretationCriterion>
+            </hico:hasInterpretationCriterion>
+            <prov:wasAssociatedWith>
+               <prov:Agent rdf:about="https://w3id.org/zericatalog/organization/crr-mm"/>
+            </prov:wasAssociatedWith>
+            <hico:isExtractedFrom>
+               <fabio:MetadataDocument rdf:about="https://w3id.org/zericatalog/oaentry/3483/expression-1"/>
+            </hico:isExtractedFrom>
+         </hico:InterpretationAct>
+      </prov:wasGeneratedBy>
+   </crm:E65_Creation>
+   <fabio:AnalogManifestation rdf:about="https://w3id.org/zericatalog/artwork/4190/manifestation">
+      <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object"/>
+      <rdfs:label xml:lang="en">Artwork "Bartolomeo Veneto , Ritratto di giovane donna con liuto", painting, manifestation</rdfs:label>
+      <rdfs:label xml:lang="it">Opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto", dipinto, manifestazione</rdfs:label>
+      <frbr:exemplar rdf:resource="https://w3id.org/zericatalog/artwork/4190/item"/>
+      <crm:P45_consists_of>
+         <crm:E57_Material rdf:about="https://w3id.org/zericatalog/material/panel">
+            <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E57_Material"/>
+            <rdfs:label xml:lang="it">Tavola</rdfs:label>
+            <rdfs:label xml:lang="en">Panel</rdfs:label>
+            <skos:relatedMatch rdf:resource="http://vocab.getty.edu/aat/300014657"/>
+         </crm:E57_Material>
+      </crm:P45_consists_of>
+      <crm:P39i_was_measured_by>
+         <crm:E16_Measurement rdf:about="https://w3id.org/zericatalog/artwork/4190/item/measurement">
+            <rdfs:label xml:lang="en">Measurement of the artistic work "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+            <rdfs:label xml:lang="it">Misure dell'opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+            <crm:P39_measured rdf:resource="https://w3id.org/zericatalog/artwork/4190/manifestation"/>
+            <crm:P40_observed_dimension>
+               <crm:E54_Dimension rdf:about="https://w3id.org/zericatalog/height/83cm">
+                  <rdfs:label xml:lang="it">Altezza: 83cm</rdfs:label>
+                  <rdfs:label xml:lang="en">Height: 83cm</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/height">
+                        <rdfs:label xml:lang="en">Height</rdfs:label>
+                        <rdfs:label xml:lang="it">Altezza</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+                  <crm:P90_has_value>83</crm:P90_has_value>
+                  <crm:P91_has_unit>
+                     <crm:E58_Measurement_Unit rdf:about="https://w3id.org/zericatalog/unit/cm">
+                        <rdfs:label xml:lang="en">Measurement unit: cm</rdfs:label>
+                        <rdfs:label xml:lang="it">Unità di misura: cm</rdfs:label>
+                     </crm:E58_Measurement_Unit>
+                  </crm:P91_has_unit>
+               </crm:E54_Dimension>
+            </crm:P40_observed_dimension>
+            <crm:P40_observed_dimension>
+               <crm:E54_Dimension rdf:about="https://w3id.org/zericatalog/length/43cm">
+                  <rdfs:label xml:lang="it">Lunghezza: 43cm</rdfs:label>
+                  <rdfs:label xml:lang="en">Length: 43cm</rdfs:label>
+                  <crm:P2_has_type>
+                     <crm:E55_Type rdf:about="https://w3id.org/zericatalog/length">
+                        <rdfs:label xml:lang="en">Lenght</rdfs:label>
+                        <rdfs:label xml:lang="it">Lunghezza</rdfs:label>
+                     </crm:E55_Type>
+                  </crm:P2_has_type>
+                  <crm:P90_has_value>43</crm:P90_has_value>
+                  <crm:P91_has_unit>
+                     <crm:E58_Measurement_Unit rdf:about="https://w3id.org/zericatalog/unit/cm">
+                        <rdfs:label xml:lang="en">Measurement unit: cm</rdfs:label>
+                        <rdfs:label xml:lang="it">Unità di misura: cm</rdfs:label>
+                     </crm:E58_Measurement_Unit>
+                  </crm:P91_has_unit>
+               </crm:E54_Dimension>
+            </crm:P40_observed_dimension>
+         </crm:E16_Measurement>
+      </crm:P39i_was_measured_by>
+   </fabio:AnalogManifestation>
+   <fabio:AnalogItem rdf:about="https://w3id.org/zericatalog/artwork/4190/item"
+                     rdf:type="http://www.cidoc-crm.org/cidoc-crm/E84_Information_Carrier">
+      <rdfs:label xml:lang="en">Artwork "Bartolomeo Veneto , Ritratto di giovane donna con liuto" - exemplar</rdfs:label>
+      <rdfs:label xml:lang="it">Esemplare dell'opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+      <rdfs:comment xml:lang="en">Artwork "Bartolomeo Veneto , Ritratto di giovane donna con liuto" - exemplar</rdfs:comment>
+      <rdfs:comment xml:lang="it">Esemplare dell'opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:comment>
+      <foaf:depiction rdf:resource="http://catalogo.fondazionezeri.unibo.it/foto/120000/92400/92163.jpg"/>
+      <crm:P108i_was_produced_by rdf:resource="https://w3id.org/zericatalog/artwork/4190/production"/>
+      <crm:P50_has_current_keeper>
+         <crm:E39_Actor rdf:about="https://w3id.org/zericatalog/asta-sothebys-londra">
+            <rdfs:label xml:lang="it">Asta Sotheby's</rdfs:label>
+            <crm:P74_has_current_or_former_residence>
+               <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/londra">
+                  <rdfs:label xml:lang="it">Londra</rdfs:label>
+                  <crm:P89_falls_within>
+                     <crm:E53_Place rdf:about="https://w3id.org/zericatalog/place/regno-unito">
+                        <rdfs:label xml:lang="it">Regno Unito</rdfs:label>
+                     </crm:E53_Place>
+                  </crm:P89_falls_within>
+               </crm:E53_Place>
+            </crm:P74_has_current_or_former_residence>
+            <crm:P29i_received_custody_through>
+               <crm:E10_Transfer_of_Custody rdf:about="https://w3id.org/zericatalog/artwork/4190/provenance-1">
+                  <rdfs:label xml:lang="it">Trasferimento di custodia dell'opera "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+                  <rdfs:label xml:lang="en">Transfer of custody of the work of art "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+                  <rdfs:comment xml:lang="it">Trasferimento di custodia dell'opera "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:comment>
+                  <rdfs:comment xml:lang="en">Transfer of custody of the work of art "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:comment>
+                  <crm:P28_custody_surrendered_by>
+                     <crm:E39_Actor rdf:about="https://w3id.org/zericatalog/">
+                        <rdfs:label xml:lang="it">Collezione Banks</rdfs:label>
+                        <rdfs:label xml:lang="en">Collezione Banks</rdfs:label>
+                     </crm:E39_Actor>
+                  </crm:P28_custody_surrendered_by>
+                  <crm:P30_transferred_custody_of rdf:resource="https://w3id.org/zericatalog/artwork/4190/item"/>
+               </crm:E10_Transfer_of_Custody>
+            </crm:P29i_received_custody_through>
+         </crm:E39_Actor>
+      </crm:P50_has_current_keeper>
+      <crm:P55_has_current_location>
+         <crm:E53_Place rdf:about="https://w3id.org/zericatalog/artwork/4190/item/current-location">
+            <rdfs:label xml:lang="en">Asta Sotheby's, precise location</rdfs:label>
+            <rdfs:label xml:lang="it">Asta Sotheby's, collocazione</rdfs:label>
+            <crm:P3_has_note>7 luglio 1993, n. 213</crm:P3_has_note>
+         </crm:E53_Place>
+      </crm:P55_has_current_location>
+   </fabio:AnalogItem>
+   <crm:E12_Production rdf:about="https://w3id.org/zericatalog/artwork/4190/production">
+      <rdfs:label xml:lang="en">Artistic work "Bartolomeo Veneto , Ritratto di giovane donna con liuto" execution</rdfs:label>
+      <rdfs:label xml:lang="it">Esecuzione dell'opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:label>
+      <rdfs:comment xml:lang="en">Artistic work "Bartolomeo Veneto , Ritratto di giovane donna con liuto execution</rdfs:comment>
+      <rdfs:comment xml:lang="it">Esecuzione dell'opera d'arte "Bartolomeo Veneto , Ritratto di giovane donna con liuto"</rdfs:comment>
+      <crm:P32_used_general_technique>
+         <rdf:Description rdf:about="https://w3id.org/zericatalog/paint">
+            <rdfs:label xml:lang="it">dipinto</rdfs:label>
+            <rdfs:label xml:lang="en">paint</rdfs:label>
+            <skos:relatedMatch rdf:resource="http://vocab.getty.edu/aat/300054216"/>
+         </rdf:Description>
+      </crm:P32_used_general_technique>
+   </crm:E12_Production>
+</rdf:RDF>

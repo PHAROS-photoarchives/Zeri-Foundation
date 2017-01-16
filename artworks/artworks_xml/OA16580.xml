@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Buonarroti Michelangelo , Sibilla Cumana" sercdoa="16580">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16580</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15428</NRSCHEDA>
+      <RVEL etichetta="Hierarchical level">16</RVEL>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0393</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Michelangelo 1</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Michelangelo: cappella Sistina 4</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTV etichetta="Identification">elemento d'insieme</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Sibilla Cumana</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Buonarroti Michelangelo</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1510</DTSI>
+      <DTSF etichetta="To">1510</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Città del Vaticano</PVCS>
+      <PVCC etichetta="Town / Municipality">Città del Vaticano</PVCC>
+      <LDCN etichetta="Repository">Palazzi Vaticani, Cappella Sistina</LDCN>
+      <LDCS etichetta="Precise location">volta</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">Affreschi di Michelangelo nella volta della Cappella Sistina</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\120000\85600\85281.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Sibilla Cumana"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Sibilla Cumana - insieme"
+            sercdf="37791"
+            progr="1"
+            misa="240"
+            misl="181">/120000/85600/85281.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85282.jpg"
+            ftat="insieme"
+            sglt="Roma - Sibilla Cumana - Michelangelo - Capp. Sistina"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Sibilla Cumana - Michelangelo - Capp. Sistina - insieme"
+            sercdf="37792"
+            progr="2"
+            misa="258"
+            misl="196">/120000/85600/85282.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85284.jpg"
+            ftat="particolare"
+            sglt="Roma - Capp. - Sistina - Dettaglio - Sibilla Cumana - Michelangelo."
+            sgla=""
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Roma - Capp. - Sistina - Dettaglio - Sibilla Cumana - Michelangelo. - particolare"
+            sercdf="37793"
+            progr="3"
+            misa="258"
+            misl="197">/120000/85600/85284.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85285.jpg"
+            ftat="particolare"
+            sglt="Roma - Michelangelo - Sibilla Cumana - Cappella Sistina"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Michelangelo - Sibilla Cumana - Cappella Sistina - particolare"
+            sercdf="37795"
+            progr="4"
+            misa="260"
+            misl="197">/120000/85600/85285.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85283.jpg"
+            ftat="particolare"
+            sglt="Roma - Michelangiolo. Dettaglio della Sibilla Cumana (C. Sistina)"
+            sgla=""
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Roma - Michelangiolo. Dettaglio della Sibilla Cumana (C. Sistina) - particolare"
+            sercdf="37794"
+            progr="5"
+            misa="236"
+            misl="178">/120000/85600/85283.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16580</ISSHOWNBY>
+	</SCHEDA>

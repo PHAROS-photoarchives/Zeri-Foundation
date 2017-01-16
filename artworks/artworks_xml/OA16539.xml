@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Cristo Redentore benedicente"
+        sercdoa="16539">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16539</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15637</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Cristo Redentore benedicente</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">metà</DTZS>
+      <DTSI etichetta="From">1543</DTSI>
+      <DTSF etichetta="To">1543</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Rocca di Papa</PVCC>
+      <LDCN etichetta="Repository">Chiesa di S. Maria Assunta</LDCN>
+      <LDCS etichetta="Precise location">battistero</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+			   <RIPETIZIONE prog="1">
+				     <BIBX etichetta="Type">bibliografia specifica</BIBX>
+         <BIBA etichetta="Author">AA.VV.</BIBA>
+         <BIBG etichetta="Title">L'Italia. Lazio</BIBG>
+         <BIBD etichetta="Publication date">2005</BIBD>
+         <BIBN etichetta="Page">p. 789</BIBN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73187.jpg"
+            ftat="insieme, dopo il restauro"
+            sglt="Rocca di Papa - Chiesa Parrocchiale di S. Maria. Pierino del Vaga. Redentore benedicente (dopo il restauro)"
+            sgla=""
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Rocca di Papa - Chiesa Parrocchiale di S. Maria. Pierino del Vaga. Redentore benedicente (dopo il restauro) - insieme, dopo il restauro"
+            sercdf="37571"
+            progr="1"
+            misa="234"
+            misl="152">/80000/73200/73187.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73189.jpg"
+            ftat="insieme"
+            sglt="Rocca di Papa - Chiesa Parrocchiale - tavola di Pierin del Vaga - Il Redentore -"
+            sgla=""
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Rocca di Papa - Chiesa Parrocchiale - tavola di Pierin del Vaga - Il Redentore - - insieme"
+            sercdf="37572"
+            progr="2"
+            misa="276"
+            misl="192">/80000/73200/73189.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73186.jpg"
+            ftat="insieme"
+            sglt="Rocca di Papa - Duomo. Il Redentore, di Perin del Vaga."
+            sgla=""
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Rocca di Papa - Duomo. Il Redentore, di Perin del Vaga. - insieme"
+            sercdf="37573"
+            progr="3"
+            misa="139"
+            misl="89">/80000/73200/73186.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73188.jpg"
+            ftat="particolare, dopo il restauro"
+            sglt="Rocca di Papa - Chiesa Parrocchiale di S. Maria. Pierino del Vaga. Redentore benedicente (particolare). dopo il restauro)"
+            sgla=""
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Rocca di Papa - Chiesa Parrocchiale di S. Maria. Pierino del Vaga. Redentore benedicente (particolare). dopo il restauro) - particolare, dopo il restauro"
+            sercdf="37574"
+            progr="4"
+            misa="237"
+            misl="175">/80000/73200/73188.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16539</ISSHOWNBY>
+	</SCHEDA>

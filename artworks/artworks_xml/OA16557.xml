@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Buonarroti Michelangelo , Conversione di san Paolo"
+        sercdoa="16557">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16557</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15425</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0394</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Michelangelo 2</UBFT>
+         <UBFF etichetta="Folder number">2</UBFF>
+         <UBFU etichetta="Folder heading">Michelangelo: cappella Paolina</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Conversione di san Paolo</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">625</MISA>
+      <MISL etichetta="Length">661</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Buonarroti Michelangelo</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">metà</DTZS>
+      <DTSI etichetta="From">1542</DTSI>
+      <DTSF etichetta="To">1545</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Città del Vaticano</PVCS>
+      <PVCC etichetta="Town / Municipality">Città del Vaticano</PVCC>
+      <LDCN etichetta="Repository">Palazzi Vaticani, Cappella Paolina</LDCN>
+      <LDCS etichetta="Precise location">parete sinistra</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15425 , 15426</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\160000\146000\145619.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Conversione di san Paolo"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Conversione di san Paolo - insieme"
+            sercdf="37554"
+            progr="1"
+            misa="174"
+            misl="237">/160000/146000/145619.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145631.jpg"
+            ftat="insieme"
+            sglt="Roma - Palazzo Vaticano, Cappella Paolina. La Caduta di S. Paolo. (Michelangiolo.)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma - Palazzo Vaticano, Cappella Paolina. La Caduta di S. Paolo. (Michelangiolo.) - insieme"
+            sercdf="37555"
+            progr="2"
+            misa="190"
+            misl="243">/160000/146000/145631.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145632.jpg"
+            ftat="insieme"
+            sglt="Roma - Palazzo Vaticano, Cappella Paolina. La Caduta di S. Paolo. (Michelangiolo.)"
+            sgla=""
+            aufn="Alinari, Fratelli"
+            aufb=""
+            note="Alinari, Fratelli , Roma - Palazzo Vaticano, Cappella Paolina. La Caduta di S. Paolo. (Michelangiolo.) - insieme"
+            sercdf="37556"
+            progr="3"
+            misa="191"
+            misl="248">/160000/146000/145632.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145620.jpg"
+            ftat="particolare, parte inferiore"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Conversione di san Paolo"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Conversione di san Paolo - particolare, parte inferiore"
+            sercdf="37557"
+            progr="4"
+            misa="181"
+            misl="242">/160000/146000/145620.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145623.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Conversione di san Paolo"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Buonarroti Michelangelo - sec. XVI - Conversione di san Paolo - particolare"
+            sercdf="37558"
+            progr="5"
+            misa="168"
+            misl="229">/160000/146000/145623.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145621.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - San Paolo"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - San Paolo - particolare"
+            sercdf="37559"
+            progr="6"
+            misa="239"
+            misl="179">/160000/146000/145621.jpg</FOTO>
+			   <FOTO ftan="\160000\146000\145622.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Volto di san Paolo"
+            aufn="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale"
+            aufb=""
+            note="Istituto Centrale per il Catalogo e la Documentazione: Fototeca Nazionale , Buonarroti Michelangelo - sec. XVI - Volto di san Paolo - particolare"
+            sercdf="37560"
+            progr="7"
+            misa="229"
+            misl="171">/160000/146000/145622.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16557</ISSHOWNBY>
+	</SCHEDA>

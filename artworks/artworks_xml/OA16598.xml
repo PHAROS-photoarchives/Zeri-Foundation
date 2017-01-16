@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Buonarroti Michelangelo , Azor con la madre, Zadok"
+        sercdoa="16598">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16598</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15428</NRSCHEDA>
+      <RVEL etichetta="Hierarchical level">34</RVEL>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0393</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Michelangelo 1</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Michelangelo: cappella Sistina 4</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTV etichetta="Identification">elemento d'insieme</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Azor con la madre, Zadok</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Buonarroti Michelangelo</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1511</DTSI>
+      <DTSF etichetta="To">1512</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Città del Vaticano</PVCS>
+      <PVCC etichetta="Town / Municipality">Città del Vaticano</PVCC>
+      <LDCN etichetta="Repository">Palazzi Vaticani, Cappella Sistina</LDCN>
+      <LDCS etichetta="Precise location">lunetta</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">Affreschi di Michelangelo nella volta della Cappella Sistina</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\120000\85600\85336.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Azor con la madre; Zadok"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Azor con la madre; Zadok - insieme"
+            sercdf="37940"
+            progr="1"
+            misa="173"
+            misl="235">/120000/85600/85336.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85309.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Azor con la madre; Zadok"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Azor con la madre; Zadok - particolare"
+            sercdf="37862"
+            progr="2"
+            misa="174"
+            misl="236">/120000/85600/85309.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85272.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Volto di Zadok"
+            aufn="Archivio fotografico dei Musei Vaticani"
+            aufb=""
+            note="Archivio fotografico dei Musei Vaticani , Buonarroti Michelangelo - sec. XVI - Volto di Zadok - particolare"
+            sercdf="37941"
+            progr="3"
+            misa="239"
+            misl="181">/120000/85600/85272.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16598</ISSHOWNBY>
+	</SCHEDA>

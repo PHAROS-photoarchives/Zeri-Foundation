@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Granacci Francesco , Santa Maria Maddalena e santa Caterina d'Alessandria"
+        sercdoa="2741">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">2741</SERCD>
+			   <NRSCHEDA etichetta="Entry number">2807</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0380</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze 6</UBFT>
+         <UBFF etichetta="Folder number">5</UBFF>
+         <UBFU etichetta="Folder heading">Francesco Granacci 2</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">scomparto di predella</OGTD>
+      <OGTV etichetta="Identification">elemento d'insieme</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Santa Maria Maddalena e santa Caterina d'Alessandria</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">26.4</MISA>
+      <MISL etichetta="Length">69</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Granacci Francesco</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana, scuola fiorentina</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XV/ XVI</DTZG>
+      <DTSI etichetta="From">1490</DTSI>
+      <DTSF etichetta="To">1510</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Toscana</PVCR>
+      <PVCP etichetta="District">Firenze</PVCP>
+      <PVCC etichetta="Town / Municipality">Firenze</PVCC>
+      <LDCN etichetta="Repository">Museo Stibbert</LDCN>
+      <LDCS etichetta="Precise location">inv. 11591</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">Predella di Granacci del Museo Stibbert</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+			   <RIPETIZIONE prog="1">
+				     <BIBX etichetta="Type">bibliografia specifica</BIBX>
+         <BIBA etichetta="Author">Berenson B.</BIBA>
+         <BIBG etichetta="Title">Italian Pictures of the Renaissance - Florentine School</BIBG>
+         <BIBD etichetta="Publication date">1963</BIBD>
+         <BIBN etichetta="Page">p. 99</BIBN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <ALLEGATO note="memorandum" id="1272" progr="1">
+				     <FNTI etichetta="Inventory number">F1839</FNTI>
+         <FNTS etichetta="Shelfmark">PI_0380/5/1</FNTS>
+         <FNTP etichetta="Object Type">memorandum</FNTP>
+         <FNTA etichetta="Author">Zeri F.</FNTA>
+         <FNTD etichetta="Date">s.d.</FNTD>
+         <FNTT etichetta="Summary">Nota sul catalogo di Francesco Granacci: Sacra Famiglia di Dublino, stessa composizione un po' variata nel Museo Nazionale di Rio de Janeiro. Sembra di altra mano più debole.</FNTT>
+      </ALLEGATO>
+			   <FOTO ftan="\120000\82800\82545.jpg"
+            ftat="insieme"
+            sglt="Firenze. Museo Stibbert. S. Maddalena e S. Caterina. Predella del Granacci."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Firenze. Museo Stibbert. S. Maddalena e S. Caterina. Predella del Granacci. - insieme"
+            sercdf="80080"
+            progr="1"
+            misa="194"
+            misl="249">/120000/82800/82545.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=2741</ISSHOWNBY>
+	</SCHEDA>

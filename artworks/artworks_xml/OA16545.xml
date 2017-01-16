@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Sacra Famiglia" sercdoa="16545">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16545</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15643</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 2</UBFU>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0339</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Roma. Ligorio, Siciolante, Daniele da Volterra, Tibaldi, Mazzoni, Laureti</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Daniele da Volterra</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Sacra Famiglia</SGTI>
+      <MTC etichetta="Medium or materials">tavola</MTC>
+      <MISU etichetta="Unit of measurement">cm</MISU>
+      <MISA etichetta="Height">163</MISA>
+      <MISL etichetta="Length">140</MISL>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTM>Attribuzione R. Longhi</AUTM>
+         <SCHOLAR-AGREEMENT>R. Longhi</SCHOLAR-AGREEMENT>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+				     <AAT etichetta="Name">Rossi Francesco de'</AAT>
+         <AATP etichetta="Pseudonym">Salviati</AATP>
+         <AATM>Bibliografia</AATM>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AAT etichetta="Name">Del Conte Jacopino</AAT>
+         <AATS etichetta="Connection with artist">(?)</AATS>
+         <AATM>Bibliografia (catalogo museo)</AATM>
+         <BIBLIO-AGREEMENT/>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AAT etichetta="Name">Del Conte Jacopino</AAT>
+         <AATM>Attribuzione B. Berenson</AATM>
+         <SCHOLAR-AGREEMENT/>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1530</DTSI>
+      <DTSF etichetta="To">1540</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Spagna</PVCS>
+      <PVCC etichetta="Town / Municipality">Madrid</PVCC>
+      <LDCN etichetta="Repository">Museo Nacional del Prado</LDCN>
+      <LDCS etichetta="Precise location">inv. 32</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">insieme 15643 , 15644 , 15645 , 15646 , 15647</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+			   <RIPETIZIONE prog="1">
+				     <BIBX etichetta="Type">bibliografia specifica</BIBX>
+         <BIBA etichetta="Author">Zeri F.</BIBA>
+         <BIBG etichetta="Title">Bollettino d'arte. Ministero della Pubblica Istruzione</BIBG>
+         <BIBT etichetta="Title">Intorno a Gerolamo Siciolante</BIBT>
+         <BIBD etichetta="Publication date">1951</BIBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+			   <OSS etichetta="Notes">Le foto che documentano l'opera sono conservate in fascicoli con intestazioni diverse.</OSS>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73600\73201.jpg"
+            ftat="insieme"
+            sglt="Perin del Vaga, &#34;Sacra Famiglia&#34;. Madrid, Museo del Prado"
+            sgla=""
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Perin del Vaga, &amp;#034;Sacra Famiglia&amp;#034;. Madrid, Museo del Prado - insieme"
+            sercdf="37586"
+            progr="1"
+            misa="236"
+            misl="175">/80000/73600/73201.jpg</FOTO>
+			   <FOTO ftan="\80000\74400\74239.jpg"
+            ftat="insieme"
+            sglt="Museo del Prado. att.o al Rosso. Rosso Fiorentino"
+            sgla=""
+            aufn="Portugal"
+            aufb=""
+            note="Portugal , Museo del Prado. att.o al Rosso. Rosso Fiorentino - insieme"
+            sercdf="38821"
+            progr="2"
+            misa="223"
+            misl="175">/80000/74400/74239.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16545</ISSHOWNBY>
+	</SCHEDA>

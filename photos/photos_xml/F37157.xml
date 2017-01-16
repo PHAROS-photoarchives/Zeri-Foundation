@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Alinari, Fratelli , Viterbo - Museo Comunale. La Pietà. (Sebastiano del Piombo.)"
+        sercdf="37157"
+        sercdoa="18813">
+		<PARAGRAFO etichetta="CLASSIFICATION">
+			   <SERCD etichetta="SERCD">37157</SERCD>
+			   <SERCDOA etichetta="SERCDOA">18813</SERCDOA>
+			   <INVN etichetta="Inventory number">92304</INVN>
+      <UBFP etichetta="Collection">Fototeca  Zeri</UBFP>
+      <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+      <UBFN etichetta="Container number">0427</UBFN>
+      <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Venezia 3</UBFT>
+      <UBFF etichetta="Folder number">1</UBFF>
+      <UBFU etichetta="Folder heading">Sebastiano del Piombo: soggetti sacri</UBFU>
+      <UBFC etichetta="Shelfmark">PI_0427/1/13</UBFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="SUBJECT">
+			   <SGTI etichetta="Subject">Pietà</SGTI>
+			   <OGTD etichetta="Object">dipinto</OGTD>
+			   <SGLT etichetta="Proper title">Viterbo - Museo Comunale. La Pietà. (Sebastiano del Piombo.)</SGLT>
+      <SGLS etichetta="Source of title">dell'autore, stampato nell'immagine</SGLS>
+      <FTAT etichetta="Detail / Whole">insieme</FTAT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">positivo</OGTD>
+      <QNTN etichetta="Number of objects">1</QNTN>
+      <OGTB etichetta="Type">m</OGTB>
+      <MTX etichetta="BW/C">BN</MTX>
+			   <MTC etichetta="Medium or materials">gelatina ai sali d'argento/ carta baritata</MTC>
+			   <MISA etichetta="Height">248</MISA>
+			   <MISL etichetta="Length">191</MISL>
+			   <MISU etichetta="Unit of measurement">mm</MISU>
+			   <MISO etichetta="Type of dimensions">supporto primario</MISO>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PHOTOGRAPHER">
+			   <RIPETIZIONE prog="1">
+				     <AUFN etichetta="Photographer">Alinari, Fratelli</AUFN>
+         <AUFI etichetta="Address">Ed.ne Alinari</AUFI>
+         <AUFM etichetta="Reason for attribution">iscrizione</AUFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Luciani Sebastiano</AUTN>
+         <AUTP etichetta="Pseudonym">Sebastiano del Piombo</AUTP>
+         <AUTB etichetta="Cultural context">Scuola italiana, scuola veneta/ scuola romana</AUTB>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">XIX/ XX</DTZG>
+      <DTSI etichetta="From">1876</DTSI>
+      <DTSV etichetta="Degree of approximation">post</DTSV>
+      <DTSF etichetta="To">1930</DTSF>
+      <DTSL etichetta="Degree of approximation">ca.</DTSL>
+      <DTMM etichetta="Reason for dating">bibliografia/ analisi tecnico-formale</DTMM>
+      <DTMS etichetta="Source of dating">Catalogo Alinari "Prima appendice al Catalogo Generale" 1876</DTMS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">
+			   <LRD etichetta="Shot date">1876/ ante</LRD>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			   <ROFI etichetta="Negative number">8060d</ROFI>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+			   <RIPETIZIONE prog="1">
+				     <PDFB etichetta="Publisher (corporate name)">Alinari, Fratelli</PDFB>
+         <PDFI etichetta="Publisher's address">Ed.ne Alinari</PDFI>
+         <PDFR etichetta="Role">editore</PDFR>
+         <PDFM etichetta="Reason for attribution">iscrizione</PDFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="STATE OF PRESERVATION">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR>
+      <PVCP etichetta="District">BO</PVCP>
+      <PVCC etichetta="Town / Municipality">Bologna</PVCC>
+      <LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN>
+      <LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU>
+      <LDCM etichetta="Collection">Fototeca Zeri</LDCM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CODES">
+			   <TSK etichetta="Type of entry">F</TSK>
+      <LIR etichetta="Cataloguing level">I</LIR>
+      <NCTR etichetta="Regional code">08</NCTR>
+      <NCTN etichetta="Id. number">92304</NCTN>
+      <ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OWNERSHIP">
+			   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG>
+      <CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="COPYRIGHT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CATALOGUING">
+			   <CMPD etichetta="Cataloguing date">28/09/2005 0.00.00</CMPD>
+      <CMPN etichetta="Cataloguer">Elisabetta Sambo</CMPN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIGITAL IMAGE">
+			   <RIPETIZIONE prog="1">
+				     <FTAT etichetta="Detail / Whole">insieme</FTAT>
+         <FTAN etichetta="File name">\120000\92400\92304.jpg</FTAN>
+         <FTAX etichetta="Attached / Unattached image">allegata</FTAX>
+         <FTAP etichetta="Type">fotografia digitale</FTAP>
+         <VERSO etichetta="Verso">Pubblico</VERSO>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="UPDATING">
+			   <RIPETIZIONE prog="1">
+				     <AGGD etichetta="">28/09/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AGGD etichetta="">06/10/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AGGD etichetta="">14/06/2007 0.00.00</AGGD>
+         <AGGN etichetta="">Monica Cavicchi</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="4">
+				     <AGGD etichetta="">11/03/2009</AGGD>
+         <AGGN etichetta="">Giulia Alberti</AGGN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="SUPERVISOR">
+			   <FUR etichetta="">Giudici C.</FUR>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO note="Alinari, Fratelli , Viterbo - Museo Comunale. La Pietà. (Sebastiano del Piombo.) - insieme"
+            sercdf="37157"
+            altezza="248"
+            larghezza="191">/120000/92400/92304.jpg</FOTO>
+			   <INTESTAZIONE>Luciani Sebastiano , Pietà</INTESTAZIONE>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=F&amp;id=37157</ISSHOWNBY>
+	</SCHEDA>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Bonaccorsi Pietro , Storie di Amore e Psiche"
+        sercdoa="16447">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16447</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15611</NRSCHEDA>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0334</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Raffaello: Logge, bottega; Perino</UBFT>
+         <UBFF etichetta="Folder number">3</UBFF>
+         <UBFU etichetta="Folder heading">Perin del Vaga, Michele Grechi 1</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Storie di Amore e Psiche</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Bonaccorsi Pietro</AUTN>
+         <AUTP etichetta="Pseudonym">Perin del Vaga</AUTP>
+         <AUTS etichetta="Connection with artist">e aiuti</AUTS>
+         <AUTM>Documentazione</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola romana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTZS etichetta="Part of century">metà</DTZS>
+      <DTSI etichetta="From">1545</DTSI>
+      <DTSF etichetta="To">1546</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Italia</PVCS>
+      <PVCR etichetta="Region / Federal State">Lazio</PVCR>
+      <PVCP etichetta="District">Roma</PVCP>
+      <PVCC etichetta="Town / Municipality">Roma</PVCC>
+      <LDCN etichetta="Repository">Castel Sant'Angelo</LDCN>
+      <LDCS etichetta="Precise location">sala di Amore e Psiche</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\80000\73200\73136.jpg"
+            ftat="particolare"
+            sglt="Roma - Convito dei Dei - Scuola Raffaellesca - Castel S. Angelo"
+            sgla=""
+            aufn="Anderson"
+            aufb=""
+            note="Anderson , Roma - Convito dei Dei - Scuola Raffaellesca - Castel S. Angelo - particolare"
+            sercdf="37414"
+            progr="1"
+            misa="202"
+            misl="259">/80000/73200/73136.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73141.jpg"
+            ftat="particolare"
+            sglt="Roma. Castel S. Angelo. Sala di Amore e Psiche - Affresco di Pierin Del-Vaga"
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma. Castel S. Angelo. Sala di Amore e Psiche - Affresco di Pierin Del-Vaga - particolare"
+            sercdf="37415"
+            progr="2"
+            misa="188"
+            misl="238">/80000/73200/73141.jpg</FOTO>
+			   <FOTO ftan="\80000\73200\73142.jpg"
+            ftat="particolare"
+            sglt="Roma. Castel S. Angelo. Sala di Amore e Psiche - Affresco di Pierin Del-Vaga"
+            sgla=""
+            aufn="Compagnia Rotografica"
+            aufb=""
+            note="Compagnia Rotografica , Roma. Castel S. Angelo. Sala di Amore e Psiche - Affresco di Pierin Del-Vaga - particolare"
+            sercdf="37417"
+            progr="3"
+            misa="192"
+            misl="245">/80000/73200/73142.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16447</ISSHOWNBY>
+	</SCHEDA>

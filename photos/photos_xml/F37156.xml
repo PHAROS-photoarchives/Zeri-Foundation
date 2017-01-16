@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Brogi , La Pazienza; Cecchin Salviati."
+        sercdf="37156"
+        sercdoa="17131">
+		<PARAGRAFO etichetta="CLASSIFICATION">
+			   <SERCD etichetta="SERCD">37156</SERCD>
+			   <SERCDOA etichetta="SERCDOA">17131</SERCDOA>
+			   <INVN etichetta="Inventory number">86562</INVN>
+      <UBFP etichetta="Collection">Fototeca  Zeri</UBFP>
+      <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+      <UBFN etichetta="Container number">0399</UBFN>
+      <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Giorgio Vasari 1</UBFT>
+      <UBFF etichetta="Folder number">2</UBFF>
+      <UBFU etichetta="Folder heading">Giorgio Vasari: tavole profane</UBFU>
+      <UBFC etichetta="Shelfmark">PI_0399/2/2</UBFC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="SUBJECT">
+			   <SGTI etichetta="Subject">Allegoria della Pazienza</SGTI>
+			   <OGTD etichetta="Object">dipinto</OGTD>
+			   <SGLT etichetta="Proper title">La Pazienza; Cecchin Salviati.</SGLT>
+      <SGLS etichetta="Source of title">dell'autore, stampato nell'immagine</SGLS>
+      <FTAT etichetta="Detail / Whole">insieme</FTAT>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">positivo</OGTD>
+      <QNTN etichetta="Number of objects">1</QNTN>
+      <OGTB etichetta="Type">m</OGTB>
+      <MTX etichetta="BW/C">BN</MTX>
+			   <MTC etichetta="Medium or materials">gelatina ai sali d'argento/ carta baritata</MTC>
+			   <MISA etichetta="Height">252</MISA>
+			   <MISL etichetta="Length">193</MISL>
+			   <MISU etichetta="Unit of measurement">mm</MISU>
+			   <MISO etichetta="Type of dimensions">supporto primario</MISO>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PHOTOGRAPHER">
+			   <RIPETIZIONE prog="1">
+				     <AUFN etichetta="Photographer">Brogi</AUFN>
+         <AUFI etichetta="Address">G. Brogi, fotog. edit.</AUFI>
+         <AUFM etichetta="Reason for attribution">iscrizione</AUFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Siciolante Girolamo da Sermoneta</AUTN>
+         <AUTP etichetta="Pseudonym">Sermoneta</AUTP>
+         <AUTB etichetta="Cultural context">Scuola italiana, scuola romana</AUTB>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">XX</DTZG>
+      <DTSI etichetta="From">1900</DTSI>
+      <DTSV etichetta="Degree of approximation">ca.</DTSV>
+      <DTSF etichetta="To">1939</DTSF>
+      <DTSL etichetta="Degree of approximation">ca.</DTSL>
+      <DTMM etichetta="Reason for dating">bibliografia/ analisi tecnico-formale</DTMM>
+      <DTMS etichetta="Source of dating">Catalogo Brogi "Firenze e Toscana" 1932</DTMS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PLACE AND DATE OF THE SHOT">
+			   <LRD etichetta="Shot date">1932/ ante</LRD>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATIONS WITH OTHER PHOTOGRAPHIC OBJECTS (NEGATIVE)">
+			   <ROFI etichetta="Negative number">2921</ROFI>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PRODUCTION AND PUBLISHING">
+			   <RIPETIZIONE prog="1">
+				     <PDFB etichetta="Publisher (corporate name)">Brogi</PDFB>
+         <PDFI etichetta="Publisher's address">G. Brogi, fotog. edit.</PDFI>
+         <PDFR etichetta="Role">editore</PDFR>
+         <PDFM etichetta="Reason for attribution">iscrizione</PDFM>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="STATE OF PRESERVATION">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCR etichetta="Region / Federal State">Emilia-Romagna</PVCR>
+      <PVCP etichetta="District">BO</PVCP>
+      <PVCC etichetta="Town / Municipality">Bologna</PVCC>
+      <LDCN etichetta="Repository">Ex convento di S. Cristina</LDCN>
+      <LDCU etichetta="Address">piazzetta G. Morandi, 2</LDCU>
+      <LDCM etichetta="Collection">Fototeca Zeri</LDCM>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CODES">
+			   <TSK etichetta="Type of entry">F</TSK>
+      <LIR etichetta="Cataloguing level">I</LIR>
+      <NCTR etichetta="Regional code">08</NCTR>
+      <NCTN etichetta="Id. number">86562</NCTN>
+      <ESC etichetta="Cataloguing Institution">Fondazione Federico Zeri - Università di Bologna</ESC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OWNERSHIP">
+			   <CDGG etichetta="General ownership">proprietà Ente pubblico non territoriale</CDGG>
+      <CDGS etichetta="Specific owner">Alma Mater Studiorum Università di Bologna</CDGS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="COPYRIGHT">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="CATALOGUING">
+			   <CMPD etichetta="Cataloguing date">28/07/2005 0.00.00</CMPD>
+      <CMPN etichetta="Cataloguer">Elisabetta Sambo</CMPN>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIGITAL IMAGE">
+			   <RIPETIZIONE prog="1">
+				     <FTAT etichetta="Detail / Whole">insieme</FTAT>
+         <FTAN etichetta="File name">\120000\86800\86562.jpg</FTAN>
+         <FTAX etichetta="Attached / Unattached image">allegata</FTAX>
+         <FTAP etichetta="Type">fotografia digitale</FTAP>
+         <VERSO etichetta="Verso">Pubblico</VERSO>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="UPDATING">
+			   <RIPETIZIONE prog="1">
+				     <AGGD etichetta="">28/07/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="2">
+				     <AGGD etichetta="">14/09/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="3">
+				     <AGGD etichetta="">21/09/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Rossini</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="4">
+				     <AGGD etichetta="">06/10/2005 0.00.00</AGGD>
+         <AGGN etichetta="">Elisabetta Sambo</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="5">
+				     <AGGD etichetta="">26/10/2006 0.00.00</AGGD>
+         <AGGN etichetta="">Chiara Basalti</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="6">
+				     <AGGD etichetta="">27/11/2008</AGGD>
+         <AGGN etichetta="">Marcello Rossini</AGGN>
+      </RIPETIZIONE>
+			   <RIPETIZIONE prog="7">
+				     <AGGD etichetta="">03/02/2009</AGGD>
+         <AGGN etichetta="">Elisa Montecchi</AGGN>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="SUPERVISOR">
+			   <FUR etichetta="">Giudici C.</FUR>
+   </PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO note="Brogi , La Pazienza; Cecchin Salviati. - insieme"
+            sercdf="37156"
+            altezza="252"
+            larghezza="193">/120000/86800/86562.jpg</FOTO>
+			   <INTESTAZIONE>Siciolante Girolamo da Sermoneta , Allegoria della Pazienza</INTESTAZIONE>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=F&amp;id=37156</ISSHOWNBY>
+	</SCHEDA>

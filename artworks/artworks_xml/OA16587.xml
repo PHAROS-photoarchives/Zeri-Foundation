@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SCHEDA intestazione="Buonarroti Michelangelo , Mosè e il serpente di bronzo"
+        sercdoa="16587">
+		<PARAGRAFO etichetta="CODES">
+			   <SERCD etichetta="SERCD">16587</SERCD>
+			   <NRSCHEDA etichetta="Entry number">15428</NRSCHEDA>
+      <RVEL etichetta="Hierarchical level">23</RVEL>
+      <RIPETIZIONE prog="1">
+				     <UBFS etichetta="Archive series">Pittura italiana</UBFS>
+         <UBFN etichetta="Container number">0393</UBFN>
+         <UBFT etichetta="Container heading">Pittura italiana sec. XVI. Firenze. Michelangelo 1</UBFT>
+         <UBFF etichetta="Folder number">4</UBFF>
+         <UBFU etichetta="Folder heading">Michelangelo: cappella Sistina 4</UBFU>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="OBJECT">
+			   <OGTD etichetta="Object">dipinto murale</OGTD>
+      <OGTV etichetta="Identification">elemento d'insieme</OGTV>
+      <OGTT etichetta="Object type">dipinto</OGTT>
+      <SGTI etichetta="Subject">Mosè e il serpente di bronzo</SGTI>
+      <MTC etichetta="Medium or materials">affresco</MTC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="AUTHOR">
+			   <RIPETIZIONE prog="1">
+				     <AUTN etichetta="Artist's name">Buonarroti Michelangelo</AUTN>
+         <AUTM>Bibliografia</AUTM>
+         <ATBD etichetta="Cultural context">Scuola italiana, scuola toscana</ATBD>
+      </RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DIFFERENT ATTRIBUTIONS">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="DATING">
+			   <DTZG etichetta="Century">sec. XVI</DTZG>
+      <DTSI etichetta="From">1511</DTSI>
+      <DTSF etichetta="To">1511</DTSF>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="LOCATION">
+			   <PVCS etichetta="Country">Città del Vaticano</PVCS>
+      <PVCC etichetta="Town / Municipality">Città del Vaticano</PVCC>
+      <LDCN etichetta="Repository">Palazzi Vaticani, Cappella Sistina</LDCN>
+      <LDCS etichetta="Precise location">pennacchio</LDCS>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="PROVENANCE">
+			   <RIPETIZIONE prog="1">
+			</RIPETIZIONE>
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATION TO OTHER OBJECTS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="RELATED ENTRIES">
+			   <RSEC etichetta="Related entries">Affreschi di Michelangelo nella volta della Cappella Sistina</RSEC>
+   </PARAGRAFO>
+		<PARAGRAFO etichetta="ICONCLASS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="BIBLIOGRAPHY">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="EXHIBITIONS">
+		</PARAGRAFO>
+		<PARAGRAFO etichetta="NOTES">
+		</PARAGRAFO>
+		<ALLEGATI etichetta="Attached documents">
+			   <FOTO ftan="\120000\85600\85306.jpg"
+            ftat="insieme"
+            sglt="Roma. Vaticano, Cappella Sistina. Il Castigo dei Serpenti, particolare della volta; Michelangiolo."
+            sgla=""
+            aufn="Brogi"
+            aufb=""
+            note="Brogi , Roma. Vaticano, Cappella Sistina. Il Castigo dei Serpenti, particolare della volta; Michelangiolo. - insieme"
+            sercdf="37850"
+            progr="1"
+            misa="198"
+            misl="250">/120000/85600/85306.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85303.jpg"
+            ftat="insieme"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Mosè e il serpente di bronzo"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Mosè e il serpente di bronzo - insieme"
+            sercdf="37851"
+            progr="2"
+            misa="174"
+            misl="235">/120000/85600/85303.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85302.jpg"
+            ftat="particolare, parte sinistra"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Mosè e il serpente di bronzo"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Mosè e il serpente di bronzo - particolare, parte sinistra"
+            sercdf="37853"
+            progr="3"
+            misa="236"
+            misl="174">/120000/85600/85302.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85305.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Mosè e il serpente di bronzo"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Mosè e il serpente di bronzo - particolare"
+            sercdf="37855"
+            progr="4"
+            misa="174"
+            misl="235">/120000/85600/85305.jpg</FOTO>
+			   <FOTO ftan="\120000\85600\85301.jpg"
+            ftat="particolare"
+            sglt=""
+            sgla="Buonarroti Michelangelo - sec. XVI - Giona"
+            aufn="Anonimo"
+            aufb=""
+            note="Anonimo , Buonarroti Michelangelo - sec. XVI - Giona - particolare"
+            sercdf="37856"
+            progr="5"
+            misa="173"
+            misl="235">/120000/85600/85301.jpg</FOTO>
+		</ALLEGATI>
+		<ISSHOWNBY>
+			   http://www.fondazionezeri.unibo.it/catalogo/scheda.jsp?decorator=layout_S2&amp;apply=true&amp;tipo_scheda=OA&amp;id=16587</ISSHOWNBY>
+	</SCHEDA>
