@@ -4,6 +4,9 @@ The repository contains two directories including respectively 100 XML files, de
 
 N.B. Data will be slightly modified soon, so as to be compliant with [aac mapping rules](https://aac-mappings.herokuapp.com).
 
+# Licenses
+Both data and documentation are distributed under a Creative Commons Attribution License [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+
 # The RDF Dataset
 The RDF dataset published by the Zeri Foundation is available at the [Zeri & LODE project](w3id.org/zericatalog/) web page. Here you'll find several data access points - like a SPARQL endpoint wherein directly [query](data.fondazionezeri.unibo.it/query) the triplestore, or a [RDF Browser](https://w3id.org/zericatalog/collection/zeri-photo-archive) to browse links in a user-friendly way. A dump can be downloaded from [AMSActa](http://amsacta.unibo.it/5157/) institutional repository.
 
